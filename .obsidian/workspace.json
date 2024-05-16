@@ -11,8 +11,11 @@
             "id": "8049f186efee37f6",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "diff-view",
+              "state": {
+                "file": "2024_05_16.md",
+                "staged": false
+              }
             }
           }
         ]
@@ -148,10 +151,10 @@
   },
   "active": "8049f186efee37f6",
   "lastOpenFiles": [
+    "2024_05_16.md",
     "2024-05-16.md",
     "Sans titre.canvas",
     "Quick capture.md",
-    "2024_05_16.md",
     "Quick capture (conflict 2023-11-03-19-01-01).md",
     "Quick capture (conflict 2023-11-20-09-03-38).md",
     "2023-12-27.md",
