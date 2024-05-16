@@ -1,0 +1,10 @@
+- Email: Grand volume, petit intérêt
+- Twitter: Grand volume, petit intérêt
+- Youtube: Grand volume, intérêt moyen
+- Livre: petit volume, grand intérêt
+- Blog/article: volume moyen, grand intérêt
+- Conf/présentation: volume moyen, intérêt moyen
+- Discussions "travail": volume moyen, grand intérêt
+- Conversation banal: grand volume, peu d'intérêt
+- SMS: volume moyen, intérêt moyen
+- Discord école: volume moyen, intérêt moyen
