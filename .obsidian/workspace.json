@@ -4,18 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "9e6a73ddb7857269",
+        "id": "2929de4c76f464a8",
         "type": "tabs",
         "children": [
           {
-            "id": "8049f186efee37f6",
+            "id": "9caa2b69f15774ce",
             "type": "leaf",
             "state": {
-              "type": "diff-view",
-              "state": {
-                "file": "2024_05_16.md",
-                "staged": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -64,11 +61,12 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "70c13890a81f7e1a",
@@ -133,30 +131,33 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Ouvrir le sélecteur rapide": false,
-      "graph:Ouvrir la vue graphique": false,
-      "canvas:Créer une nouvelle toile": false,
-      "daily-notes:Ouvrir la note quotidienne": false,
-      "templates:Insérer le modèle": false,
-      "command-palette:Ouvrir la palette de commandes": false
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
     }
   },
-  "active": "8049f186efee37f6",
+  "active": "9caa2b69f15774ce",
   "lastOpenFiles": [
+    "2024-05-17.md",
+    "Quick capture (conflict 2023-11-20-09-03-38).md",
+    "Quick capture (conflict 2023-11-03-19-01-01).md",
+    "Quick capture.md",
+    "Master-Worker~",
     "2024_05_16.md",
     "2024-05-16.md",
     "Sans titre.canvas",
-    "Quick capture.md",
-    "Quick capture (conflict 2023-11-03-19-01-01).md",
-    "Quick capture (conflict 2023-11-20-09-03-38).md",
     "2023-12-27.md",
     "My Most Important inputs.md",
     "desktop.ini"
