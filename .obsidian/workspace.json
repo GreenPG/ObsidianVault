@@ -13,13 +13,25 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Quick capture.md",
+                "file": "2024_05_16.md",
                 "mode": "source",
                 "source": false
               }
             }
+          },
+          {
+            "id": "a284c877d0a61632",
+            "type": "leaf",
+            "state": {
+              "type": "diff-view",
+              "state": {
+                "file": "2024_05_16.md",
+                "staged": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +97,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Quick capture.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +113,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Quick capture.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +134,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Quick capture.md"
-              }
+              "state": {}
             }
           },
           {
@@ -154,14 +162,18 @@
       "command-palette:Ouvrir la palette de commandes": false
     }
   },
-  "active": "8049f186efee37f6",
+  "active": "a284c877d0a61632",
   "lastOpenFiles": [
+    "Master-Worker.md",
+    "conflict-files-obsidian-git.md",
     "2024_05_16.md",
-    "2024-05-16.md",
-    "Sans titre.canvas",
-    "Quick capture.md",
     "Quick capture (conflict 2023-11-03-19-01-01).md",
     "Quick capture (conflict 2023-11-20-09-03-38).md",
+    "Quick capture.md",
+    "2024-05-17.md",
+    "Async IO",
+    "2024-05-16.md",
+    "Sans titre.canvas",
     "2023-12-27.md",
     "My Most Important inputs.md",
     "desktop.ini"
