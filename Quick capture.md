@@ -41,3 +41,4 @@
 - Securisation des frames html :
 	- https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/X-Frame-Options
 	- https://blog.mozilla.org/security/2013/12/12/on-the-x-frame-options-security-header/
+Jdjdjd
