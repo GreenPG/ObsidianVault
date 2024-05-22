@@ -26,7 +26,7 @@
               "type": "markdown",
               "state": {
                 "file": "2024-05-22.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               }
             }
@@ -146,8 +146,9 @@
   },
   "active": "65da94435b6292cd",
   "lastOpenFiles": [
-    "Untitled.md",
+    "2024_05_16.md",
     "2024-05-22.md",
+    "Untitled.md",
     "Quick capture.md",
     "Quick capture (conflict 2023-10-25-14-28-49).md",
     "My Most Important inputs.md",
