@@ -18,17 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "914055d7e4bb43e9",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -94,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "2024-05-22.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "2024-05-22.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -131,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "2024-05-22.md"
+              }
             }
           },
           {
@@ -158,21 +153,21 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "904b89042b71845c",
+  "active": "4ad43fcb08fce886",
   "lastOpenFiles": [
+    "2024_05_16.md",
+    "Quick capture (conflict 2023-11-20-09-03-38).md",
+    "Untitled.md",
+    "2024-05-22.md",
     "Async IO.md~",
     "Async IO.md",
     "Pythons typing cheat sheet.md",
     "Master-Worker.md",
     "My Most Important inputs.md",
-    "2024-05-22.md",
-    "Untitled.md",
     "Untitled.canvas",
     "Quick capture.md",
-    "2024_05_16.md",
     "2024-05-17.md",
     "Async IO",
-    "Quick capture (conflict 2023-11-20-09-03-38).md",
     "Quick capture (conflict 2023-11-03-19-01-01).md",
     "Master-Worker~",
     "2024-05-16.md",
