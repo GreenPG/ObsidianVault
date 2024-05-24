@@ -142,8 +142,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -159,8 +158,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d6fa62fefc4d58d3",
+  "active": "904b89042b71845c",
   "lastOpenFiles": [
+    "Async IO.md~",
+    "Async IO.md",
     "Pythons typing cheat sheet.md",
     "Master-Worker.md",
     "My Most Important inputs.md",
