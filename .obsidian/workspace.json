@@ -23,12 +23,8 @@
             "id": "914055d7e4bb43e9",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Pythons typing cheat sheet.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ],
@@ -98,7 +94,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Pythons typing cheat sheet.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +110,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Pythons typing cheat sheet.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,9 +131,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Pythons typing cheat sheet.md"
-              }
+              "state": {}
             }
           },
           {
@@ -167,20 +159,20 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "914055d7e4bb43e9",
+  "active": "d6fa62fefc4d58d3",
   "lastOpenFiles": [
-    "2024-05-22.md",
     "Pythons typing cheat sheet.md",
+    "Master-Worker.md",
+    "My Most Important inputs.md",
+    "2024-05-22.md",
     "Untitled.md",
     "Untitled.canvas",
     "Quick capture.md",
     "2024_05_16.md",
-    "Master-Worker.md",
     "2024-05-17.md",
     "Async IO",
     "Quick capture (conflict 2023-11-20-09-03-38).md",
     "Quick capture (conflict 2023-11-03-19-01-01).md",
-    "My Most Important inputs.md",
     "Master-Worker~",
     "2024-05-16.md",
     "Sans titre.canvas",

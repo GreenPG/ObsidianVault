@@ -1,3 +1,5 @@
+tags: #Dev #DesignPattern
+
 Décomposition d’une tâche complexe en sous-tâche.
 Deux composants primaires : le maître et les travailleurs. Le maître agit comme un coordinateur central, responsable de la distribution des tâches, de leur management et de l'agrégation des résultats. Les travailleurs sont eux responsables de l’exécution des sous tâches.
 

@@ -1,5 +1,7 @@
 
-## Built-in types:
+source: https://mypy.readthedocs.io/en/latest/cheat_sheet_py3.html
+tag:  #Dev #Python #mypy
+# Built-in types:
 
 For most types, just use the name of the type in the annotation
 Note that mypy can usually infer the type of a variable from its value,
