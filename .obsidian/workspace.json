@@ -18,8 +18,20 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "b8c8745c5b2d220c",
+            "type": "leaf",
+            "state": {
+              "type": "diff-view",
+              "state": {
+                "file": ".obsidian/graph.json",
+                "staged": true
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +97,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024_05_16.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +113,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024_05_16.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +134,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "2024_05_16.md"
-              }
+              "state": {}
             }
           },
           {
@@ -154,11 +162,14 @@
       "command-palette:Ouvrir la palette de commandes": false
     }
   },
-  "active": "8049f186efee37f6",
+  "active": "b8c8745c5b2d220c",
   "lastOpenFiles": [
-    "Master-Worker.md",
     "conflict-files-obsidian-git.md",
     "2024_05_16.md",
+    "Pythons typing cheat sheet.md",
+    "Async IO.md",
+    "2024-05-22.md",
+    "Master-Worker.md",
     "Quick capture (conflict 2023-11-03-19-01-01).md",
     "Quick capture (conflict 2023-11-20-09-03-38).md",
     "Quick capture.md",
