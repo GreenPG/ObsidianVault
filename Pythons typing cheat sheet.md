@@ -188,3 +188,67 @@ a = A()
 a.foo = 42  # Works
 a.bar = 'Ex-parrot'  # Fails type checking
 ```
+
+
+## Decorators
+
+```
+from typing import Callable, TypeVar
+from typing_extensions import ParamSpec
+
+P = ParamSpec('P')
+T = TypeVar('T')
+
+def printing_decorator(func: Callable[P, T]) -> Callable[P, T]:
+    def wrapper(*args: P.args, **kwds: P.kwargs) -> T:
+        print("Calling", func)
+        return func(*args, **kwds)
+    return wrapper
+```
+
+Altering signature of the inout functions :
+```
+from typing import Callable, TypeVar
+from typing_extensions import ParamSpec
+
+P = ParamSpec('P')
+T = TypeVar('T')
+
+ # We reuse 'P' in the return type, but replace 'T' with 'str'
+def stringify(func: Callable[P, T]) -> Callable[P, str]:
+    def wrapper(*args: P.args, **kwds: P.kwargs) -> str:
+        return str(func(*args, **kwds))
+    return wrapper
+
+ @stringify
+ def add_forty_two(value: int) -> int:
+     return value + 42
+
+ a = add_forty_two(3)
+ reveal_type(a)      # Revealed type is "builtins.str"
+ add_forty_two('x')  # error: Argument 1 to "add_forty_two" has incompatible type "str"; expected "int"
+ ```
+
+Inserting argument:
+
+```
+from typing import Callable, TypeVar
+from typing_extensions import Concatenate, ParamSpec
+
+P = ParamSpec('P')
+T = TypeVar('T')
+
+def printing_decorator(func: Callable[P, T]) -> Callable[Concatenate[str, P], T]:
+    def wrapper(msg: str, /, *args: P.args, **kwds: P.kwargs) -> T:
+        print("Calling", func, "with", msg)
+        return func(*args, **kwds)
+    return wrapper
+
+@printing_decorator
+def add_forty_two(value: int) -> int:
+    return value + 42
+
+a = add_forty_two('three', 3)
+```
+
+
