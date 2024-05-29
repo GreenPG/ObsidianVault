@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024-05-22.md",
+                "file": "Pythons typing cheat sheet.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,11 +85,11 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024-05-22.md",
+                "file": "Pythons typing cheat sheet.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
-                "showSearch": false,
+                "showSearch": true,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024-05-22.md",
+                "file": "Pythons typing cheat sheet.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024-05-22.md"
+                "file": "Pythons typing cheat sheet.md"
               }
             }
           },
@@ -141,7 +141,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -153,8 +154,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "aa63f27b35eaff81",
+  "active": "6b5438d487bc1fc3",
   "lastOpenFiles": [
+    "2024-05-22.md",
     "FreeRTOS.md",
     "My Most Important inputs.md",
     "Master-Worker.md",
@@ -163,7 +165,6 @@
     "Quick capture (conflict 2023-11-20-09-03-38).md",
     "Pythons typing cheat sheet.md",
     "2024_05_16.md",
-    "2024-05-22.md",
     "Pythons typing cheat sheet.md~",
     "Untitled.md",
     "Async IO.md~",
