@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "6552f1c93f8fe098",
+        "id": "126dc59fc6f65083",
         "type": "tabs",
         "children": [
           {
-            "id": "4ad43fcb08fce886",
+            "id": "aa63f27b35eaff81",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Pythons typing cheat sheet.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Pythons typing cheat sheet.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Pythons typing cheat sheet.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Pythons typing cheat sheet.md"
+              }
             }
           },
           {
@@ -129,8 +137,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -146,17 +153,23 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4ad43fcb08fce886",
+  "active": "6b5438d487bc1fc3",
   "lastOpenFiles": [
+    "Quick capture (conflict 2023-11-03-19-01-01).md",
+    "Quick capture (conflict 2023-11-20-09-03-38).md",
+    "Pythons typing cheat sheet.md",
+    "Pythons typing cheat sheet.md~",
+    "Master-Worker.md",
+    "2024-05-22.md",
+    "2024_05_16.md",
+    "Untitled.md",
+    "Async IO.md~",
+    "Async IO.md",
+    "My Most Important inputs.md",
     "Untitled.canvas",
     "Quick capture.md",
-    "2024_05_16.md",
-    "Master-Worker.md",
     "2024-05-17.md",
     "Async IO",
-    "Quick capture (conflict 2023-11-20-09-03-38).md",
-    "Quick capture (conflict 2023-11-03-19-01-01).md",
-    "My Most Important inputs.md",
     "Master-Worker~",
     "2024-05-16.md",
     "Sans titre.canvas",

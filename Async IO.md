@@ -1,6 +1,9 @@
 Async IO 
 
-Source: https://realpython.com/async-io-python/
+
+tags: #Dev #Python
+
+Source: https://realpython.com/async-io-python/w
 
 
 C'est un desing mono-thread, mono-process qui utilise le multitasking coopératif. Il donne une sensation de concurrence mais en s'exextant en 1 seul thread dans 1 seul process.
