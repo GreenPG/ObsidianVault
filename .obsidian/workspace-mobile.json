@@ -25,8 +25,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024-05-22.md",
-                "mode": "preview",
+                "file": "FreeRTOS.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -98,7 +98,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "2024-05-22.md",
+            "file": "FreeRTOS.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "2024-05-22.md",
+            "file": "FreeRTOS.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -127,7 +127,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "2024-05-22.md"
+            "file": "FreeRTOS.md"
           }
         }
       }
@@ -146,8 +146,9 @@
   },
   "active": "65da94435b6292cd",
   "lastOpenFiles": [
-    "2024_05_16.md",
     "2024-05-22.md",
+    "FreeRTOS.md",
+    "2024_05_16.md",
     "Untitled.md",
     "Quick capture.md",
     "Quick capture (conflict 2023-10-25-14-28-49).md",
