@@ -1,3 +1,6 @@
+
+tags: #FreeRTOS #Dev #Firmware
+
 OS simplifié pour embarqué (entre vrai os et baremetal)
 
 
