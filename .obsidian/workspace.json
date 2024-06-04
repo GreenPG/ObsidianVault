@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Pythons typing cheat sheet.md",
+                "file": "Master-Worker.md",
                 "mode": "source",
                 "source": false
               }
@@ -31,8 +31,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sphinx.md",
+                "file": "Master-Worker.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sphinx.md",
+                "file": "Master-Worker.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sphinx.md"
+                "file": "Master-Worker.md"
               }
             }
           },
@@ -167,11 +166,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c1495638cb0395ba",
+  "active": "aa63f27b35eaff81",
   "lastOpenFiles": [
-    "Sphinx.md~",
     "Pythons typing cheat sheet.md",
     "Sphinx.md",
+    "Sphinx.md~",
     "Async IO.md",
     "FreeRTOS.md",
     "Master-Worker.md",
