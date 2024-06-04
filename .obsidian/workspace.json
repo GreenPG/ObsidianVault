@@ -13,7 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Master-Worker.md",
+                "file": "Async IO.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "74e71fe7ba30b16c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "bobo.md",
                 "mode": "source",
                 "source": false
               }
@@ -31,7 +43,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -97,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Master-Worker.md",
+                "file": "bobo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Master-Worker.md",
+                "file": "bobo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Master-Worker.md"
+                "file": "bobo.md"
               }
             }
           },
@@ -166,14 +179,30 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "aa63f27b35eaff81",
+  "active": "74e71fe7ba30b16c",
   "lastOpenFiles": [
+    "bobo.md",
+    "Templates/Daily Template.md~",
+    "cdsq.md",
+    "dsqds.md",
+    "fdsf.md",
+    "Async IO.md",
+    "2024-06-04.md",
+    "Templates/Daily Template.md",
+    "Templates/NewNote.md",
+    "Templates/DailyNote.md",
+    "Templates/DailyNote.md~",
+    "Master-Worker.md",
+    "{{date}}.md",
+    "Templates/NewNote.md~",
+    "dqdsq.md",
+    "Bonjour.md",
+    "Templates/DaylyNote.md",
+    "Templates",
     "Pythons typing cheat sheet.md",
     "Sphinx.md",
     "Sphinx.md~",
-    "Async IO.md",
     "FreeRTOS.md",
-    "Master-Worker.md",
     "My Most Important inputs.md",
     "2024-05-22.md",
     "Quick capture (conflict 2023-11-03-19-01-01).md",
@@ -188,7 +217,6 @@
     "Master-Worker~",
     "2024-05-16.md",
     "Sans titre.canvas",
-    "2023-12-27.md",
     "desktop.ini"
   ]
 }
