@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Pythons typing cheat sheet.md",
+                "file": "Yaml Schema Python libraries.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Yam",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,8 +65,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Pythons typing cheat sheet.md",
+                "file": "Yaml Schema Python libraries.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Pythons typing cheat sheet.md",
+                "file": "Yaml Schema Python libraries.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Pythons typing cheat sheet.md"
+                "file": "Yaml Schema Python libraries.md"
               }
             }
           },
@@ -155,8 +154,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "74453975674bd71e",
+  "active": "aa63f27b35eaff81",
   "lastOpenFiles": [
+    "Yaml Schema Python libraries.md~",
+    "Pythons typing cheat sheet.md",
+    "Yaml Schema Python libraries.md",
     "Async IO.md",
     "Sphinx.md",
     "Yaml Schema Python libraries\n",
@@ -177,7 +179,6 @@
     "Bonjour.md",
     "Templates/DaylyNote.md",
     "Templates",
-    "Pythons typing cheat sheet.md",
     "Sphinx.md~",
     "FreeRTOS.md",
     "My Most Important inputs.md",
@@ -191,8 +192,6 @@
     "Untitled.canvas",
     "2024-05-17.md",
     "Async IO",
-    "Master-Worker~",
-    "2024-05-16.md",
     "Sans titre.canvas"
   ]
 }
