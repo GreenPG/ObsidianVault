@@ -13,19 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Async IO.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c1495638cb0395ba",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sphinx.md",
+                "file": "Pythons typing cheat sheet.md",
                 "mode": "source",
                 "source": false
               }
@@ -60,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "Yam",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -77,7 +65,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -97,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Async IO.md",
+                "file": "Pythons typing cheat sheet.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Async IO.md",
+                "file": "Pythons typing cheat sheet.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Async IO.md"
+                "file": "Pythons typing cheat sheet.md"
               }
             }
           },
@@ -166,14 +155,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "904b89042b71845c",
+  "active": "74453975674bd71e",
   "lastOpenFiles": [
+    "Async IO.md",
+    "Sphinx.md",
+    "Yaml Schema Python libraries\n",
     "bobo.md",
     "Templates/Daily Template.md~",
     "cdsq.md",
     "dsqds.md",
     "fdsf.md",
-    "Async IO.md",
     "2024-06-04.md",
     "Templates/Daily Template.md",
     "Templates/NewNote.md",
@@ -187,7 +178,6 @@
     "Templates/DaylyNote.md",
     "Templates",
     "Pythons typing cheat sheet.md",
-    "Sphinx.md",
     "Sphinx.md~",
     "FreeRTOS.md",
     "My Most Important inputs.md",
@@ -203,7 +193,6 @@
     "Async IO",
     "Master-Worker~",
     "2024-05-16.md",
-    "Sans titre.canvas",
-    "desktop.ini"
+    "Sans titre.canvas"
   ]
 }
