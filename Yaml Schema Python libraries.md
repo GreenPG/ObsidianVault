@@ -11,6 +11,8 @@ Compare differents Python libraries to validate YAML Schema (structure of the fi
 ### Schema
 
 
+### Pydantic
+
 ### Yamale
 
 
