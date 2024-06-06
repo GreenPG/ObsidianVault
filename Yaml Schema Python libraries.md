@@ -31,3 +31,5 @@ Could still be useful to generate yaml. lg
 
 
 ### Cerberus
+Possibilities comparable to Schema, but seems less readable.
+Must too be used after yaml parsing.
