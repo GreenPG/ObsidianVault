@@ -9,6 +9,10 @@ Compare differents Python libraries to validate YAML Schema (structure of the fi
 
 
 ### Schema
+Library to validate Python data structure converted from JSON or Yaml. 
+Pretty simple to use.
+Schema() class that take as arguments the structure of the intended data input, written like you write Python data class using types.
+Possibility to use persona class, but used after the data as been converted from Yaml to Python, so the parser should have seen an error before.
 
 
 ### Pydantic
