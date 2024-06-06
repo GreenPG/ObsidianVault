@@ -24,7 +24,12 @@ only to dump to yaml. So not really adapted for the project.
 Could still be useful to generate yaml. lg
 
 ### Yamale
+Validate and convert yaml to python.
+Possibility to chose between PyYaml or ruamel as parser.
 
+Schema based on Yaml file or 'stringified yaml'.
+Possibility to create custom validator, but is bit complicated for complex class.
+Cannot validate custom classes, by using ruamel to parse it for example.
 
 
 ### Yatiml
