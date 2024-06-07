@@ -36,7 +36,7 @@ correspond to specified schema.
 
 Have a pydantic-yaml plugin to hand Yaml that is based on ruamel.yamel. But it don't specify personal yaml loader to parse yaml file,  so there's no possibility to convert the yaml directly in custom Python class.
 only to dump to yaml. So not really adapted for the project.
-Could still be useful to generate yaml. lg
+Could still be useful to generate yaml. 
 
 ### Yatiml:
 Library that can validate yaml data after loading it or before dumping it.
