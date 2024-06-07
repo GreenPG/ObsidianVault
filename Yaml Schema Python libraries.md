@@ -16,6 +16,19 @@ Possibility to use personal class, but used after the data as been converted fro
 Possibility to use regex or custom checking function.
 
 
+### Cerberus
+Possibilities comparable to Schema, but seems less readable.
+Must too be used after yaml parsing.
+
+### Yamale
+Validate and convert yaml to python.
+Possibility to chose between PyYaml or ruamel as parser.
+
+Schema based on Yaml file or 'stringified yaml'. Have schema written in plain Yaml could be practical for config file author.
+Possibility to create custom validator, but is bit complicated for complex class.
+Cannot validate custom classes, by using ruamel to parse it for example.
+
+
 ### Pydantic
 Data validation library, where validation means: instantiate a model that adhere to specified types and constraint, not only verify that the data
 correspond to specified schema.
@@ -24,20 +37,7 @@ Have a pydantic-yaml plugin to hand Yaml that is based on ruamel.yamel. But it d
 only to dump to yaml. So not really adapted for the project.
 Could still be useful to generate yaml. lg
 
-### Yamale
-Validate and convert yaml to python.
-Possibility to chose between PyYaml or ruamel as parser.
-
-Schema based on Yaml file or 'stringified yaml'.
-Possibility to create custom validator, but is bit complicated for complex class.
-Cannot validate custom classes, by using ruamel to parse it for example.
-
-
 ### Yatiml:
 Library that can validate yaml data after loading it or before dumping it.
 Specificity is that it based is validation on python class and convert it directly to it.
 Also a possibility to precise string with custom rule.
-
-### Cerberus
-Possibilities comparable to Schema, but seems less readable.
-Must too be used after yaml parsing.
