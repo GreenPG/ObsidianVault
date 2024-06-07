@@ -33,7 +33,9 @@ Cannot validate custom classes, by using ruamel to parse it for example.
 
 
 ### Yatiml
-
+Library that can validate yaml data after loading it or before dumping it.
+Specificity is that it based is validation on python class and convert it directly to it.
+Also a possibility to precise string with custom rule.
 
 ### Cerberus
 Possibilities comparable to Schema, but seems less readable.
