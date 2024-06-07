@@ -19,7 +19,7 @@ Possibility to use persona class, but used after the data as been converted from
 Data validation library, where validation means: instantiate a model that adhere to specified types and constraint, not only verify that the data
 correspond to specified schema.
 
-Have a pydantic-yaml plugin to hand Yaml that is based on ruamel.yamel. But it don't specify personal yaml loader to parse yaml file, 
+Have a pydantic-yaml plugin to hand Yaml that is based on ruamel.yamel. But it don't specify personal yaml loader to parse yaml file,  so there's no possibility to convert the yaml directly in custom Python class.
 only to dump to yaml. So not really adapted for the project.
 Could still be useful to generate yaml. lg
 
