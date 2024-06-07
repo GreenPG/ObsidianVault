@@ -19,6 +19,7 @@ Possibility to use regex or custom checking function.
 ### Cerberus
 Possibilities comparable to Schema, but seems less readable.
 Must too be used after yaml parsing.
+Dont raise exception at first validation error, but always process the entire document and return False if the validation failed.
 
 ### Yamale
 Validate and convert yaml to python.
