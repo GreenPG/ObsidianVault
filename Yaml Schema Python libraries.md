@@ -13,6 +13,7 @@ Library to validate Python data structure converted from JSON or Yaml.
 Pretty simple to use.
 Schema() class that take as arguments the structure of the intended data input, written like you write Python data class using types.
 Possibility to use personal class, but used after the data as been converted from Yaml to Python, so the parser should have seen an error before.
+Possibility to use regex or custom checking function.
 
 
 ### Pydantic
@@ -32,7 +33,7 @@ Possibility to create custom validator, but is bit complicated for complex class
 Cannot validate custom classes, by using ruamel to parse it for example.
 
 
-### Yatiml
+### Yatiml:
 Library that can validate yaml data after loading it or before dumping it.
 Specificity is that it based is validation on python class and convert it directly to it.
 Also a possibility to precise string with custom rule.
