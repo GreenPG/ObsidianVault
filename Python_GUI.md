@@ -31,7 +31,7 @@ Widgets emits signals to inform that something happens.
 The receiver of signals are called slots. It can be any function by connecting it to the signal. Many widgets have their own builtins slots
 which can be override.
 User interaction with the app is an event represented by event object which package up info about what happened.
-Events are passed to specifi evnet handlers on the widget the interaction occured. It is possible to define custom handlers or
+Events are passed to specifi event handlers on the widget the interaction occured. It is possible to define custom handlers or
 extand existing handlers. 
 If you create an object inherited of a standard widget to intercept an event, you can still trigger the standard event handler
 by using super() inside your overriding method.
