@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Yaml Schema Python libraries.md",
+                "file": "Python_GUI.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Yaml Schema Python libraries.md",
+                "file": "Python_GUI.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Yaml Schema Python libraries.md",
+                "file": "Python_GUI.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Yaml Schema Python libraries.md"
+                "file": "Python_GUI.md"
               }
             }
           },
@@ -156,12 +156,12 @@
   },
   "active": "aa63f27b35eaff81",
   "lastOpenFiles": [
-    "Python_GUI.md",
     "Python_GUI.md~",
+    "Yaml Schema Python libraries.md",
+    "Python_GUI.md",
     "Pythons typing cheat sheet.md",
     "FreeRTOS.md",
     "Sphinx.md",
-    "Yaml Schema Python libraries.md",
     "Python_GUI",
     "Python",
     "Yaml Schema Python libraries.md~",
