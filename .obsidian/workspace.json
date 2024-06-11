@@ -18,8 +18,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "93b2db62565f6ebe",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.6.3"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -154,7 +165,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "aa63f27b35eaff81",
+  "active": "93b2db62565f6ebe",
   "lastOpenFiles": [
     "Pythons typing cheat sheet.md",
     "Sphinx.md",
