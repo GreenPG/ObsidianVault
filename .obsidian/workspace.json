@@ -18,21 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "c9cf5fa90b167a17",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Python_GUI.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Python_GUI.md",
+                "file": "Yaml Schema Python libraries.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Python_GUI.md",
+                "file": "Yaml Schema Python libraries.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Python_GUI.md"
+                "file": "Yaml Schema Python libraries.md"
               }
             }
           },
@@ -167,16 +154,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c9cf5fa90b167a17",
+  "active": "aa63f27b35eaff81",
   "lastOpenFiles": [
+    "Python_GUI.md",
     "Python_GUI.md~",
+    "Pythons typing cheat sheet.md",
+    "FreeRTOS.md",
+    "Sphinx.md",
     "Yaml Schema Python libraries.md",
-    "Python_GUI.md",
-    "Python_GUI.md",
     "Python_GUI",
     "Python",
-    "Pythons typing cheat sheet.md",
-    "Sphinx.md",
     "Yaml Schema Python libraries.md~",
     "Async IO.md",
     "Yaml Schema Python libraries\n",
@@ -198,13 +185,11 @@
     "Templates/DaylyNote.md",
     "Templates",
     "Sphinx.md~",
-    "FreeRTOS.md",
     "My Most Important inputs.md",
     "2024-05-22.md",
     "Quick capture (conflict 2023-11-03-19-01-01).md",
     "Quick capture.md",
     "Quick capture (conflict 2023-11-20-09-03-38).md",
-    "Pythons typing cheat sheet.md~",
     "Untitled.canvas",
     "Sans titre.canvas"
   ]
