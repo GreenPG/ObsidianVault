@@ -45,6 +45,22 @@ class MainWindow(QMainWindow):
 ```
 
 Events are passed to the uppermost widget of the UI. If this widget can't handle the event (or choose not to) the event is then
-passed to the parent, all the way up until reaching the main window. An event can be mark as handled by calling the ```accept()``` 
-method, or mark it as unhandled by calling ```ignore()```.
+passed to the parent, all the way up until reaching the main window. An event can be mark as handled by calling the ```accept()``` method, or mark it as unhandled by calling ```ignore()```.
+
+
+### Multithread application
+
+Qt provides an interface for mutlithreading which is exposed by PySide. It's built around 2 classes: QRunnable, the container of
+the work, and QThreadPool, the method which pass the work to alternate threads.
+
+To define a custom runnable, you create a subclass of QRunnable and place you want to execute in the ```run()``` method.
+```
+from PySide6.QtCore import QRunnable, Slot, QThreadPool
+
+class Worker(QRunnable):
+
+    @Slot()
+    def run(self):
+        Your code...
+```
 
