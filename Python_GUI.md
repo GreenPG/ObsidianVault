@@ -184,3 +184,43 @@ class Worker(QRunnable):
         self.threadpool.start(worker)
 
 ```
+
+
+### QtDesigner
+
+A software that provide an interface do design a Qt GUI by drag and drop. Each widget UI is defined in a .ui file.
+You can then import it with PySide either by directly loading it from .ui file:
+```
+from PySide6 import QtCore, QtGui, QtWidget
+from PySide6.QtUiTools import QUiLoader
+
+loader = QUiLoader()
+
+#Function that allow to apply modification to the loaded widget
+def mainwindow_setup(w):
+    w.setWindowTitle("Main Window")
+
+app = QtWidget.QApplication(sys.argv)
+
+window = loader.load("mainwindow.ui", None) # The second argument is the parent of the widget
+mainwindow_setup(window)
+window.show()
+app.exec()
+```
+Or by convert it to Python and then import it to your app. You can convert by using the CLI command pyside6-uic:
+```pyside6-uic mainwindow.ui -o MainWindow.py```
+And then import it like this:
+```
+from MainWindow import Ui_MainWindow
+
+class MainWindow(QtWidgets.QMainWindow, Ui_MainWindow):
+    def __init__(self):
+        super(MainWindow, self).__init__()
+        self.setupUi(self)
+
+app = QtWidgets.QApplication(sys.argv)
+
+window = MainWindow()
+window.show()
+app.exec()
+```
