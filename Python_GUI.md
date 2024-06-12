@@ -63,4 +63,9 @@ class Worker(QRunnable):
     def run(self):
         Your code...
 ```
-
+To execute this runnable in another thread, you have to create an instance of QThreadPool and pass your runnable to it.
+```
+threadpool = QThreadPool()
+worker = Worker()
+threadpool.start(worker)
+```
