@@ -11,12 +11,8 @@
             "id": "ab749d104c6f8bf4",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Python_GUI.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Python_GUI.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Python_GUI.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Python_GUI.md"
-              }
+              "state": {}
             }
           },
           {
@@ -156,8 +148,10 @@
   },
   "active": "ab749d104c6f8bf4",
   "lastOpenFiles": [
-    "Python_GUI.md~",
     "Python_GUI.md",
+    "PySide.md",
+    "PySide.md~",
+    "Python_GUI.md~",
     "Yaml Schema Python libraries.md",
     "Pythons typing cheat sheet.md",
     "FreeRTOS.md",
@@ -184,7 +178,6 @@
     "Bonjour.md",
     "Templates/DaylyNote.md",
     "Templates",
-    "Sphinx.md~",
     "My Most Important inputs.md",
     "2024-05-22.md",
     "Quick capture (conflict 2023-11-03-19-01-01).md",
