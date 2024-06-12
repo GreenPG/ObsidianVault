@@ -69,3 +69,25 @@ threadpool = QThreadPool()
 worker = Worker()
 threadpool.start(worker)
 ```
+You can pass arguments to your runner via the init method. It even give the possibility to pass the function to execute and
+then creating a generic runner who can execute any function.
+```
+class Worker(QRunnable):
+    '''
+    :param callback: The function to run on this worker thread.
+    :type callback: function
+    :param args: Arguments to pass to the callback function
+    :param kwargs: Keywords to pass to the callback function
+    '''
+
+    def __init__(self, callback, *args, **kwargs):
+        super(Worker, self).__init__()
+
+        self.callback = callback
+        self.args = args
+        self.kwargs = kwargs
+
+    @Slot()
+    def run(self):
+        self.fn(*self.args, **self.kwargs)
+```
