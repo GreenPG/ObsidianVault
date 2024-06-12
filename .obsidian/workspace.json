@@ -11,12 +11,8 @@
             "id": "aa63f27b35eaff81",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Python_GUI.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Python_GUI.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Python_GUI.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Python_GUI.md"
-              }
+              "state": {}
             }
           },
           {
@@ -156,9 +148,9 @@
   },
   "active": "aa63f27b35eaff81",
   "lastOpenFiles": [
+    "Python_GUI.md",
     "Python_GUI.md~",
     "Yaml Schema Python libraries.md",
-    "Python_GUI.md",
     "Pythons typing cheat sheet.md",
     "FreeRTOS.md",
     "Sphinx.md",
