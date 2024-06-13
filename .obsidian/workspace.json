@@ -11,8 +11,12 @@
             "id": "ab749d104c6f8bf4",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "SIRET proprio.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "SIRET proprio.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "SIRET proprio.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "SIRET proprio.md"
+              }
             }
           },
           {
@@ -148,6 +156,7 @@
   },
   "active": "ab749d104c6f8bf4",
   "lastOpenFiles": [
+    "SIRET proprio.md",
     "Python_GUI.md",
     "PySide.md",
     "PySide.md~",
