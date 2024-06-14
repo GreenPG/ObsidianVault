@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SIRET proprio.md",
+                "file": "TKinter.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SIRET proprio.md",
+                "file": "TKinter.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SIRET proprio.md",
+                "file": "TKinter.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SIRET proprio.md"
+                "file": "TKinter.md"
               }
             }
           },
@@ -156,7 +156,9 @@
   },
   "active": "ab749d104c6f8bf4",
   "lastOpenFiles": [
+    "TKinter.md~",
     "SIRET proprio.md",
+    "TKinter.md",
     "Python_GUI.md",
     "PySide.md",
     "PySide.md~",
@@ -190,8 +192,6 @@
     "My Most Important inputs.md",
     "2024-05-22.md",
     "Quick capture (conflict 2023-11-03-19-01-01).md",
-    "Quick capture.md",
-    "Quick capture (conflict 2023-11-20-09-03-38).md",
     "Untitled.canvas",
     "Sans titre.canvas"
   ]

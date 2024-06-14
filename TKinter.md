@@ -1,0 +1,10 @@
+---
+Title: TKinter
+Date: 2024-06-14
+tags:
+  - Dev
+  - GUI
+  - Python
+---
+
+# TKinter 
