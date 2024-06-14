@@ -1,5 +1,4 @@
----
-Title: Python_GUI
+--- Title: Python_GUI
 Date: 2024-06-11
 tags:
   - Dev
