@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "014368c97da8a0a4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Multithread vs SubProcess TestLab GUI.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SIRET proprio.md",
+                "file": "Multithread vs SubProcess TestLab GUI.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SIRET proprio.md",
+                "file": "Multithread vs SubProcess TestLab GUI.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SIRET proprio.md"
+                "file": "Multithread vs SubProcess TestLab GUI.md"
               }
             }
           },
@@ -154,8 +167,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ab749d104c6f8bf4",
+  "active": "014368c97da8a0a4",
   "lastOpenFiles": [
+    "SIRET proprio.md",
+    "Multithread vs SubProcess TestLab GUI.md",
     "Quick capture (conflict 2023-11-20-09-03-38).md",
     "2024_05_16.md",
     "Async IO.md",
@@ -164,7 +179,6 @@
     "Quick capture.md",
     "TKinter.md",
     "TKinter.md~",
-    "SIRET proprio.md",
     "Python_GUI.md",
     "PySide.md",
     "PySide.md~",
@@ -191,7 +205,6 @@
     "Templates/NewNote.md~",
     "dqdsq.md",
     "Bonjour.md",
-    "Templates/DaylyNote.md",
     "Untitled.canvas",
     "Sans titre.canvas"
   ]
