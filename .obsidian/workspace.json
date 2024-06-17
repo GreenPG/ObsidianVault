@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TKinter.md",
+                "file": "SIRET proprio.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TKinter.md",
+                "file": "SIRET proprio.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TKinter.md",
+                "file": "SIRET proprio.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TKinter.md"
+                "file": "SIRET proprio.md"
               }
             }
           },
@@ -156,21 +156,25 @@
   },
   "active": "ab749d104c6f8bf4",
   "lastOpenFiles": [
+    "Quick capture (conflict 2023-11-20-09-03-38).md",
+    "2024_05_16.md",
+    "Async IO.md",
+    "2024-05-22.md",
+    "FreeRTOS.md",
+    "Quick capture.md",
+    "TKinter.md",
     "TKinter.md~",
     "SIRET proprio.md",
-    "TKinter.md",
     "Python_GUI.md",
     "PySide.md",
     "PySide.md~",
     "Python_GUI.md~",
     "Yaml Schema Python libraries.md",
     "Pythons typing cheat sheet.md",
-    "FreeRTOS.md",
     "Sphinx.md",
     "Python_GUI",
     "Python",
     "Yaml Schema Python libraries.md~",
-    "Async IO.md",
     "Yaml Schema Python libraries\n",
     "bobo.md",
     "Templates/Daily Template.md~",
@@ -188,10 +192,6 @@
     "dqdsq.md",
     "Bonjour.md",
     "Templates/DaylyNote.md",
-    "Templates",
-    "My Most Important inputs.md",
-    "2024-05-22.md",
-    "Quick capture (conflict 2023-11-03-19-01-01).md",
     "Untitled.canvas",
     "Sans titre.canvas"
   ]
