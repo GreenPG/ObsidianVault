@@ -25,6 +25,6 @@ Contre:
 # Multithread
 Pour:
 - permet de créer un runner "infini" a que l'on peut appeler à plusieurs reprises sans avoir à le relancer.
-- permet de gérer plus simplement les résultats des tests.
+- permet de gérer plus simplement les résultats des tests
 Contre:
 - force à avoir une version CLI et une version GUI du runner.
