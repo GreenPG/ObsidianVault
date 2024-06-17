@@ -8,18 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "ab749d104c6f8bf4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "SIRET proprio.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "014368c97da8a0a4",
             "type": "leaf",
             "state": {
@@ -31,8 +19,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -169,9 +156,9 @@
   },
   "active": "014368c97da8a0a4",
   "lastOpenFiles": [
-    "Multithread vs SubProcess TestLab GUI.md~",
     "SIRET proprio.md",
     "Multithread vs SubProcess TestLab GUI.md",
+    "Multithread vs SubProcess TestLab GUI.md~",
     "Quick capture (conflict 2023-11-20-09-03-38).md",
     "2024_05_16.md",
     "Async IO.md",
@@ -203,7 +190,6 @@
     "Templates/DailyNote.md~",
     "Master-Worker.md",
     "{{date}}.md",
-    "Templates/NewNote.md~",
     "dqdsq.md",
     "Untitled.canvas",
     "Sans titre.canvas"
