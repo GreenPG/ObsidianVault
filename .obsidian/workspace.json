@@ -11,8 +11,10 @@
             "id": "014368c97da8a0a4",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "image",
+              "state": {
+                "file": "Pasted image 20240618114353.png"
+              }
             }
           }
         ]
@@ -81,6 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Pasted image 20240618114353.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Pasted image 20240618114353.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +122,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Pasted image 20240618114353.png"
+              }
             }
           },
           {
@@ -148,6 +154,10 @@
   },
   "active": "014368c97da8a0a4",
   "lastOpenFiles": [
+    "Pasted image 20240618114336.png",
+    "inbox/2024-06-18_gRPC.md",
+    "Pasted image 20240618114353.png",
+    "inbox/2024-06-18_gRPC.md~",
     "Multithread vs SubProcess TestLab GUI.md",
     "inbox/Yaml Schema Python libraries.md",
     "inbox/TKinter.md",
@@ -165,7 +175,6 @@
     "inbox/Async IO.md",
     "inbox/2024_05_16.md",
     "inbox/2024-05-22.md",
-    "inbox/2024-06-18_gRPC.md",
     "zettelkasten/2024-06-18_qlla.md",
     "inbox/2024-06-18_qlla.md~",
     "inbox/2024-06-18_qlla.md",
@@ -178,12 +187,10 @@
     "Templates/Daily Temp.md",
     "2024-05-22.md~",
     "zettelkasten",
-    "inbox/2024-06-18_q.md",
     "notes",
     "hubs",
     "inbox",
     "Multithread vs SubProcess TestLab GUI.md~",
-    "TKinter.md~",
     "Untitled.canvas",
     "Sans titre.canvas"
   ]
