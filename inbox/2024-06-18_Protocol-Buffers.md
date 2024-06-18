@@ -38,5 +38,36 @@ You then specify the field data type, which can be usual primitive types, or PB 
 
 Then you choose a name for the field, which cannot contain dashes. Convention to use pluriral names for repeated
 fields.
-Finally you assign a number to the field, which cannot bie repurposed of reused.
+Finally you assign a number to the field, which cannot bie repurposed of reused. It's an unique tag used by
+the field to realize the binary encoding.
 
+Exemple of a simple adress book .proto file:
+```
+syntax = "proto2";
+
+package tutorial;
+
+message Person {
+  optional string name = 1;
+  optional int32 id = 2;
+  optional string email = 3;
+
+  enum PhoneType {
+    PHONE_TYPE_UNSPECIFIED = 0;
+    PHONE_TYPE_MOBILE = 1;
+    PHONE_TYPE_HOME = 2;
+    PHONE_TYPE_WORK = 3;
+  }
+
+  message PhoneNumber {
+    optional string number = 1;
+    optional PhoneType type = 2 [default = PHONE_TYPE_HOME];
+  }
+
+  repeated PhoneNumber phones = 4;
+}
+
+message AddressBook {
+  repeated Person people = 1;
+}
+```

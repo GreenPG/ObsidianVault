@@ -11,9 +11,11 @@
             "id": "014368c97da8a0a4",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "assets/img/Pasted image 20240618143948.png"
+                "file": "inbox/2024-06-18_Protocol-Buffers.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -83,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "assets/img/Pasted image 20240618143948.png",
+                "file": "inbox/2024-06-18_Protocol-Buffers.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "assets/img/Pasted image 20240618143948.png",
+                "file": "inbox/2024-06-18_Protocol-Buffers.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "assets/img/Pasted image 20240618143948.png"
+                "file": "inbox/2024-06-18_Protocol-Buffers.md"
               }
             }
           },
@@ -152,15 +154,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "904b89042b71845c",
+  "active": "014368c97da8a0a4",
   "lastOpenFiles": [
+    "inbox/Async IO.md",
+    "inbox/2024-06-18_gRPC.md",
+    "assets/img/Pasted image 20240618143948.png",
     "Pasted image 20240618143241.png",
     "inbox/2024-06-18_Protocol-Buffers.md",
-    "assets/img/Pasted image 20240618143948.png",
     "assets/img/protocol-buffers-concepts.png",
     "inbox/2024-06-18_Protocol-Buffers.md~",
     "protocole-buffers-concrete",
-    "inbox/2024-06-18_gRPC.md",
     "assets/img/Pasted image 20240618114353.png",
     "inbox/2024-06-18_gRPC.md~",
     "Pasted image 20240618114336.png",
@@ -184,7 +187,6 @@
     "inbox/Multithread vs SubProcess TestLab GUI.md",
     "inbox/Master-Worker.md",
     "inbox/FreeRTOS.md",
-    "inbox/Async IO.md",
     "inbox/2024_05_16.md",
     "inbox/2024-05-22.md",
     "zettelkasten/2024-06-18_qlla.md",
