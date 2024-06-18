@@ -156,14 +156,14 @@
   },
   "active": "014368c97da8a0a4",
   "lastOpenFiles": [
-    "inbox/2024-06-18_gRPC.md~",
     "inbox/2024-06-18_Protocol-Buffers.md~",
+    "inbox/2024-06-18_gRPC.md~",
     "inbox/2024-06-18_Protocol-Buffers.md",
+    "inbox/2024-06-18_gRPC.md",
     "inbox/2024-06-18_Protocol.md~",
     "inbox/2024-06-18_Protocol.md",
     "Pasted image 20240618114353.png",
     "Pasted image 20240618114336.png",
-    "inbox/2024-06-18_gRPC.md",
     "Multithread vs SubProcess TestLab GUI.md",
     "inbox/Yaml Schema Python libraries.md",
     "inbox/TKinter.md",
@@ -193,7 +193,6 @@
     "zettelkasten",
     "notes",
     "hubs",
-    "inbox",
     "Untitled.canvas",
     "Sans titre.canvas"
   ]
