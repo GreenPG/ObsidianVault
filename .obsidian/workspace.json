@@ -11,11 +11,9 @@
             "id": "014368c97da8a0a4",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "inbox/2024-06-18_gRPC.md",
-                "mode": "source",
-                "source": false
+                "file": "assets/img/Pasted image 20240618114353.png"
               }
             }
           }
@@ -85,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "inbox/2024-06-18_gRPC.md",
+                "file": "assets/img/Pasted image 20240618114353.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "inbox/2024-06-18_gRPC.md",
+                "file": "assets/img/Pasted image 20240618114353.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "inbox/2024-06-18_gRPC.md"
+                "file": "assets/img/Pasted image 20240618114353.png"
               }
             }
           },
@@ -154,20 +152,20 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "014368c97da8a0a4",
+  "active": "904b89042b71845c",
   "lastOpenFiles": [
+    "Pasted image 20240618114336.png",
+    "assets/img/Pasted image 20240618114353.png",
+    "inbox/2024-06-18_gRPC.md",
+    "inbox/2024-06-18_Protocol-Buffers.md~",
     "inbox/2024-06-18_dsqdq.md~",
     "inbox/2024-06-18_dsqdq.md",
-    "inbox/2024-06-18_Protocol-Buffers.md~",
     "assets/img",
     "assets",
     "inbox/2024-06-18_gRPC.md~",
     "inbox/2024-06-18_Protocol-Buffers.md",
-    "inbox/2024-06-18_gRPC.md",
     "inbox/2024-06-18_Protocol.md~",
     "inbox/2024-06-18_Protocol.md",
-    "Pasted image 20240618114353.png",
-    "Pasted image 20240618114336.png",
     "Multithread vs SubProcess TestLab GUI.md",
     "inbox/Yaml Schema Python libraries.md",
     "inbox/TKinter.md",
@@ -193,7 +191,6 @@
     "Templates/note.md~",
     "sq.md~",
     "2024-05-22.md~",
-    "zettelkasten",
     "Untitled.canvas",
     "Sans titre.canvas"
   ]
