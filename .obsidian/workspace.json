@@ -11,12 +11,8 @@
             "id": "014368c97da8a0a4",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Multithread vs SubProcess TestLab GUI.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Multithread vs SubProcess TestLab GUI.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Multithread vs SubProcess TestLab GUI.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Multithread vs SubProcess TestLab GUI.md"
-              }
+              "state": {}
             }
           },
           {
@@ -156,6 +148,23 @@
   },
   "active": "014368c97da8a0a4",
   "lastOpenFiles": [
+    "Multithread vs SubProcess TestLab GUI.md",
+    "inbox/Yaml Schema Python libraries.md",
+    "inbox/TKinter.md",
+    "inbox/Sphinx.md",
+    "inbox/SIRET proprio.md",
+    "inbox/Quick capture.md",
+    "inbox/Quick capture (conflict 2023-11-20-09-03-38).md",
+    "inbox/Quick capture (conflict 2023-11-03-19-01-01).md",
+    "inbox/Pythons typing cheat sheet.md",
+    "inbox/PySide.md",
+    "inbox/My Most Important inputs.md",
+    "inbox/Multithread vs SubProcess TestLab GUI.md",
+    "inbox/Master-Worker.md",
+    "inbox/FreeRTOS.md",
+    "inbox/Async IO.md",
+    "inbox/2024_05_16.md",
+    "inbox/2024-05-22.md",
     "inbox/2024-06-18_gRPC.md",
     "zettelkasten/2024-06-18_qlla.md",
     "inbox/2024-06-18_qlla.md~",
@@ -170,28 +179,11 @@
     "2024-05-22.md~",
     "zettelkasten",
     "inbox/2024-06-18_q.md",
-    "Multithread vs SubProcess TestLab GUI.md",
     "notes",
     "hubs",
     "inbox",
-    "SIRET proprio.md",
     "Multithread vs SubProcess TestLab GUI.md~",
-    "Quick capture (conflict 2023-11-20-09-03-38).md",
-    "2024_05_16.md",
-    "Async IO.md",
-    "2024-05-22.md",
-    "FreeRTOS.md",
-    "Quick capture.md",
-    "TKinter.md",
     "TKinter.md~",
-    "Python_GUI.md",
-    "PySide.md",
-    "Yaml Schema Python libraries.md",
-    "Pythons typing cheat sheet.md",
-    "Sphinx.md",
-    "bobo.md",
-    "cdsq.md",
-    "dsqds.md",
     "Untitled.canvas",
     "Sans titre.canvas"
   ]
