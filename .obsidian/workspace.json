@@ -11,9 +11,11 @@
             "id": "014368c97da8a0a4",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Pasted image 20240618114353.png"
+                "file": "inbox/2024-06-18_gRPC.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -83,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Pasted image 20240618114353.png",
+                "file": "inbox/2024-06-18_gRPC.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Pasted image 20240618114353.png",
+                "file": "inbox/2024-06-18_gRPC.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Pasted image 20240618114353.png"
+                "file": "inbox/2024-06-18_gRPC.md"
               }
             }
           },
@@ -154,10 +156,14 @@
   },
   "active": "014368c97da8a0a4",
   "lastOpenFiles": [
+    "inbox/2024-06-18_gRPC.md~",
+    "inbox/2024-06-18_Protocol-Buffers.md~",
+    "inbox/2024-06-18_Protocol-Buffers.md",
+    "inbox/2024-06-18_Protocol.md~",
+    "inbox/2024-06-18_Protocol.md",
+    "Pasted image 20240618114353.png",
     "Pasted image 20240618114336.png",
     "inbox/2024-06-18_gRPC.md",
-    "Pasted image 20240618114353.png",
-    "inbox/2024-06-18_gRPC.md~",
     "Multithread vs SubProcess TestLab GUI.md",
     "inbox/Yaml Schema Python libraries.md",
     "inbox/TKinter.md",
@@ -183,14 +189,11 @@
     "Templates/note.md~",
     "sq.md~",
     "sq.md",
-    "Templates/note.md",
-    "Templates/Daily Temp.md",
     "2024-05-22.md~",
     "zettelkasten",
     "notes",
     "hubs",
     "inbox",
-    "Multithread vs SubProcess TestLab GUI.md~",
     "Untitled.canvas",
     "Sans titre.canvas"
   ]
