@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "20f4027422d1ec79",
+        "id": "f6477486c8a0f9da",
         "type": "tabs",
         "children": [
           {
-            "id": "014368c97da8a0a4",
+            "id": "2f143fc5d73ac800",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "inbox/2024-06-18_Protocol-Buffers.md",
+                "file": "inbox/2024-06-18_gRPC.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "inbox/2024-06-18_Protocol-Buffers.md",
+                "file": "inbox/2024-06-18_gRPC.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "inbox/2024-06-18_Protocol-Buffers.md",
+                "file": "inbox/2024-06-18_gRPC.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "inbox/2024-06-18_Protocol-Buffers.md"
+                "file": "inbox/2024-06-18_gRPC.md"
               }
             }
           },
@@ -154,18 +154,20 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "014368c97da8a0a4",
+  "active": "2f143fc5d73ac800",
   "lastOpenFiles": [
-    "inbox/Async IO.md",
+    "inbox/2024-06-18_Protocol-Buffers.md",
+    "inbox/2024-06-18_gRPC.md~",
+    "Protocol-Buffers.md",
     "inbox/2024-06-18_gRPC.md",
+    "Protocol Buffers(Protocol-Buffers).md",
+    "inbox/2024-06-18_Protocol-Buffers.md~",
+    "inbox/Async IO.md",
     "assets/img/Pasted image 20240618143948.png",
     "Pasted image 20240618143241.png",
-    "inbox/2024-06-18_Protocol-Buffers.md",
     "assets/img/protocol-buffers-concepts.png",
-    "inbox/2024-06-18_Protocol-Buffers.md~",
     "protocole-buffers-concrete",
     "assets/img/Pasted image 20240618114353.png",
-    "inbox/2024-06-18_gRPC.md~",
     "Pasted image 20240618114336.png",
     "inbox/2024-06-18_dsqdq.md~",
     "inbox/2024-06-18_dsqdq.md",
@@ -192,8 +194,6 @@
     "zettelkasten/2024-06-18_qlla.md",
     "inbox/2024-06-18_qlla.md~",
     "inbox/2024-06-18_qlla.md",
-    "inbox/2024-06-18_qs.md",
-    "dsq.md",
     "Templates/note.md~",
     "sq.md~",
     "Untitled.canvas",

@@ -71,3 +71,10 @@ message AddressBook {
   repeated Person people = 1;
 }
 ```
+
+To implement this data structure in your project, you have to compile the .proto file the desired language.
+You do that using protoc CLI. Example for Python:
+```
+protoc -I=SRC_DIR --python-out=DST_DIR SRC_DIR/filename.proto
+```
+You can then include it in your programming following the language method.
