@@ -11,24 +11,16 @@
             "id": "4ac0db8a1ceb8b49",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Quick capture.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           },
           {
             "id": "65da94435b6292cd",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "FreeRTOS.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ],
@@ -98,7 +90,6 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "FreeRTOS.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -115,7 +106,6 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "FreeRTOS.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -126,9 +116,7 @@
         "type": "leaf",
         "state": {
           "type": "outline",
-          "state": {
-            "file": "FreeRTOS.md"
-          }
+          "state": {}
         }
       }
     ],
@@ -146,11 +134,11 @@
   },
   "active": "65da94435b6292cd",
   "lastOpenFiles": [
-    "2024-05-22.md",
-    "FreeRTOS.md",
     "2024_05_16.md",
-    "Untitled.md",
+    "2024-05-22.md",
     "Quick capture.md",
+    "FreeRTOS.md",
+    "Untitled.md",
     "Quick capture (conflict 2023-10-25-14-28-49).md",
     "My Most Important inputs.md",
     "Sans titre.md"
