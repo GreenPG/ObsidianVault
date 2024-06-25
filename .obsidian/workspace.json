@@ -11,12 +11,8 @@
             "id": "2f143fc5d73ac800",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "inbox/2024-06-18_gRPC.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "inbox/2024-06-18_gRPC.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "inbox/2024-06-18_gRPC.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "inbox/2024-06-18_gRPC.md"
-              }
+              "state": {}
             }
           },
           {
@@ -156,9 +148,12 @@
   },
   "active": "2f143fc5d73ac800",
   "lastOpenFiles": [
+    "inbox/2024-06-18_gRPC.md",
+    "inbox/2024-06-25_Asyncio.md~",
+    "hubs/Python.md",
+    "inbox/2024-06-25_Asyncio.md",
     "inbox/2024-06-18_gRPC.md~",
     "inbox/2024-06-18_Protocol-Buffers.md",
-    "inbox/2024-06-18_gRPC.md",
     "Protocol-Buffers.md",
     "Protocol Buffers(Protocol-Buffers).md",
     "inbox/2024-06-18_Protocol-Buffers.md~",
@@ -191,11 +186,8 @@
     "inbox/FreeRTOS.md",
     "inbox/2024_05_16.md",
     "inbox/2024-05-22.md",
-    "zettelkasten/2024-06-18_qlla.md",
     "inbox/2024-06-18_qlla.md~",
-    "inbox/2024-06-18_qlla.md",
     "Templates/note.md~",
-    "sq.md~",
     "Untitled.canvas",
     "Sans titre.canvas"
   ]
