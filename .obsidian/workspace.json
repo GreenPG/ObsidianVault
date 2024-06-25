@@ -11,8 +11,12 @@
             "id": "2f143fc5d73ac800",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "inbox/2024-06-25_Asyncio.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "inbox/2024-06-25_Asyncio.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "inbox/2024-06-25_Asyncio.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "inbox/2024-06-25_Asyncio.md"
+              }
             }
           },
           {
@@ -148,8 +156,8 @@
   },
   "active": "2f143fc5d73ac800",
   "lastOpenFiles": [
-    "inbox/2024-06-18_gRPC.md",
     "inbox/2024-06-25_Asyncio.md~",
+    "inbox/2024-06-18_gRPC.md",
     "hubs/Python.md",
     "inbox/2024-06-25_Asyncio.md",
     "inbox/2024-06-18_gRPC.md~",
