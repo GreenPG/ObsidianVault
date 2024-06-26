@@ -18,8 +18,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "9f9be0e4c063ecd3",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.6.5"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -154,7 +165,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2f143fc5d73ac800",
+  "active": "9f9be0e4c063ecd3",
   "lastOpenFiles": [
     "inbox/2024-06-25_Asyncio.md~",
     "inbox/2024-06-18_gRPC.md",
