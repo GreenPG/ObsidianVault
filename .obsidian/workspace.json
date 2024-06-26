@@ -23,10 +23,8 @@
             "id": "9f9be0e4c063ecd3",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.6.5"
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ],
