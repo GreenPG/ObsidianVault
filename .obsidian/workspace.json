@@ -13,13 +13,22 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "inbox/2024-06-18_gRPC.md",
+                "file": "inbox/2024-06-25_Asyncio.md",
                 "mode": "source",
                 "source": false
               }
             }
+          },
+          {
+            "id": "9f9be0e4c063ecd3",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "inbox/2024-06-18_gRPC.md",
+                "file": "inbox/2024-06-25_Asyncio.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "inbox/2024-06-18_gRPC.md",
+                "file": "inbox/2024-06-25_Asyncio.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "inbox/2024-06-18_gRPC.md"
+                "file": "inbox/2024-06-25_Asyncio.md"
               }
             }
           },
@@ -154,11 +163,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2f143fc5d73ac800",
+  "active": "9f9be0e4c063ecd3",
   "lastOpenFiles": [
-    "inbox/2024-06-18_Protocol-Buffers.md",
+    "inbox/2024-06-25_Asyncio.md~",
     "inbox/2024-06-18_gRPC.md",
+    "hubs/Python.md",
+    "inbox/2024-06-25_Asyncio.md",
     "inbox/2024-06-18_gRPC.md~",
+    "inbox/2024-06-18_Protocol-Buffers.md",
     "Protocol-Buffers.md",
     "Protocol Buffers(Protocol-Buffers).md",
     "inbox/2024-06-18_Protocol-Buffers.md~",
@@ -191,11 +203,8 @@
     "inbox/FreeRTOS.md",
     "inbox/2024_05_16.md",
     "inbox/2024-05-22.md",
-    "zettelkasten/2024-06-18_qlla.md",
     "inbox/2024-06-18_qlla.md~",
-    "inbox/2024-06-18_qlla.md",
     "Templates/note.md~",
-    "sq.md~",
     "Untitled.canvas",
     "Sans titre.canvas"
   ]
