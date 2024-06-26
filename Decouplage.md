@@ -23,4 +23,13 @@ Où ?
 		Facilité modélisation et lecture. Check a la compil. Facilité a tester. Peu de coûts a lexec même si pas dopti a la compil possible, mais au link si
 		- Flexibilité a l'exécution 
 - a la compilation 
+		Utiliser la meta-programmatuon (template en cpp). 
+		Check a la compil. Facilité a tester. Pas de coûts a lexec.
+		Flexibilité a lexec. Facilité a la modélisation et a la lecture 
+
 - pendant le preproc
+		Utiliser des instructions de preproc pour définir quelle implémentation utiliser 
+		Check a la compil, facilité a tester, pas de coût a lexec.
+		Flexibilité a lexec, facilité modélisation et de lecture 
+
+
