@@ -1,3 +1,14 @@
+---
+date: 2024-06-26
+tags:
+    -
+hubs:
+    "[[]]"
+urls:
+    -
+---
+# Reu_Technique_Decouplage 
+
 - diviser un système en unités logique Inde 
 - minimiser les deps entre les unités 
 

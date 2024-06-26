@@ -23,8 +23,12 @@
             "id": "9f9be0e4c063ecd3",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Protocol Buffers(Protocol-Buffers).md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ],
@@ -94,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "inbox/2024-06-25_Asyncio.md",
+                "file": "Protocol Buffers(Protocol-Buffers).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "inbox/2024-06-25_Asyncio.md",
+                "file": "Protocol Buffers(Protocol-Buffers).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "inbox/2024-06-25_Asyncio.md"
+                "file": "Protocol Buffers(Protocol-Buffers).md"
               }
             }
           },
@@ -165,6 +169,10 @@
   },
   "active": "9f9be0e4c063ecd3",
   "lastOpenFiles": [
+    "inbox/2024-06-26_Reu_Technique_Decouplage.md~",
+    "inbox/Decouplage.md",
+    "inbox/2024-06-26_Reu_Technique_Decouplage.md",
+    "Protocol Buffers(Protocol-Buffers).md",
     "Untitled.md",
     "inbox/2024-06-25_Asyncio.md~",
     "inbox/2024-06-18_gRPC.md",
@@ -173,7 +181,6 @@
     "inbox/2024-06-18_gRPC.md~",
     "inbox/2024-06-18_Protocol-Buffers.md",
     "Protocol-Buffers.md",
-    "Protocol Buffers(Protocol-Buffers).md",
     "inbox/2024-06-18_Protocol-Buffers.md~",
     "inbox/Async IO.md",
     "assets/img/Pasted image 20240618143948.png",
@@ -201,9 +208,6 @@
     "inbox/My Most Important inputs.md",
     "inbox/Multithread vs SubProcess TestLab GUI.md",
     "inbox/Master-Worker.md",
-    "inbox/FreeRTOS.md",
-    "inbox/2024_05_16.md",
-    "inbox/2024-05-22.md",
     "inbox/2024-06-18_qlla.md~",
     "Templates/note.md~",
     "Untitled.canvas",
