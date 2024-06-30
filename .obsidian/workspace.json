@@ -14,8 +14,20 @@
               "type": "graph",
               "state": {}
             }
+          },
+          {
+            "id": "4bfb54b81c0670f0",
+            "type": "leaf",
+            "state": {
+              "type": "diff-view",
+              "state": {
+                "file": ".obsidian/workspace-mobile.json",
+                "staged": true
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -146,23 +158,44 @@
       "command-palette:Ouvrir la palette de commandes": false
     }
   },
-  "active": "8049f186efee37f6",
+  "active": "4bfb54b81c0670f0",
   "lastOpenFiles": [
-    "My Most Important inputs.md",
-    "Quick capture.md",
-    "Pythons typing cheat sheet.md",
-    "Async IO.md",
-    "2024-05-22.md",
-    "2024_05_16.md",
     "conflict-files-obsidian-git.md",
-    "Master-Worker.md",
-    "Quick capture (conflict 2023-11-03-19-01-01).md",
-    "Quick capture (conflict 2023-11-20-09-03-38).md",
-    "2024-05-17.md",
+    "inbox/Yaml Schema Python libraries.md",
+    "inbox/TKinter.md",
+    "inbox/Sphinx.md",
+    "inbox/SIRET proprio.md",
+    "inbox/Quick capture.md",
+    "inbox/Quick capture (conflict 2023-11-20-09-03-38).md",
+    "inbox/Quick capture (conflict 2023-11-03-19-01-01).md",
+    "inbox/Pythons typing cheat sheet.md",
+    "inbox/PySide.md",
+    "inbox/My Most Important inputs.md",
+    "inbox/Multithread vs SubProcess TestLab GUI.md",
+    "inbox/Master-Worker.md",
+    "inbox/FreeRTOS.md",
+    "inbox/Async IO.md",
+    "inbox/2024_05_16.md",
+    "inbox/2024-06-26_Reu_Technique_Decouplage.md",
+    "inbox/2024-06-25_Asyncio.md",
+    "inbox/2024-06-18_Protocol-Buffers.md",
+    "inbox/2024-06-18_gRPC.md",
+    "inbox/2024-05-22.md",
+    "inbox",
+    "hubs/Python.md",
+    "hubs",
+    "assets/img/protocol-buffers-concepts.png",
+    "assets/img/Pasted image 20240618143948.png",
+    "assets/img/Pasted image 20240618114353.png",
+    "assets/img",
+    "assets",
+    "Untitled.md",
+    "Templates/note.md",
+    "Templates/NewNote.md",
+    "Templates",
+    "Protocol-Buffers.md",
     "Async IO",
-    "2024-05-16.md",
     "Sans titre.canvas",
-    "2023-12-27.md",
     "desktop.ini"
   ]
 }
