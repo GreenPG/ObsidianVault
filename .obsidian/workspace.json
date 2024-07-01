@@ -8,31 +8,14 @@
         "type": "tabs",
         "children": [
           {
-            "id": "2f143fc5d73ac800",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "inbox/2024-06-25_Asyncio.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "9f9be0e4c063ecd3",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Protocol Buffers(Protocol-Buffers).md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Protocol Buffers(Protocol-Buffers).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Protocol Buffers(Protocol-Buffers).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Protocol Buffers(Protocol-Buffers).md"
-              }
+              "state": {}
             }
           },
           {
@@ -169,17 +148,36 @@
   },
   "active": "9f9be0e4c063ecd3",
   "lastOpenFiles": [
+    "inbox/Multithread vs SubProcess TestLab GUI.md~",
+    "inbox/Master-Worker.md",
+    "zettelkasten/Master-Worker.md",
+    "inbox/Master-Worker.md~",
+    "hubs/Design_Pattern.md",
+    "zettelkasten/FreeRTOS.md",
+    "inbox/FreeRTOS.md~",
+    "hubs/Firmware.md",
+    "hubs/OS.md",
+    "zettelkasten/2024-06-26_Reu_Technique_Decouplage.md",
     "inbox/2024-06-26_Reu_Technique_Decouplage.md~",
+    "hubs/Methodology.md",
+    "hubs/OOP.md",
+    "hubs/Methodoly.md",
+    "zettelkasten/2024-06-25_Asyncio.md",
+    "zettelkasten/2024-06-18_gRPC.md",
+    "inbox/2024-06-18_gRPC.md~",
+    "hubs/network.md",
+    "inbox/2024-06-18_Protocol-Buffers.md",
+    "zettelkasten/2024-06-18_Protocol-Buffers.md",
+    "Protocol Buffers(Protocol-Buffers).md",
+    "hubs/data_serialization.md",
+    "inbox/2024-05-22.md~",
     "inbox/Decouplage.md",
     "inbox/2024-06-26_Reu_Technique_Decouplage.md",
-    "Protocol Buffers(Protocol-Buffers).md",
     "Untitled.md",
     "inbox/2024-06-25_Asyncio.md~",
     "inbox/2024-06-18_gRPC.md",
     "hubs/Python.md",
     "inbox/2024-06-25_Asyncio.md",
-    "inbox/2024-06-18_gRPC.md~",
-    "inbox/2024-06-18_Protocol-Buffers.md",
     "Protocol-Buffers.md",
     "inbox/2024-06-18_Protocol-Buffers.md~",
     "inbox/Async IO.md",
@@ -190,26 +188,7 @@
     "assets/img/Pasted image 20240618114353.png",
     "Pasted image 20240618114336.png",
     "inbox/2024-06-18_dsqdq.md~",
-    "inbox/2024-06-18_dsqdq.md",
     "assets/img",
-    "assets",
-    "inbox/2024-06-18_Protocol.md~",
-    "inbox/2024-06-18_Protocol.md",
-    "Multithread vs SubProcess TestLab GUI.md",
-    "inbox/Yaml Schema Python libraries.md",
-    "inbox/TKinter.md",
-    "inbox/Sphinx.md",
-    "inbox/SIRET proprio.md",
-    "inbox/Quick capture.md",
-    "inbox/Quick capture (conflict 2023-11-20-09-03-38).md",
-    "inbox/Quick capture (conflict 2023-11-03-19-01-01).md",
-    "inbox/Pythons typing cheat sheet.md",
-    "inbox/PySide.md",
-    "inbox/My Most Important inputs.md",
-    "inbox/Multithread vs SubProcess TestLab GUI.md",
-    "inbox/Master-Worker.md",
-    "inbox/2024-06-18_qlla.md~",
-    "Templates/note.md~",
     "Untitled.canvas",
     "Sans titre.canvas"
   ]

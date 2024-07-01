@@ -1,11 +1,20 @@
 ---
+date: 2024-06-17
+tags:
+    - #Python
+    - #Dev
+    - #GUI
+    - #TestLab
+hubs:
+    "[[]]"
+urls:
+    -
+---
+# Multithread vs SubProcess TestLab GUI 
+---
 Title: Multithread vs SubProcess TestLab GUI
 Date: 2024-06-17
 tags:
-  - Python
-  - Dev
-  - GUI
-  - TestLab
 ---
 
 # Multithread vs SubProcess TestLab GUI 

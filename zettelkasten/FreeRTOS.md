@@ -1,6 +1,13 @@
-
-tags: #FreeRTOS #Dev #Firmware
-
+---
+date: 2024-07-01
+tags:
+    - #RéuTechnique #Dev #Firmware
+hubs:
+   "[[OS]]", "[[Firmware]]"
+urls:
+    -
+---
+# FreeRTOS 
 OS simplifié pour embarqué (entre vrai os et baremetal)
 
 

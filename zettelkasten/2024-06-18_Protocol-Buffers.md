@@ -1,9 +1,9 @@
 ---
 date: 2024-06-18
 tags:
-    -
+    - #Dev, #Data, 
 hubs:
-    "[[]]"
+    "[[data_serialization]]"
 urls:
     -
 ---
