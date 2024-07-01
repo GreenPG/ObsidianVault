@@ -4,14 +4,14 @@
     "type": "split",
     "children": [
       {
-        "id": "5da42b8c221370d5",
+        "id": "4c290a161e1b4e39",
         "type": "tabs",
         "children": [
           {
-            "id": "6aed4416e45a2753",
+            "id": "51fcf3c87b978b6e",
             "type": "leaf",
             "state": {
-              "type": "graph",
+              "type": "empty",
               "state": {}
             }
           }
@@ -146,8 +146,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6aed4416e45a2753",
+  "active": "904b89042b71845c",
   "lastOpenFiles": [
+    "2024-07-01.md",
+    "Templates/NewNote.md",
+    "Templates/note.md",
     "zettelkasten/2024-06-18_gRPC.md~",
     "zettelkasten/Sphinx.md",
     "zettelkasten/Yaml Schema Python libraries.md~",
@@ -181,8 +184,6 @@
     "hubs/Firmware.md",
     "hubs/OS.md",
     "hubs/Methodology.md",
-    "hubs/OOP.md",
-    "hubs/Methodoly.md",
     "assets/img/Pasted image 20240618143948.png",
     "Pasted image 20240618143241.png",
     "assets/img/protocol-buffers-concepts.png",
