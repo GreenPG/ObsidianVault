@@ -1,5 +1,15 @@
+---
+date: 2024-07-01
+tags:
+    -
+hubs:
+    - "[[Python]]"
+    - "[[DevOps]]"
+urls:
+    -
+---
+# Sphinx 
 tags: #Dev #Documentation #ProjectManagement
-
 Sphinx is a solution providing solution to create project documentation using #reStructuredText markup language.
 It can produce many outputs formats (HTML, ePub, LaTex, ...)
 

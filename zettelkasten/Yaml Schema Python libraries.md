@@ -1,8 +1,17 @@
 ---
-Title: Yaml Schema Python libraires
-Date: 2024-06-05
-Tags: #Dev #Python #YAML #Testlab
+date: 2024-06-05
+tags:
+    - #Dev
+    - #Python
+    - #YAML
+    - #TestLab
+hubs:
+    - "[[Python]]"
+    - "[[data_serialization]]"
+urls:
+    -
 ---
+# Yaml Schema Python libraries 
 
 ## Objectif: 
 Compare differents Python libraries to validate YAML Schema (structure of the file)

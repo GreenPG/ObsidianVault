@@ -1,13 +1,13 @@
---- Title: Python_GUI
-Date: 2024-06-11
-tags:
-  - Dev
-  - Python
-  - GUI
 ---
-
+date: 2024-06-11
+tags:
+    - #GUI, #TestLab
+hubs:
+    "[[Python]]"
+urls:
+    -
+---
 # Python_GUI 
-
 ## Qt
 
 Qt is a cross-platform framework for creating GUI. It runs on all major desktop platforms and mobile or embedded platforms, 

@@ -3,7 +3,8 @@ date: 2024-06-26
 tags:
     - #RéuTechnique, 
 hubs:
-   "[[OOP]]", "[[Methodology]]"
+   - "[[OOP]]"
+   - "[[Methodology]]"
 urls:
     -
 ---

@@ -1,8 +1,15 @@
-
-source: https://mypy.readthedocs.io/en/latest/cheat_sheet_py3.html
-tag:  #Dev #Python #mypy
-# Built-in types:
-
+---
+date: 2024-07-01
+tags:
+    - #Dev 
+    - #Python 
+    - #mypy
+hubs:
+    - "[[Python]]"
+urls:
+    - https://mypy.readthedocs.io/en/latest/cheat_sheet_py3.html
+---
+# Built-in types: 
 For most types, just use the name of the type in the annotation
 Note that mypy can usually infer the type of a variable from its value,
 so technically these annotations are redundant

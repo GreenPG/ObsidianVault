@@ -3,7 +3,7 @@ date: 2024-07-01
 tags:
     - #Dev, #DesignPattern
 hubs:
-    "[[Design_Pattern]]"
+    - "[[Design_Pattern]]"
 urls:
     - https://en.wikipedia.org/wiki/Remote_procedure_call
 ---
