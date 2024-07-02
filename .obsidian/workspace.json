@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Templates/note.md",
+                "file": "inbox/2024-07-02_Pytest.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Templates/note.md",
+                "file": "inbox/2024-07-02_Pytest.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Templates/note.md",
+                "file": "inbox/2024-07-02_Pytest.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Templates/note.md"
+                "file": "inbox/2024-07-02_Pytest.md"
               }
             }
           },
@@ -156,6 +156,7 @@
   },
   "active": "51fcf3c87b978b6e",
   "lastOpenFiles": [
+    "Templates/note.md",
     "inbox/2024-07-02_Pytest.md~",
     "inbox/2024-07-02_ToWatch.md~",
     "Templates/note.md~",
@@ -164,7 +165,6 @@
     "hubs/Testing.md",
     "inbox/2024-07-02_ToWatch.md",
     "2024-07-01.md",
-    "Templates/note.md",
     "zettelkasten/2024-06-18_gRPC.md~",
     "zettelkasten/Sphinx.md",
     "zettelkasten/Yaml Schema Python libraries.md~",
@@ -177,7 +177,6 @@
     "zettelkasten/Multithread vs SubProcess TestLab GUI.md~",
     "zettelkasten/Master-Worker.md~",
     "zettelkasten/FreeRTOS.md~",
-    "zettelkasten/2024-06-26_Reu_Technique_Decouplage.md~",
     "zettelkasten/FreeRTOS.md",
     "zettelkasten/2024-06-26_Reu_Technique_Decouplage.md",
     "zettelkasten/2024-06-25_Asyncio.md",
