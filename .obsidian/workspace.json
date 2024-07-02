@@ -11,8 +11,12 @@
             "id": "51fcf3c87b978b6e",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Templates/note.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Templates/note.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Templates/note.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Templates/note.md"
+              }
             }
           },
           {
@@ -146,11 +154,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "904b89042b71845c",
+  "active": "51fcf3c87b978b6e",
   "lastOpenFiles": [
+    "Templates/note.md~",
+    "Templates/NewNote.md",
+    "inbox/2024-07-02_Pytest.md",
+    "inbox/2024-07-02_Pytest.md~",
+    "hubs/Testing.md",
     "inbox/2024-07-02_ToWatch.md",
     "2024-07-01.md",
-    "Templates/NewNote.md",
     "Templates/note.md",
     "zettelkasten/2024-06-18_gRPC.md~",
     "zettelkasten/Sphinx.md",
@@ -175,15 +187,11 @@
     "hubs/network.md",
     "Protocol Buffers(Protocol-Buffers).md",
     "Untitled.md",
-    "inbox/Sphinx.md~",
     "hubs/DevOps.md",
     "zettelkasten/My Most Important inputs.md",
     "zettelkasten/Multithread vs SubProcess TestLab GUI.md",
     "hubs/Concurrency.md",
     "inbox/Master-Worker.md",
-    "hubs/Design_Pattern.md",
-    "hubs/Firmware.md",
-    "hubs/OS.md",
     "assets/img/Pasted image 20240618143948.png",
     "Pasted image 20240618143241.png",
     "assets/img/protocol-buffers-concepts.png",

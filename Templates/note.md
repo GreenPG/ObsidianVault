@@ -3,7 +3,7 @@ date: {{date}}
 tags:
     -
 hubs:
-    "[[]]"
+    - "[[]]"
 urls:
     -
 ---
