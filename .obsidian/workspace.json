@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "4c290a161e1b4e39",
+        "id": "4a3ae9c3a2261f27",
         "type": "tabs",
         "children": [
           {
-            "id": "51fcf3c87b978b6e",
+            "id": "bb3f8aefc4ae3a3e",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "inbox/2024-07-02_Pytest.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "inbox/2024-07-02_Pytest.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "inbox/2024-07-02_Pytest.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "inbox/2024-07-02_Pytest.md"
-              }
+              "state": {}
             }
           },
           {
@@ -154,14 +146,18 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "51fcf3c87b978b6e",
+  "active": "904b89042b71845c",
   "lastOpenFiles": [
+    "zettelkasten/ToSomething/2024-07-02_ToWatch.md",
+    "zettelkasten/2024-07-02_ToWatch.md",
+    "zettelkasten/ToSomething",
+    "inbox/2024-07-02_Pytest.md",
+    "zettelkasten/2024-07-02_Pytest.md",
     "inbox/2024-07-02_Pytest.md~",
     "Templates/note.md",
     "inbox/2024-07-02_ToWatch.md~",
     "Templates/note.md~",
     "Templates/NewNote.md",
-    "inbox/2024-07-02_Pytest.md",
     "hubs/Testing.md",
     "inbox/2024-07-02_ToWatch.md",
     "2024-07-01.md",
@@ -176,7 +172,6 @@
     "zettelkasten/Master-Worker.md",
     "zettelkasten/Multithread vs SubProcess TestLab GUI.md~",
     "zettelkasten/Master-Worker.md~",
-    "zettelkasten/FreeRTOS.md~",
     "zettelkasten/FreeRTOS.md",
     "zettelkasten/2024-06-26_Reu_Technique_Decouplage.md",
     "zettelkasten/2024-06-25_Asyncio.md",
@@ -189,8 +184,6 @@
     "hubs/DevOps.md",
     "zettelkasten/My Most Important inputs.md",
     "zettelkasten/Multithread vs SubProcess TestLab GUI.md",
-    "hubs/Concurrency.md",
-    "inbox/Master-Worker.md",
     "assets/img/Pasted image 20240618143948.png",
     "Pasted image 20240618143241.png",
     "assets/img/protocol-buffers-concepts.png",
