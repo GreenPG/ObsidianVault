@@ -11,8 +11,12 @@
             "id": "bb3f8aefc4ae3a3e",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "inbox/2024-07-16_Python_logging.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "inbox/2024-07-16_Python_logging.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "inbox/2024-07-16_Python_logging.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "inbox/2024-07-16_Python_logging.md"
+              }
             }
           },
           {
@@ -146,8 +154,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "904b89042b71845c",
+  "active": "bb3f8aefc4ae3a3e",
   "lastOpenFiles": [
+    "inbox/2024-07-16_Python_logging.md~",
+    "inbox/2024-07-16_Python.md",
+    "inbox/2024-07-16_Python_logging.md",
     "zettelkasten/ToSomething/2024-07-02_ToWatch.md",
     "zettelkasten/2024-07-02_ToWatch.md",
     "zettelkasten/ToSomething",
@@ -171,7 +182,6 @@
     "zettelkasten/PySide.md",
     "zettelkasten/Master-Worker.md",
     "zettelkasten/Multithread vs SubProcess TestLab GUI.md~",
-    "zettelkasten/Master-Worker.md~",
     "zettelkasten/FreeRTOS.md",
     "zettelkasten/2024-06-26_Reu_Technique_Decouplage.md",
     "zettelkasten/2024-06-25_Asyncio.md",
@@ -181,9 +191,6 @@
     "hubs/network.md",
     "Protocol Buffers(Protocol-Buffers).md",
     "Untitled.md",
-    "hubs/DevOps.md",
-    "zettelkasten/My Most Important inputs.md",
-    "zettelkasten/Multithread vs SubProcess TestLab GUI.md",
     "assets/img/Pasted image 20240618143948.png",
     "Pasted image 20240618143241.png",
     "assets/img/protocol-buffers-concepts.png",
