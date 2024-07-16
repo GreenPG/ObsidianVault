@@ -29,7 +29,26 @@ The logger methods are named after the level of severity  of the events they are
 | DEBUG | Detailed information, typically of itnerst onlywhen diagnosing problems | 
 | INFO | Confirmation that things are working as expected | 
 | WARNING | An indication that something unexpected happened, or indicative of some problem in the near future. The software is stil working as expected| 
-| ERROR | Due to a more serious problem that the program itself may be unable to continue running| 
+| ERROR | Due to a more serious problem, the software has not been able to perform some function |
 | CRITICAL | A serious error, indicating that the program itself mat be unable to continue running | 
+
+Default level is WARNING. A logger will track only the event that are at its level or above.
+With the debaut level, only WARING, ERROR and CRITICAL event will be tracked.
+If you call loggign methods directly (without creating a logger), they will basicConfig() if it has not been called yet.
+
+# basicConfig()
+
+The basicConfig() method can be used to configure a bunch of feature of logging. It must be called before any logging method if you want this config to be applied.
+
+## Logging to a file
+You precise a file to record your logs providing a file path with the `filename` parameter. The encodage can be precise with they `encoding` parameter.
+```logging.basicConfig(filename='file_path', encoding='encodage)```
+
+## Logging variable data
+logging use the old %-style string formatting for backwards compatibility.
+
+## Changing format of displayed messages
+
+:
 
 
