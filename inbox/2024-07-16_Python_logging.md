@@ -41,7 +41,7 @@ If you call loggign methods directly (without creating a logger), they will basi
 The basicConfig() method can be used to configure a bunch of feature of logging. It must be called before any logging method if you want this config to be applied.
 
 ## Logging to a file
-You precise a file to record your logs providing a file path with the `filename` parameter. The encodage can be precise with they `encoding` parameter.
+You precise a file to record your logs providing a file path with the `pathname` parameter, or just a file name to `filename` parameter. The encodage can be precise with they `encoding` parameter.
 ```logging.basicConfig(filename='file_path', encoding='encodage)```
 
 ## Logging variable data
@@ -49,6 +49,13 @@ logging use the old %-style string formatting for backwards compatibility.
 
 ## Changing format of displayed messages
 
-:
+basicConfig() provide a format attribute to precise the format to display logs. All attribute to format string can be found here :https://docs.python.org/3/library/logging.html#logrecord-attributes.
+ex :
+```
+logging.basicConfig(format='%(levelname)s:%(message)s')
+logging.warning("This message should appear on the console")
 
+#output
+WARNING:This message should appear on the console
+```
 
