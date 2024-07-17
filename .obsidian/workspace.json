@@ -11,12 +11,8 @@
             "id": "bb3f8aefc4ae3a3e",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "inbox/2024-07-16_Python_logging.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "inbox/2024-07-16_Python_logging.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "inbox/2024-07-16_Python_logging.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "inbox/2024-07-16_Python_logging.md"
-              }
+              "state": {}
             }
           },
           {
@@ -156,9 +148,10 @@
   },
   "active": "bb3f8aefc4ae3a3e",
   "lastOpenFiles": [
+    "inbox/2024-07-16_Python_logging.md",
+    "zettelkasten/2024-07-16_Python_logging.md",
     "inbox/2024-07-16_Python_logging.md~",
     "inbox/2024-07-16_Python.md",
-    "inbox/2024-07-16_Python_logging.md",
     "zettelkasten/ToSomething/2024-07-02_ToWatch.md",
     "zettelkasten/2024-07-02_ToWatch.md",
     "zettelkasten/ToSomething",
