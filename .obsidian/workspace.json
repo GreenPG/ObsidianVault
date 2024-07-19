@@ -4,17 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "4a3ae9c3a2261f27",
+        "id": "be1d91f1d3aa92f8",
         "type": "tabs",
         "children": [
           {
-            "id": "bb3f8aefc4ae3a3e",
+            "id": "f232bf2eee290d19",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.6.7"
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -148,7 +146,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "bb3f8aefc4ae3a3e",
+  "active": "f232bf2eee290d19",
   "lastOpenFiles": [
     "inbox/2024-07-16_Python_logging.md",
     "zettelkasten/2024-07-16_Python_logging.md",
