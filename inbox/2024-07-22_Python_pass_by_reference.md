@@ -28,3 +28,53 @@ Python use a 3rd method wich is pass by assignement. That is when you call a fun
 If the assignement target is an identifer, or variable name, then this name is bound to the object. Every variable is a name bound to an object. 
 If the name is already bound to a separate object, then it's rebound to the new object.
 The structure in which all Python objects are implemented has a counter, the reference counter,  that keep tracks of how many names have been bound to this object.
+
+## Best practices to replicate Pass by reference in Python
+
+### Return and Assign
+
+For function returning single value:
+```
+def square(n):
+    return n * n
+
+x = 4
+
+x = square(4)
+print(x)
+# 16
+```
+
+For function operating on multiple values:
+```
+def greet(name, counter):
+    return f"Hi, {name}8", counter + 1
+
+counter = 0
+
+greeting, counter = greet("Alice", counter)
+# greeting = "Hi, Alice!"
+# counter = 1
+```
+
+### Use Objects Attributes
+
+In Python, if the target of an assignement is an object's attribute that support assignement, 
+then the object will be asked to perform the assignement on that attribute. So if the object is pass an an argument to a function, its attribute can be modified in place.
+
+```
+from types import SimpleNamespace
+
+ns = SimpleNamespace()
+
+def square(instance):
+    instance.n *= instance.n
+
+ns.n = 4
+square(ns)
+# ns.n = 16
+```
+
+### Use Dictionaries and List
+
+
