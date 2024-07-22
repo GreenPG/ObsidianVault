@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "zettelkasten/ToSomething/2024-07-02_ToWatch.md",
+                "file": "inbox/2024-07-22_Regex.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "zettelkasten/ToSomething/2024-07-02_ToWatch.md",
+                "file": "inbox/2024-07-22_Regex.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "zettelkasten/ToSomething/2024-07-02_ToWatch.md",
+                "file": "inbox/2024-07-22_Regex.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "zettelkasten/ToSomething/2024-07-02_ToWatch.md"
+                "file": "inbox/2024-07-22_Regex.md"
               }
             }
           },
@@ -154,9 +154,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "904b89042b71845c",
+  "active": "f232bf2eee290d19",
   "lastOpenFiles": [
+    "inbox/2024-07-22_Regex.md~",
+    "zettelkasten/ToSomething/2024-07-02_ToWatch.md",
+    "inbox/2024-07-22_Regex.md",
     "inbox/2024-07-22_Python_regex.md~",
+    "hubs/Parsing.md",
+    "hubs/Parsing",
     "inbox/2024-07-22_Python_regex.md",
     "inbox/2024-07-22_Python_pass_by_reference.md~",
     "zettelkasten/2024-06-18_Protocol-Buffers.md",
@@ -165,7 +170,6 @@
     "zettelkasten/2024-07-16_Python_logging.md",
     "inbox/2024-07-16_Python_logging.md~",
     "inbox/2024-07-16_Python.md",
-    "zettelkasten/ToSomething/2024-07-02_ToWatch.md",
     "zettelkasten/2024-07-02_ToWatch.md",
     "zettelkasten/ToSomething",
     "inbox/2024-07-02_Pytest.md",
@@ -180,18 +184,13 @@
     "2024-07-01.md",
     "zettelkasten/2024-06-18_gRPC.md~",
     "zettelkasten/Sphinx.md",
-    "zettelkasten/Yaml Schema Python libraries.md~",
-    "zettelkasten/Sphinx.md~",
     "zettelkasten/Yaml Schema Python libraries.md",
-    "zettelkasten/Pythons typing cheat sheet.md~",
     "zettelkasten/Pythons typing cheat sheet.md",
     "zettelkasten/PySide.md",
     "zettelkasten/Master-Worker.md",
     "zettelkasten/FreeRTOS.md",
     "zettelkasten/2024-06-26_Reu_Technique_Decouplage.md",
     "zettelkasten/2024-06-25_Asyncio.md",
-    "zettelkasten/2024-06-18_gRPC.md",
-    "hubs/Python.md",
     "assets/img/Pasted image 20240618143948.png",
     "Pasted image 20240618143241.png",
     "assets/img/protocol-buffers-concepts.png",
