@@ -18,3 +18,13 @@ This way, all operations performed on this reference will directly be applied to
 
 In opposite, when passing by value, you only pass an independent copy of the original values of the variable to the function.
 
+
+## Pass by assignement
+
+Python use a 3rd method wich is pass by assignement. That is when you call a function, each function argument becomes a variable to which the passed value is assigned.
+
+### Assignement in Python
+
+If the assignement target is an identifer, or variable name, then this name is bound to the object. Every variable is a name bound to an object. 
+If the name is already bound to a separate object, then it's rebound to the new object.
+The structure in which all Python objects are implemented has a counter, the reference counter,  that keep tracks of how many names have been bound to this object.
