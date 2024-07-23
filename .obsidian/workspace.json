@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "be1d91f1d3aa92f8",
+        "id": "5c2ae1c6c4a95117",
         "type": "tabs",
         "children": [
           {
-            "id": "f232bf2eee290d19",
+            "id": "14284d212596005b",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -81,6 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "zettelkasten/2024-06-18_Protocol-Buffers.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +98,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "zettelkasten/2024-06-18_Protocol-Buffers.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +120,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "zettelkasten/2024-06-18_Protocol-Buffers.md"
+              }
             }
           },
           {
