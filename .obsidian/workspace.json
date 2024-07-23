@@ -11,12 +11,8 @@
             "id": "f232bf2eee290d19",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "inbox/2024-07-22_Regex.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "inbox/2024-07-22_Regex.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "inbox/2024-07-22_Regex.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "inbox/2024-07-22_Regex.md"
-              }
+              "state": {}
             }
           },
           {
@@ -154,12 +146,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f232bf2eee290d19",
+  "active": "904b89042b71845c",
   "lastOpenFiles": [
+    "2024-07-23.md",
+    "inbox/2024-07-22_Regex.md",
+    "zettelkasten/2024-07-22_Regex.md",
+    "zettelkasten/2024-07-22_Python_pass_by_reference.md",
     "inbox/2024-07-22_Python_regex.md",
     "inbox/2024-07-22_Regex.md~",
     "zettelkasten/ToSomething/2024-07-02_ToWatch.md",
-    "inbox/2024-07-22_Regex.md",
     "inbox/2024-07-22_Python_regex.md~",
     "hubs/Parsing.md",
     "hubs/Parsing",
@@ -189,8 +184,6 @@
     "zettelkasten/PySide.md",
     "zettelkasten/Master-Worker.md",
     "zettelkasten/FreeRTOS.md",
-    "zettelkasten/2024-06-26_Reu_Technique_Decouplage.md",
-    "zettelkasten/2024-06-25_Asyncio.md",
     "assets/img/Pasted image 20240618143948.png",
     "Pasted image 20240618143241.png",
     "assets/img/protocol-buffers-concepts.png",
