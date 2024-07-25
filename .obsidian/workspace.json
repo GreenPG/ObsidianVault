@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "5c2ae1c6c4a95117",
+        "id": "0015a752ff55bcce",
         "type": "tabs",
         "children": [
           {
-            "id": "14284d212596005b",
+            "id": "55f1acc3670f6ca0",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -150,7 +150,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "904b89042b71845c",
+  "active": "55f1acc3670f6ca0",
   "lastOpenFiles": [
     "2024-07-23.md",
     "inbox/2024-07-22_Regex.md",
