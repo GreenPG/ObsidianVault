@@ -4,14 +4,14 @@
     "type": "split",
     "children": [
       {
-        "id": "0015a752ff55bcce",
+        "id": "0636e255077d3b5b",
         "type": "tabs",
         "children": [
           {
-            "id": "55f1acc3670f6ca0",
+            "id": "f6bf1849c0ab8696",
             "type": "leaf",
             "state": {
-              "type": "graph",
+              "type": "empty",
               "state": {}
             }
           }
@@ -133,8 +133,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -146,12 +145,22 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "55f1acc3670f6ca0",
+  "active": "f6bf1849c0ab8696",
   "lastOpenFiles": [
+    "zettelkasten/2024-07-22_Regex.md",
+    "zettelkasten/Yaml Schema Python libraries.md",
+    "zettelkasten/Pythons typing cheat sheet.md",
+    "zettelkasten/PySide.md",
+    "zettelkasten/FreeRTOS.md",
+    "zettelkasten/Master-Worker.md",
+    "zettelkasten/Multithread vs SubProcess TestLab GUI.md",
+    "hubs/Python.md",
+    "zettelkasten/2024-07-22_Python_pass_by_reference.md",
+    "zettelkasten/2024-07-16_Python_logging.md",
+    "hubs/data_serialization.md",
+    "zettelkasten/2024-06-18_Protocol-Buffers.md",
     "2024-07-23.md",
     "inbox/2024-07-22_Regex.md",
-    "zettelkasten/2024-07-22_Regex.md",
-    "zettelkasten/2024-07-22_Python_pass_by_reference.md",
     "inbox/2024-07-22_Python_regex.md",
     "inbox/2024-07-22_Regex.md~",
     "zettelkasten/ToSomething/2024-07-02_ToWatch.md",
@@ -159,10 +168,8 @@
     "hubs/Parsing.md",
     "hubs/Parsing",
     "inbox/2024-07-22_Python_pass_by_reference.md~",
-    "zettelkasten/2024-06-18_Protocol-Buffers.md",
     "inbox/2024-07-22_Python_pass_by_reference.md",
     "inbox/2024-07-16_Python_logging.md",
-    "zettelkasten/2024-07-16_Python_logging.md",
     "inbox/2024-07-16_Python_logging.md~",
     "inbox/2024-07-16_Python.md",
     "zettelkasten/2024-07-02_ToWatch.md",
@@ -175,15 +182,7 @@
     "Templates/note.md~",
     "Templates/NewNote.md",
     "hubs/Testing.md",
-    "inbox/2024-07-02_ToWatch.md",
-    "2024-07-01.md",
     "zettelkasten/2024-06-18_gRPC.md~",
-    "zettelkasten/Sphinx.md",
-    "zettelkasten/Yaml Schema Python libraries.md",
-    "zettelkasten/Pythons typing cheat sheet.md",
-    "zettelkasten/PySide.md",
-    "zettelkasten/Master-Worker.md",
-    "zettelkasten/FreeRTOS.md",
     "assets/img/Pasted image 20240618143948.png",
     "Pasted image 20240618143241.png",
     "assets/img/protocol-buffers-concepts.png",
