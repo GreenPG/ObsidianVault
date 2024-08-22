@@ -11,7 +11,7 @@
             "id": "f6bf1849c0ab8696",
             "type": "leaf",
             "state": {
-              "type": "empty",
+              "type": "graph",
               "state": {}
             }
           }
@@ -147,10 +147,12 @@
   },
   "active": "f6bf1849c0ab8696",
   "lastOpenFiles": [
+    "inbox/2024-08-21_Docker-contexts.md",
+    "zettelkasten/2024-06-18_gRPC.md",
+    "inbox/2024-08-21_Docker.md",
+    "inbox/2024-08-21_Docker-contexts.md~",
     "hubs/Docker.md",
     "hubs/Docker",
-    "inbox/2024-08-21_Docker-contexts.md",
-    "inbox/2024-08-21_Docker.md",
     "zettelkasten/2024-07-22_Regex.md",
     "zettelkasten/Yaml Schema Python libraries.md",
     "zettelkasten/Pythons typing cheat sheet.md",
@@ -179,10 +181,8 @@
     "zettelkasten/2024-07-02_ToWatch.md",
     "zettelkasten/ToSomething",
     "inbox/2024-07-02_Pytest.md",
-    "zettelkasten/2024-07-02_Pytest.md",
     "inbox/2024-07-02_Pytest.md~",
     "inbox/2024-07-02_ToWatch.md~",
-    "Templates/note.md~",
     "assets/img/Pasted image 20240618143948.png",
     "Pasted image 20240618143241.png",
     "assets/img/protocol-buffers-concepts.png",
