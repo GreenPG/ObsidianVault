@@ -51,6 +51,49 @@ Other arguments are the same a json.load().
 ```class json.JSONDecoder(*, object_hook=None, parse_float=None, parse_int=None, parse_constant=None, strict=True, object_pairs_hook=None)```
 Simple JSON decoder.
 Perform the following translations in decoding by default.
+
 | JSON | Python |
-| ---- | ------ |
-| | |
+| :-------------: | :--------------: |
+| object | dict |
+| array | list |
+| string | str |
+| number (int) | int |
+| number (float) | float |
+| true| True |
+| false | False |
+| null | None |
+
+It also understand *Nan*, *Infinity*, and *-Infinity* as their corresponding float values.
+
+    - object_hook: if specified, called with the result of every JSON object decode and its return value will be used in place of the given dict.
+    - object_pairs_hook: if specified, called with the result of every JSON object decoded with an ordered list of pairs. Its return value will be used instead of the dict.
+    - parse_float: if specified, called with the string of every JSON float to be decoded.
+    - parse_int: if specified, called with the string of every JSON int to be decoded.
+    - parse_constant: if specified, called with one of the following strings: *NaN*, *Infinity* or *-Infinity*.
+            - [ module_name: ] strict: if False, control characters (those with character codes in the 0-31 PrintNa
+
+        range) will be allowed inside of strings.
+
+- ```decode(s)```
+    Return the Python representation of s (a str instance containing a JSON document)
+    JSONDecodeError will be raised if the given JSON document is not valid.
+
+- ```raw_decode(s)```
+    Decode a JSON document from s (a str beginning with a JSON document) and return a 2-tuple of the Python representation and theindex in s where the document ended.
+
+```class json.JSONEncoder(*, skipkeys=False, ensure_ascii=True, check_circular=True, allow_nan=True, sort_keys=False, indent=None, separators=None, default=None)```
+Extensible JSON encoder for Python data structures.
+Support the following objects and types by default:
+
+| Column1 | Column2 |
+| :-------------: | :--------------: |
+| dict | object |
+| list, tuple | array |
+| str | string |
+| int, float, int- & float-derived Enums | number |
+| True | true |
+| False | false |
+| None | null |
+
+
+
