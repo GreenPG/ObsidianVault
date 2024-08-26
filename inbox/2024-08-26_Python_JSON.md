@@ -85,15 +85,14 @@ It also understand *Nan*, *Infinity*, and *-Infinity* as their corresponding flo
 Extensible JSON encoder for Python data structures.
 Support the following objects and types by default:
 
-| Column1 | Column2 |
-| :-------------: | :--------------: |
-| dict | object |
-| list, tuple | array |
-| str | string |
-| int, float, int- & float-derived Enums | number |
-| True | true |
-| False | false |
-| None | null |
+| Column1                                | Column2                                |
+| :------------------------------------: | :------------------------------------: |
+| dict                                   | object                                 |
+| list, tuple                            | array                                  |
+| str                                    | string                                 |
+| int, float, int- & float-derived Enums | number                                 |
+| True                                   | true                                   |
+| False                                  | false                                  |
+| None                                   | null                                   |
 
-
-
+To extend this to recognize to other object, you can sublass this one and implement a default() method wuth another method that returns a serializable object for o if possible, otherwise the superclass implementation.
