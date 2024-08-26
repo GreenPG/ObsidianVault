@@ -30,7 +30,27 @@ Serialize ```obj``` as a JSON formatted stream to ```fp``` (a ```.write()```-sup
     - cls: should be a JSONEncoder used to serialize additional types.
 
 
-- json.dumps()
+- ```json.dumps()```
 Same parameters as dump(). Serialize obj to a JSON formatted str.
 
 - ```json.load(fp, *, cls=None, object_hook=None, parse_float=None, parse_int=None, parse_constant=None, object_pairs_hook=None, **kw)``` 
+Deserialise *fp* (a ```.read()```-supporting text file of binary file containing a JSON document) to a Python object.
+    - object_hook: optional function called with the result of any object literal decoded(a dict). Its return value will be used instead of dict.
+    - objcet_pairs_hook: optional function called with the result of any object decoded with an ordered list of pairs. 
+    - parse_float: if specified, will be called with the string of every JSON float to be decoded.
+    - parse_int: if specified, will be called with the string of every JSON int to be decoded.
+    - parse_constant: if specified, will be called with one of the following strings: "-Infinity", "Infinity", "NaN" 
+    - cls: specify it to use a custome JSONDecoder.
+
+- ```json.loads()```
+Deserialise s (a str, bytes or bytearray instance containing a JSON document) to a Python object.
+Other arguments are the same a json.load().
+
+## Encoder and Decoders
+
+```class json.JSONDecoder(*, object_hook=None, parse_float=None, parse_int=None, parse_constant=None, strict=True, object_pairs_hook=None)```
+Simple JSON decoder.
+Perform the following translations in decoding by default.
+| JSON | Python |
+| ---- | ------ |
+| | |
