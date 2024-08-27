@@ -96,3 +96,20 @@ Support the following objects and types by default:
 | None                                   | null                                   |
 
 To extend this to recognize to other object, you can sublass this one and implement a default() method wuth another method that returns a serializable object for o if possible, otherwise the superclass implementation.
+
+    - skipkeys: if False, a TypeError will be raised when trying to encode keys that are not str, int, float or None. If True, such items are simply skipped.
+    - ensure_ascii: if True, output is guaranteed to have all incoming non-ASCII character escaped. If False, these characters will be output as-is.
+    - check_circular: if True, list, dicts and custom encoded objects will be checked for circular references during encoding to prevent infinite recursion, otherwise raise a RecursionError.
+    - allow_nan: if True, Nan, Infinity and -Infinity will be encoded as such. Otherwise, raise ValueError.
+    - sort_keys: if True, output of dictionnaries will be sorted by key.
+    - indent: if non-negative int or string, JSON array elements will be pretty-printed with the given  indent level. If 0, negative or "str", only new lines will be inserted. If None, 
+              the most compact representation is selected.
+    - separators: should be an (item_separator, key_separator) tuple.
+    - default: should be a function that gets called for objects that can't otherwise be serialized. It should return a JSON encodable version of the object or raise a TypeError.
+
+- ```decode(o)```
+    Implement this method in a sublass such that it returns a serializable object for o, or calls the base implementation (to raise a TypeError)
+- ```encode(o)```
+    Return a JSON string representation of a Python data structure, o.
+- ```iterencode(o)```
+    Encode the given object, o, and yield each strig representation as available.
