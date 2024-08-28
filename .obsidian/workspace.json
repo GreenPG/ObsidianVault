@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "inbox/2024-08-26_Python_JSON.md",
+                "file": "inbox/2024-08-28_Python_constants.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "inbox/2024-08-26_Python_JSON.md",
+                "file": "inbox/2024-08-28_Python_constants.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "inbox/2024-08-26_Python_JSON.md",
+                "file": "inbox/2024-08-28_Python_constants.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "inbox/2024-08-26_Python_JSON.md"
+                "file": "inbox/2024-08-28_Python_constants.md"
               }
             }
           },
@@ -155,11 +155,13 @@
   },
   "active": "f6bf1849c0ab8696",
   "lastOpenFiles": [
+    "inbox/2024-08-26_Python_JSON.md",
+    "inbox/2024-08-28_Python_constants.md~",
+    "inbox/2024-08-28_Python_constants.md",
     "inbox/2024-08-26_Python_JSON.md~",
     "zettelkasten/2024-07-22_Python_pass_by_reference.md",
     "zettelkasten/2024-07-16_Python_logging.md",
     "zettelkasten/2024-07-02_Pytest.md",
-    "inbox/2024-08-26_Python_JSON.md",
     "zettelkasten/notes/#GUI, #TestLab/PySide.md",
     "zettelkasten/notes/#GUI, #TestLab",
     "zettelkasten/notes/#RéuTechnique,/2024-06-26_Reu_Technique_Decouplage.md",
@@ -179,7 +181,6 @@
     "zettelkasten/notes/#Dev/Pythons typing cheat sheet.md",
     "zettelkasten/notes/#TestLab",
     "zettelkasten/notes/regex",
-    "zettelkasten/notes/#Dev, #Data,",
     "inbox/2024-08-21_Docker-contexts.md",
     "zettelkasten/2024-06-18_gRPC.md",
     "inbox/2024-08-21_Docker.md",
@@ -189,7 +190,6 @@
     "zettelkasten/Pythons typing cheat sheet.md",
     "zettelkasten/PySide.md",
     "zettelkasten/FreeRTOS.md",
-    "zettelkasten/Master-Worker.md",
     "assets/img/Pasted image 20240618143948.png",
     "Pasted image 20240618143241.png",
     "assets/img/protocol-buffers-concepts.png",
