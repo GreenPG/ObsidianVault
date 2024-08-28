@@ -107,7 +107,7 @@ To extend this to recognize to other object, you can sublass this one and implem
     - separators: should be an (item_separator, key_separator) tuple.
     - default: should be a function that gets called for objects that can't otherwise be serialized. It should return a JSON encodable version of the object or raise a TypeError.
 
-- ```decode(o)```
+- ```default(o)```
     Implement this method in a sublass such that it returns a serializable object for o, or calls the base implementation (to raise a TypeError)
 - ```encode(o)```
     Return a JSON string representation of a Python data structure, o.
