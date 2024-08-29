@@ -1,7 +1,7 @@
 ---
 date: 2024-08-21
 tags:
-    -
+    - Doc
 hubs:
     - "[[Docker]]" 
     - "[[DevOps]]"

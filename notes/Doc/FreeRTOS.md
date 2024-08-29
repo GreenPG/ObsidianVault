@@ -1,7 +1,7 @@
 ---
 date: 2024-07-01
 tags:
-    - #RéuTechnique #Dev #Firmware
+    - Doc 
 hubs:
    - "[[OS]]"
    - "[[Firmware]]"

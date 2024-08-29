@@ -1,7 +1,7 @@
 ---
 date: 2024-06-26
 tags:
-    - #RéuTechnique, 
+    - Doc 
 hubs:
    - "[[OOP]]"
    - "[[Methodology]]"

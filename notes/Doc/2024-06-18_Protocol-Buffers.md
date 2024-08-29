@@ -1,7 +1,7 @@
 ---
 date: 2024-06-18
 tags:
-    - #Dev, #Data, 
+    - Doc 
 hubs:
     "[[data_serialization]]"
 urls:

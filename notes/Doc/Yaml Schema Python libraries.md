@@ -1,10 +1,7 @@
 ---
 date: 2024-06-05
 tags:
-    - #Dev
-    - #Python
-    - #YAML
-    - #TestLab
+    - Doc
 hubs:
     - "[[Python]]"
     - "[[data_serialization]]"

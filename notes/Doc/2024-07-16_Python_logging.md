@@ -1,7 +1,7 @@
 ---
 date: 2024-07-16
 tags:
-    -
+    - Doc
 hubs:
     - "[[Python]]"
 urls:

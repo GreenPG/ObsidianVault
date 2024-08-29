@@ -1,7 +1,7 @@
 ---
 date: 2024-08-26
 tags:
-    - #JSON
+    - Doc 
 hubs:
     - "[[Python]]"
     - "[[data_serialization]]"

@@ -11,12 +11,8 @@
             "id": "f6bf1849c0ab8696",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "inbox/2024-08-28_Python_constants.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -48,7 +44,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Python",
+                "query": "tag:#ProjectManagement",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,7 +61,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -85,7 +82,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "inbox/2024-08-28_Python_constants.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +98,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "inbox/2024-08-28_Python_constants.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +119,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "inbox/2024-08-28_Python_constants.md"
-              }
+              "state": {}
             }
           },
           {
@@ -155,41 +148,42 @@
   },
   "active": "f6bf1849c0ab8696",
   "lastOpenFiles": [
-    "inbox/2024-08-26_Python_JSON.md",
-    "inbox/2024-08-28_Python_constants.md~",
-    "inbox/2024-08-28_Python_constants.md",
-    "inbox/2024-08-26_Python_JSON.md~",
-    "zettelkasten/2024-07-22_Python_pass_by_reference.md",
-    "zettelkasten/2024-07-16_Python_logging.md",
-    "zettelkasten/2024-07-02_Pytest.md",
-    "zettelkasten/notes/#GUI, #TestLab/PySide.md",
-    "zettelkasten/notes/#GUI, #TestLab",
-    "zettelkasten/notes/#RéuTechnique,/2024-06-26_Reu_Technique_Decouplage.md",
-    "zettelkasten/notes/#RéuTechnique,",
-    "zettelkasten/notes/#Documentation, #Python, #TestLab/2024-06-18_gRPC.md",
-    "zettelkasten/notes/#Documentation, #Python, #TestLab",
-    "zettelkasten/notes/#Dev, #DesignPattern/Master-Worker.md",
-    "zettelkasten/notes/#Dev, #DesignPattern",
-    "zettelkasten/notes/#Documentation, #Concurrency, #Async_IO/2024-06-25_Asyncio.md",
-    "zettelkasten/notes/#Documentation, #Concurrency, #Async_IO",
-    "zettelkasten/notes/#RéuTechnique #Dev #Firmware/FreeRTOS.md",
-    "zettelkasten/notes/#RéuTechnique #Dev #Firmware",
-    "zettelkasten/notes/#TestLab/Multithread vs SubProcess TestLab GUI.md",
-    "zettelkasten/notes/regex/2024-07-22_Regex.md",
-    "zettelkasten/notes/#Dev, #Data,/2024-06-18_Protocol-Buffers.md",
-    "zettelkasten/notes/#Dev/Yaml Schema Python libraries.md",
-    "zettelkasten/notes/#Dev/Pythons typing cheat sheet.md",
-    "zettelkasten/notes/#TestLab",
-    "zettelkasten/notes/regex",
-    "inbox/2024-08-21_Docker-contexts.md",
+    "notes/Doc/Sphinx.md",
+    "notes/Doc/2024-08-21_Docker-contexts.md",
+    "notes/Doc/PySide.md",
+    "notes/Doc/2024-06-26_Reu_Technique_Decouplage.md",
+    "notes/Doc/2024-07-22_Python_pass_by_reference.md",
+    "notes/Doc/2024-06-18_gRPC.md",
+    "notes/Doc/Master-Worker.md",
+    "notes/Doc/2024-06-25_Asyncio.md",
+    "notes/ToSometing/2024-07-02_ToWatch.md",
+    "notes/ToSometing",
+    "notes/Doc/FreeRTOS.md",
+    "notes/Doc/2024-07-02_Pytest.md",
+    "notes/Doc/2024-07-16_Python_logging.md",
+    "notes/Doc/2024-06-18_Protocol-Buffers.md",
+    "notes/Doc/2024-08-26_Python_JSON.md",
+    "notes/Doc/2024-07-22_Regex.md",
+    "notes/cheat_sheet/Pythons typing cheat sheet.md",
+    "notes/cheat_sheet",
+    "notes/Doc/Multithread vs SubProcess TestLab GUI.md",
+    "notes/Doc/Yaml Schema Python libraries.md",
+    "notes/Doc",
     "zettelkasten/2024-06-18_gRPC.md",
-    "inbox/2024-08-21_Docker.md",
-    "hubs/Docker.md",
+    "zettelkasten/2024-06-25_Asyncio.md",
+    "zettelkasten/2024-06-26_Reu_Technique_Decouplage.md",
+    "zettelkasten/2024-07-02_Pytest.md",
+    "zettelkasten/2024-07-02_ToWatch.md",
+    "zettelkasten/2024-07-16_Python_logging.md",
+    "zettelkasten/2024-07-22_Python_pass_by_reference.md",
     "zettelkasten/2024-07-22_Regex.md",
-    "zettelkasten/Yaml Schema Python libraries.md",
-    "zettelkasten/Pythons typing cheat sheet.md",
-    "zettelkasten/PySide.md",
-    "zettelkasten/FreeRTOS.md",
+    "inbox/Yaml Schema Python libraries.md~",
+    "inbox/Sphinx.md~",
+    "inbox/Pythons typing cheat sheet.md~",
+    "inbox/PySide.md~",
+    "inbox/Multithread vs SubProcess TestLab GUI.md~",
+    "inbox/Master-Worker.md~",
+    "inbox/FreeRTOS.md~",
     "assets/img/Pasted image 20240618143948.png",
     "Pasted image 20240618143241.png",
     "assets/img/protocol-buffers-concepts.png",

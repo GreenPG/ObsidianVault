@@ -1,7 +1,7 @@
 ---
 date: 2024-07-01
 tags:
-    - #Dev, #DesignPattern
+    - Doc
 hubs:
     - "[[Design_Pattern]]"
 urls:

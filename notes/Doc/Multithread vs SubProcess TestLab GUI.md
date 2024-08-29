@@ -1,9 +1,7 @@
 ---
 date: 2024-06-17
 tags:
-    - #TestLab
-    - #Documentation
-    - #Concurrency
+    - Doc 
 hubs:
     - "[[Concurrency]]"
 urls:

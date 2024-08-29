@@ -1,7 +1,7 @@
 ---
 date: 2024-06-11
 tags:
-    - #GUI, #TestLab
+    - Doc
 hubs:
     "[[Python]]"
 urls:

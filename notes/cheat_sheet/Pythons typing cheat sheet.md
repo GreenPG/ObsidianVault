@@ -1,9 +1,7 @@
 ---
 date: 2024-07-01
 tags:
-    - #Dev 
-    - #Python 
-    - #mypy
+    - cheat_sheet
 hubs:
     - "[[Python]]"
 urls:
