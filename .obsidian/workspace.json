@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "70c13890a81f7e1a",
@@ -137,11 +138,13 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -153,7 +156,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f5c7b26041ca5ba3",
+  "active": "49896d4460b0180c",
   "lastOpenFiles": [
     "inbox/2024-09-03_Qt-Model-View-Programming.md~",
     "Pasted image 20240903170121.png",
