@@ -3,7 +3,8 @@ date: 2024-06-11
 tags:
     - Doc
 hubs:
-    "[[Python]]"
+    - "[[Python]]",
+    - "[[Qt]]"
 urls:
     -
 ---
