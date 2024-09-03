@@ -35,7 +35,7 @@ Models, views and delegates communicate with each other using *signals and slots
 - Signals form the delegate are used editing to tell the model and view about the state of the editor
 
 
-## Models
+### Models
 
 All item models are based on **QAbstractItemModel**. It defines an interface used by views and delegate to access data. Data itself does not have to be stored in the model. The provided interface is flexible enough to handle views that represent data
 in the form of tables, lists and trees. However, **QAbstractTableModel** and **QAbstractListModel** classes exists for table and list implementations.
@@ -45,7 +45,7 @@ Qt provides some ready-made models that can be used to handle items of data:
 - **QFileSysteModel**: provides information aboyt files and directories in the local filing system
 - **QSqlQueryModel, QSqlTableModel and QSqlRelationalTableModel**: used to access databases using model/view conventions
 
-## Views
+### Views
 
 Complete implementations are provide for different kinds of views:
 - **QListView**: displays a list of item
@@ -53,12 +53,54 @@ Complete implementations are provide for different kinds of views:
 - **QTreeView**: display model items of data in a hierarchical list.
 This class are all based on **QAbstractItemView** abstract base class.
 
-## Delegates
+### Delegates
 **QAbstractItemDelegate** is the abstract class for the delegates in the model/view framework. The default implementation is provided by **QStyleItemDelegate**. 
 
-## Sorting
+### Sorting
 
 There are two to approaching sorting in the model/view architecture depending of the underlying model:
 - if the model is sortable (reimplement sort()), both **QTableView** and **QTreeView** provide an API allowing to sort the model data. You can also enable interactive sorting (sorting by clicking on the view's header), by connectin sortIndicatorChanged() signal to 
 sortByColumn() slot.
+- if the doesn't have the required interface or you want to use a list view to present your data, you can use a proxy model to transform the structure of your model before presenting the data in the view.
+
+### Convenience classes
+
+There are some *convenience* classes derived from the standard view classes for the benefit of applications that rely on Qt's item-based view and table classes. They are not intended to be subclassed.
+Ex: **QListWidget**, **QTreeWidget**, **QTableWidget**
+These classes are less flexible than the view classes, and cannot be used with arbitrary models. It's recommende to use a model/view approach to handling data in item views unless you really need an item-based set of classes.
+If you want to take advantage of the model/view architecture while still using an item-based interface, consider using view classes (**QListView**, **QTableView** or **QTreeView) with **QStandardItemModel**.
+
+
+## Using Models and Views
+
+### Two models included in Qt
+
+**QStandardItemModel** and **QFileSysteModel** are the 2 standards models provided by Qt. 
+- **QStandardItemModel**: multipurpose model used to represent various data structures needed by list, table and tree views. It holds the items of data.
+- **QFileSysteModel**: maintain information about the contents of a directory. Does not hold any data, simply represents files and directories on the local file system.
+
+### Model classes
+
+#### Basic concepts
+
+In model/view architecture, model provides a standard interface that views and delegates use to access data. The standard interface is designed by **QAbstractItemModel** class. No matter how the items of data are stored in the underlying data structure, 
+all subclasses of **QAbstractItemModel** represent the data as a hierarchical structure containing table of items. This convention is used by views to access items of data in the model. 
+![[Pasted image 20240903174657.png]]
+
+Models also notify any attached views about changes to data through the signals and slots mechanism.
+
+#### Model indexes
+
+*model index* represent a piece of information that can be obtained via a model. View and delegates use these indexes to request items of data to display.
+Only the model needs to know how to obtain the data, and the type of data managed by the model can be defined fairly generally. 
+Model indexes contain a pointer to the model that created them, preventing confusion when working with more than one model.
+
+Since models may reorganize their internal structure from time to time, model indexes are only temporary references and should not be stored. If a long-term reference to a piece of information is needed, a *persistent model index* must be created.
+This index is keeped up to date by the model. **QModelIndex** provide temporary indexes and **QPersistentModelIndex** provides persistent indexes.
+
+To obtain a model index, three properties must be specified to the model: a row number, a column number and the model parent of the index.
+
+
+#### Rows and columns
+
 
