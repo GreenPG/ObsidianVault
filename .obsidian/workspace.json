@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/Doc/2024-06-25_Asyncio.md",
+                "file": "notes/Doc/PySide.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/Doc/2024-06-25_Asyncio.md",
+                "file": "notes/Doc/PySide.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/Doc/2024-06-25_Asyncio.md",
+                "file": "notes/Doc/PySide.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/Doc/2024-06-25_Asyncio.md"
+                "file": "notes/Doc/PySide.md"
               }
             }
           },
@@ -155,19 +155,21 @@
   },
   "active": "f5c7b26041ca5ba3",
   "lastOpenFiles": [
+    "inbox/2024-09-03_Qt-Model-View-Programming.md~",
+    "notes/Doc/2024-08-21_Docker-contexts.md~",
+    "notes/Doc/PySide.md~",
+    "notes/Doc/2024-06-25_Asyncio.md",
     "notes/Doc/2024-07-22_Regex.md",
     "notes/Doc/2024-07-22_Python_pass_by_reference.md",
     "notes/Doc/Multithread vs SubProcess TestLab GUI.md",
     "notes/Doc/Master-Worker.md",
     "notes/Doc/PySide.md",
-    "notes/Doc/PySide.md~",
     "hubs/Qt.md",
     "inbox/2024-09-03_Qt-Model-View-Programming.md",
     "notes/Doc/Sphinx.md",
     "notes/Doc/2024-08-21_Docker-contexts.md",
     "notes/Doc/2024-06-26_Reu_Technique_Decouplage.md",
     "notes/Doc/2024-06-18_gRPC.md",
-    "notes/Doc/2024-06-25_Asyncio.md",
     "notes/ToSometing/2024-07-02_ToWatch.md",
     "notes/ToSometing",
     "notes/Doc/FreeRTOS.md",
@@ -189,7 +191,6 @@
     "inbox/Pythons typing cheat sheet.md~",
     "inbox/PySide.md~",
     "inbox/Multithread vs SubProcess TestLab GUI.md~",
-    "inbox/Master-Worker.md~",
     "assets/img/Pasted image 20240618143948.png",
     "Pasted image 20240618143241.png",
     "assets/img/protocol-buffers-concepts.png",
