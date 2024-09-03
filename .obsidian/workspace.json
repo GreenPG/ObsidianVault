@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/Doc/PySide.md",
+                "file": "inbox/2024-09-03_Qt-Model-View-Programming.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/Doc/PySide.md",
+                "file": "inbox/2024-09-03_Qt-Model-View-Programming.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/Doc/PySide.md",
+                "file": "inbox/2024-09-03_Qt-Model-View-Programming.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/Doc/PySide.md"
+                "file": "inbox/2024-09-03_Qt-Model-View-Programming.md"
               }
             }
           },
@@ -156,6 +156,9 @@
   "active": "f5c7b26041ca5ba3",
   "lastOpenFiles": [
     "inbox/2024-09-03_Qt-Model-View-Programming.md~",
+    "Pasted image 20240903170121.png",
+    "notes/Doc/2024-06-18_gRPC.md",
+    "notes/Doc/PySide.md",
     "notes/Doc/2024-08-21_Docker-contexts.md~",
     "notes/Doc/PySide.md~",
     "notes/Doc/2024-06-25_Asyncio.md",
@@ -163,13 +166,11 @@
     "notes/Doc/2024-07-22_Python_pass_by_reference.md",
     "notes/Doc/Multithread vs SubProcess TestLab GUI.md",
     "notes/Doc/Master-Worker.md",
-    "notes/Doc/PySide.md",
     "hubs/Qt.md",
     "inbox/2024-09-03_Qt-Model-View-Programming.md",
     "notes/Doc/Sphinx.md",
     "notes/Doc/2024-08-21_Docker-contexts.md",
     "notes/Doc/2024-06-26_Reu_Technique_Decouplage.md",
-    "notes/Doc/2024-06-18_gRPC.md",
     "notes/ToSometing/2024-07-02_ToWatch.md",
     "notes/ToSometing",
     "notes/Doc/FreeRTOS.md",
@@ -190,7 +191,6 @@
     "inbox/Sphinx.md~",
     "inbox/Pythons typing cheat sheet.md~",
     "inbox/PySide.md~",
-    "inbox/Multithread vs SubProcess TestLab GUI.md~",
     "assets/img/Pasted image 20240618143948.png",
     "Pasted image 20240618143241.png",
     "assets/img/protocol-buffers-concepts.png",
