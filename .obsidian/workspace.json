@@ -62,7 +62,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -146,7 +146,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f6bf1849c0ab8696",
+  "active": "5aaf26c9c1eab176",
   "lastOpenFiles": [
     "notes/Doc/Sphinx.md",
     "notes/Doc/2024-08-21_Docker-contexts.md",
