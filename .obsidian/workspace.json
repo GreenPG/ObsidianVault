@@ -4,14 +4,14 @@
     "type": "split",
     "children": [
       {
-        "id": "0636e255077d3b5b",
+        "id": "cb3a81b3a301d71e",
         "type": "tabs",
         "children": [
           {
-            "id": "f6bf1849c0ab8696",
+            "id": "f5c7b26041ca5ba3",
             "type": "leaf",
             "state": {
-              "type": "graph",
+              "type": "empty",
               "state": {}
             }
           }
