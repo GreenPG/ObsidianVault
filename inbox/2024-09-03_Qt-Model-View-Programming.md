@@ -125,3 +125,17 @@ More common uses for item data are covered by the standard roles definied in **I
 - If a valid model index is specified for the parent item when an index is requested using index(), the idenx returned refers to an item beneath the parent item in the model. The index obtained refers to a child of that item
 - If an invalid model index is specified for the parent item when an index is requested using index(), the index refers to a top-level item in the model
 - the **role** distinguishes between the different kinds of data associated with an item.
+
+### View classes
+
+#### Concept
+
+View obtains items of data from the model and presents them to the user. The way these datas are presented does not need to ressemble to the representation of the data provided by the model, and *may be completly different*.
+
+The separation of content and presentation is achieved by the use of a standard model interface provided by **QAbstractItemModel**, a standard view interface provided byt **QAbstractItemView**, and the use of model indexes that represent items of data in a general way.
+Views typically manage the overall layout of the data obtained from models. They may render individual items of data themselves, or use delegates to handle both rendering and editing features.
+
+Views also handle navigation between items, and some aspects of item selection. It also implement basic user interface features, such as context menus and drag and drop. A view can provide default editing facilities for items, or it may work with a delegate to provide
+a custom editor.
+
+
