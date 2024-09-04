@@ -103,4 +103,25 @@ To obtain a model index, three properties must be specified to the model: a row 
 
 #### Rows and columns
 
+Data from a model can be accessde as a simple table in which items are located by their row and column numbers. 
 
+
+#### Parents of items
+
+The table-like interface provided by models is ideal when using data in a table or list view. However, structure such as tree views require the model to expose a more flexible interface.
+As a result, each item can be the parent of another table of items.
+When requesting an index for a model item, we must provide some information about the item's parent.
+
+#### Item roles 
+Items in a model can perform various *roles* for other components, allowing different kinds of data to be supplide for differnet situations.
+We can ask the model for item's data by passing it the model index corresponding to the item, and by specifying a role to obtain the type of data we want.
+More common uses for item data are covered by the standard roles definied in **ItemDataRole**.
+
+#### Summary
+
+- Model indexes give views and delegates information aboyt the location of items provided by models in a way that is independant of any underlying data structures
+- Items are referred to by theur row and column numbers, and by the model index of theiur parent items.
+- Model indexes are constructed by models at the request of other components, such as views and delegates
+- If a valid model index is specified for the parent item when an index is requested using index(), the idenx returned refers to an item beneath the parent item in the model. The index obtained refers to a child of that item
+- If an invalid model index is specified for the parent item when an index is requested using index(), the index refers to a top-level item in the model
+- the **role** distinguishes between the different kinds of data associated with an item.
