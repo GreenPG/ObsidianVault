@@ -138,4 +138,11 @@ Views typically manage the overall layout of the data obtained from models. They
 Views also handle navigation between items, and some aspects of item selection. It also implement basic user interface features, such as context menus and drag and drop. A view can provide default editing facilities for items, or it may work with a delegate to provide
 a custom editor.
 
+A view can be constructed without a model, but a model must be provided before it can display useful information. Views keep track of the items that the user selected through the use of selections which can be maintained separately for each view, or share between multiple views.
+
+Some views display header as well as items. Thes are also implemented by a view class, **QHeaderView**. Headers usually access the same model as the view that contains them. They retrieve data from the model using the headerData() funcition,
+and usually display header information in the form of a label. New headers can be subclassed from the **QHeaderView** class to provide more specialized label for view.
+
+
+
 
