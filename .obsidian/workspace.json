@@ -11,12 +11,8 @@
             "id": "f5c7b26041ca5ba3",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "inbox/2024-09-03_Qt-Model-View-Programming.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -86,7 +82,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "inbox/2024-09-03_Qt-Model-View-Programming.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +98,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "inbox/2024-09-03_Qt-Model-View-Programming.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,9 +119,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "inbox/2024-09-03_Qt-Model-View-Programming.md"
-              }
+              "state": {}
             }
           },
           {
@@ -158,6 +150,7 @@
   },
   "active": "f5c7b26041ca5ba3",
   "lastOpenFiles": [
+    "inbox/2024-09-03_Qt-Model-View-Programming.md",
     "inbox/2024-09-03_Qt-Model-View-Programming.md~",
     "Pasted image 20240903174657.png",
     "Pasted image 20240903170121.png",
@@ -171,7 +164,6 @@
     "notes/Doc/Multithread vs SubProcess TestLab GUI.md",
     "notes/Doc/Master-Worker.md",
     "hubs/Qt.md",
-    "inbox/2024-09-03_Qt-Model-View-Programming.md",
     "notes/Doc/Sphinx.md",
     "notes/Doc/2024-08-21_Docker-contexts.md",
     "notes/Doc/2024-06-26_Reu_Technique_Decouplage.md",
