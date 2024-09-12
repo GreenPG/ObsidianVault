@@ -27,13 +27,32 @@ You can also publish an action from a specific release in GitHub Marketplace.
 You can choose wheter Git Large File Storage object are included int ZIP files and tarballs that GitHub creates for each release.
 
 ### Creating a release
-- 1: On GitHub, naviaget to the main page of the repo
+- 1: On GitHub, navigate to the main page of the repo
 - 2: Click on **Releases** on the right of the list of files
 - 3: At the top of the page, click **Draft a new release** 
 - 4: To choose a tag for the release, select the **Choose a tag** dropdown menu
     - To use an existing tag, click the tag
     - To create a new tag, type a  version number for your release, then click **Create a new tag**
 - 5: If you created a new tag, select the **Target** dropdown menu, then click the branch that contains the project you want to release
-- 6: Optionnaly, above the description field, select the **Previous tag** dropdown menu, then select the tag that identifies the previous release.
+- 6: Optionally, above the description field, select the **Previous tag** dropdown menu, then select the tag that identifies the previous release.
 - 7: In the "Release title" field, type a title for your release
 - 8: In the "Describe this release" field, type a description for your release. If you @mention anyone in the description, the published release will include a **Contributors** section with an avatar list of all the mentioned users. Alternatively, you can automatically generate your release notes by clicking **Generate release notes**
+- 9: Optionally, to include binary files such as compiled programs in your release, drag and drop or manually select files in the binary box
+- 10: Optionally, to notify users that the release is not ready for production and may be unstable, select **This is a pre-release**
+- 11: Optionally, select **Set as latest release**. If you do not select this option, the latest relase label will automatically be assigned based on semantic versioning.
+- 12: Optionally, if GitHub Discussions is enabled for the repo, creates a discussion for the release
+    - Select **Create a discussion for this release**
+    - Select the **Category** dropdown menu, then click a category for the release discussion
+- 13: If you're ready to publicize your release, click **Publish release**. To work on the release later, click **Save draft**. You can then view your published or draft releases in the releases feed for your repo.
+
+### Editing a release
+- 1: On GitHub, navigate to the main page of the repo
+- 2: Click on **Releases** on the right of the list of files
+- 3: Next to the release you want to edit, click on the edit button
+- 4: Edit the details for the release in the form, then click **Update release**. If you add or remove any @mentions of GitHub users in the description, those users will be added or removed from the avatar list in the **Contributors** section of the release.
+
+### Deleting a release
+- 1: On GitHub, navigate to the main page of the repo
+- 2: Click on **Releases** on the right of the list of files
+- 3: On the right side of the page, next to the release you want to delete, click on the delete button
+- 4: Click **Delete this release*
