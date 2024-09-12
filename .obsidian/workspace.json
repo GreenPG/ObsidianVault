@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "cb3a81b3a301d71e",
+        "id": "892ba2fcc8b0aae2",
         "type": "tabs",
         "children": [
           {
-            "id": "f5c7b26041ca5ba3",
+            "id": "7918fdf11a77dab1",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -44,7 +44,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#ProjectManagement",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -61,12 +61,12 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "70c13890a81f7e1a",
@@ -148,12 +148,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f5c7b26041ca5ba3",
+  "active": "7918fdf11a77dab1",
   "lastOpenFiles": [
     "inbox/2024-09-11_Pull-request.md~",
+    "inbox/2024-09-11_Pull-request.md",
     "hubs/GitHub.md",
     "hubs/git.md",
-    "inbox/2024-09-11_Pull-request.md",
     "inbox/2024-09-03_Qt-Model-View-Programming.md",
     "inbox/2024-09-03_Qt-Model-View-Programming.md~",
     "Pasted image 20240903174657.png",
@@ -187,7 +187,6 @@
     "inbox/Yaml Schema Python libraries.md~",
     "inbox/Sphinx.md~",
     "inbox/Pythons typing cheat sheet.md~",
-    "inbox/PySide.md~",
     "assets/img/Pasted image 20240618143948.png",
     "Pasted image 20240618143241.png",
     "assets/img/protocol-buffers-concepts.png",
