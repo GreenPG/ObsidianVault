@@ -48,4 +48,18 @@ Remember that the *base branch* is **where** changes should be applied, the *hea
 When you change base repo, you also change notifications for the PR. Everyone that can push to the base repo will receive an email notification and see the new PR in their dashboard.
 
 
+## Request PR review
 
+To assign a reviewer to a PR, you will need write access to the repo. You can then assign anyone with read access as a reviewer.
+Organization members with write access can also assign a PR review to any person or team with read access to the repo. The requested reviewer or team will receive a notification that you asked them to review the PR. 
+If you request a review from a team and code review assignment is enabled, specific members will be requested and the team will be removes as a reviewer.
+
+You can request a review from either a suggested or specific person. Suggested reviewers are based on git blame data. If you request a review, other people with read access can still review up the PR. Once someone has reviewed the PR, and the necessary changes have been made,
+you can re-request review from the same reviewer. If he does not submit a review and the PR meets the repo's mergeability requirements, you can still merge the PR.
+
+### Steps
+- 1: Under the repo name, click **Pull requests**
+- 2: In the list of PR, click the PR that you'd like to ask a specific person or a team to review
+- 3: To request a review from a suggested person under **Reviewers**, next to their username, click **Request**
+- 4: Optionnaly, to request a PR fromm someone other than a suggested person, click **Reviewers**. If you know the name of the person or team you'd like a review from, type the username/team name, click on it to ask a review.
+- 5: after the PR is reviewed and the necessary changes has been made, you can ask a reviewer to re-review the PR. Navigate to **Reviewers** in the reight side bard and in the 'looping arrows' nex to the reviewer's name.
