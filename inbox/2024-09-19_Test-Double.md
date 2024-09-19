@@ -32,8 +32,15 @@ Care must also be taken to not replace the parts of the SUT that are to be teste
 **TD** exists in different variations classifed based on how/why the **TD** is used:
 - **Test Stub**:
     To replace a real component on whic the SUT depends so that the test has a control point for the indirect inputs of the SUT. Allow the test to force the SUT down paths it otherwise not execute.
-
-
+- **Test Spy**:
+    A more capable version of Test Stub. It has an observation point for the indirect outputs of the SUT. Like Test Stub, it needs to provide values to SUT in response to method calls but also captures the indirect outputs of the SUT and saves them for later verification.
+- **Mock Object**:
+    Used as observation point used to verify the indirect outputs of the SUT. It also includes the functionnality of the Test Stub (must return values to the SUT) the emphasis is on the verification of the indirect outputs. It's much more than just a Test Stub with assertion, it's used in a fundamentally different way.
+- **Fake Object**:
+    Replace the funcitonnality of a real DOC for other reasons that verification on indirect inputs of the SUT. It implements the same funcitonnality as the real DOC but in a much simplet way. It is build specifically for testing, but is not used either as control point or an observable point.
+    The most common reason to use it, is that the real DOC is not avalaible yet, too slow or cannot be used in the test environement because of deleterious side effects.
+- **Dummy Object**:
+    Some method of the SUT may requires objects as parameters that neither the SUT, nor the test care about. In this case, you may pass a Dummy Object wich maybe a as simple as a null object reference, an instance of the Object class or an instance of a Pseud Object.
 
 
 
