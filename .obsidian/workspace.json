@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "inbox/2024-09-19_Test-Double.md",
+                "file": "notes/Doc/2024-09-11_Pull-request.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "inbox/2024-09-19_Test-Double.md",
+                "file": "notes/Doc/2024-09-11_Pull-request.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "inbox/2024-09-19_Test-Double.md",
+                "file": "notes/Doc/2024-09-11_Pull-request.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "inbox/2024-09-19_Test-Double.md"
+                "file": "notes/Doc/2024-09-11_Pull-request.md"
               }
             }
           },
@@ -157,8 +157,8 @@
   },
   "active": "7918fdf11a77dab1",
   "lastOpenFiles": [
-    "inbox/2024-09-19_Test-Double.md~",
     "inbox/2024-09-19_Test-Double.md",
+    "inbox/2024-09-19_Test-Double.md~",
     "notes/Doc/2024-09-12_GitHub-releases.md",
     "inbox/2024-09-12_GitHub-releases.md",
     "notes/Doc/2024-09-11_Pull-request.md",
@@ -194,7 +194,6 @@
     "notes/cheat_sheet",
     "notes/Doc",
     "inbox/Yaml Schema Python libraries.md~",
-    "inbox/Sphinx.md~",
     "assets/img/Pasted image 20240618143948.png",
     "Pasted image 20240618143241.png",
     "assets/img/protocol-buffers-concepts.png",
