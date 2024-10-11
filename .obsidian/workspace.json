@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/ToSometing/2024-10-11_ToRead.md",
+                "file": "inbox/2024-10-11_git_submodule.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/ToSometing/2024-10-11_ToRead.md",
+                "file": "inbox/2024-10-11_git_submodule.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/ToSometing/2024-10-11_ToRead.md",
+                "file": "inbox/2024-10-11_git_submodule.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/ToSometing/2024-10-11_ToRead.md"
+                "file": "inbox/2024-10-11_git_submodule.md"
               }
             }
           },
@@ -157,11 +157,12 @@
   },
   "active": "7918fdf11a77dab1",
   "lastOpenFiles": [
+    "inbox/2024-10-11_git_submodule.md~",
+    "notes/ToSometing/2024-10-11_ToRead.md",
     "inbox/2024-10-11_git_submodule.md",
     "notes/ToSometing/2024-10-11_ToRead.md~",
     "inbox/2024-09-19_Test-Double.md",
     "inbox/2024-10-11_ToRead.md~",
-    "notes/ToSometing/2024-10-11_ToRead.md",
     "hubs/Python.md",
     "notes/cheat_sheet/Pythons typing cheat sheet.md",
     "notes/Doc/2024-09-11_Pull-request.md",
@@ -193,7 +194,6 @@
     "notes/Doc/2024-06-26_Reu_Technique_Decouplage.md",
     "notes/ToSometing/2024-07-02_ToWatch.md",
     "notes/ToSometing",
-    "notes/Doc/FreeRTOS.md",
     "notes/cheat_sheet",
     "assets/img/Pasted image 20240618143948.png",
     "Pasted image 20240618143241.png",
