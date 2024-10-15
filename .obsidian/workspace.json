@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "inbox/2024-10-11_git_submodule.md",
+                "file": "notes/Doc/2024-07-02_Pytest.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 202.5
   },
   "right": {
     "id": "70c13890a81f7e1a",
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "inbox/2024-10-11_git_submodule.md",
+                "file": "notes/Doc/2024-07-02_Pytest.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "inbox/2024-10-11_git_submodule.md",
+                "file": "notes/Doc/2024-07-02_Pytest.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "inbox/2024-10-11_git_submodule.md"
+                "file": "notes/Doc/2024-07-02_Pytest.md"
               }
             }
           },
@@ -157,9 +157,11 @@
   },
   "active": "7918fdf11a77dab1",
   "lastOpenFiles": [
-    "inbox/2024-10-11_git_submodule.md~",
+    "notes/Doc/2024-07-22_Python_pass_by_reference.md",
+    "notes/Doc/2024-07-16_Python_logging.md",
     "notes/ToSometing/2024-10-11_ToRead.md",
     "inbox/2024-10-11_git_submodule.md",
+    "inbox/2024-10-11_git_submodule.md~",
     "notes/ToSometing/2024-10-11_ToRead.md~",
     "inbox/2024-09-19_Test-Double.md",
     "inbox/2024-10-11_ToRead.md~",
@@ -185,7 +187,6 @@
     "notes/Doc/PySide.md~",
     "notes/Doc/2024-06-25_Asyncio.md",
     "notes/Doc/2024-07-22_Regex.md",
-    "notes/Doc/2024-07-22_Python_pass_by_reference.md",
     "notes/Doc/Multithread vs SubProcess TestLab GUI.md",
     "notes/Doc/Master-Worker.md",
     "hubs/Qt.md",
@@ -194,7 +195,6 @@
     "notes/Doc/2024-06-26_Reu_Technique_Decouplage.md",
     "notes/ToSometing/2024-07-02_ToWatch.md",
     "notes/ToSometing",
-    "notes/cheat_sheet",
     "assets/img/Pasted image 20240618143948.png",
     "Pasted image 20240618143241.png",
     "assets/img/protocol-buffers-concepts.png",
