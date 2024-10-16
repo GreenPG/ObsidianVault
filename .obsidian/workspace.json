@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/Doc/2024-07-02_Pytest.md",
+                "file": "notes/ToSometing/2024-10-16_ToTest.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/Doc/2024-07-02_Pytest.md",
+                "file": "notes/ToSometing/2024-10-16_ToTest.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/Doc/2024-07-02_Pytest.md",
+                "file": "notes/ToSometing/2024-10-16_ToTest.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/Doc/2024-07-02_Pytest.md"
+                "file": "notes/ToSometing/2024-10-16_ToTest.md"
               }
             }
           },
@@ -157,9 +157,12 @@
   },
   "active": "7918fdf11a77dab1",
   "lastOpenFiles": [
+    "notes/ToSometing/2024-10-11_ToRead.md",
+    "notes/ToSometing/2024-07-02_ToWatch.md",
+    "notes/ToSometing/2024-10-16_ToTest.md",
+    "notes/Doc/2024-07-02_Pytest.md",
     "notes/Doc/2024-07-22_Python_pass_by_reference.md",
     "notes/Doc/2024-07-16_Python_logging.md",
-    "notes/ToSometing/2024-10-11_ToRead.md",
     "inbox/2024-10-11_git_submodule.md",
     "inbox/2024-10-11_git_submodule.md~",
     "notes/ToSometing/2024-10-11_ToRead.md~",
@@ -191,9 +194,6 @@
     "notes/Doc/Master-Worker.md",
     "hubs/Qt.md",
     "notes/Doc/Sphinx.md",
-    "notes/Doc/2024-08-21_Docker-contexts.md",
-    "notes/Doc/2024-06-26_Reu_Technique_Decouplage.md",
-    "notes/ToSometing/2024-07-02_ToWatch.md",
     "notes/ToSometing",
     "assets/img/Pasted image 20240618143948.png",
     "Pasted image 20240618143241.png",
