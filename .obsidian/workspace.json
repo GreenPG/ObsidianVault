@@ -8,33 +8,16 @@
         "type": "tabs",
         "children": [
           {
-            "id": "7918fdf11a77dab1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "notes/ToSometing/2024-10-16_ToTest.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "2024-10-16_ToTest"
-            }
-          },
-          {
             "id": "4336e909acdf59fc",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.7.4"
-              },
-              "icon": "lucide-file",
-              "title": "Release Notes 1.7.4"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -106,7 +89,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/ToSometing/2024-10-16_ToTest.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +98,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 2024-10-16_ToTest"
+              "title": "Backlinks"
             }
           },
           {
@@ -125,12 +107,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/ToSometing/2024-10-16_ToTest.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 2024-10-16_ToTest"
+              "title": "Outgoing links"
             }
           },
           {
@@ -151,11 +132,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "notes/ToSometing/2024-10-16_ToTest.md"
-              },
+              "state": {},
               "icon": "lucide-list",
-              "title": "Outline of 2024-10-16_ToTest"
+              "title": "Outline"
             }
           },
           {
@@ -188,13 +167,13 @@
   },
   "active": "4336e909acdf59fc",
   "lastOpenFiles": [
+    "notes/ToSometing/2024-10-11_ToRead.md",
+    "notes/ToSometing/2024-10-16_ToTest.md",
     "inbox/2024-10-17_Recherche_Emploi.md~",
     "notes/WorkingDoc",
     "notes/ToSometing/WorkingDoc",
     "inbox/2024-10-17_Recherche_Emploi.md",
-    "notes/ToSometing/2024-10-11_ToRead.md",
     "notes/ToSometing/2024-07-02_ToWatch.md",
-    "notes/ToSometing/2024-10-16_ToTest.md",
     "notes/Doc/2024-07-02_Pytest.md",
     "notes/Doc/2024-07-22_Python_pass_by_reference.md",
     "notes/Doc/2024-07-16_Python_logging.md",
@@ -221,7 +200,6 @@
     "Pasted image 20240903170121.png",
     "notes/Doc/2024-06-18_gRPC.md",
     "notes/Doc/PySide.md",
-    "notes/Doc/2024-08-21_Docker-contexts.md~",
     "notes/Doc/2024-06-25_Asyncio.md",
     "notes/Doc/2024-07-22_Regex.md",
     "notes/Doc/Multithread vs SubProcess TestLab GUI.md",
