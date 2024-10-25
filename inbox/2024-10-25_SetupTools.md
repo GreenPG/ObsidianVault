@@ -18,5 +18,24 @@ To use Setuptools as build backend, one must specifying it in the project config
 requires = ["setutptools"]
 build_backend = "setuptools.build_meta"
 ```
+This must be done in addtion with proper package information about metadat, contents, dependencies .. and package structure.
+
+
+## Package Discovery and Namespace Packages
+
+Setuptools provide ways to customize which packages should be distributed in in which directory they shoud be found:
+```
+[tool.setuptools.packges]
+find = {} # Scan the project directory with the default parameters
+```
+Or
+```
+[tool.setuptools.packages.find]
+# All the following settings are optional:
+where = ["src"]  # ["."] by default
+include = ["mypackage*"]  # ["*"] by default
+exclude = ["mypackage.tests*"]  # empty by default
+namespaces = false  # true by default
+```
 
 
