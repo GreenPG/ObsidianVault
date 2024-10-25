@@ -37,5 +37,5 @@ include = ["mypackage*"]  # ["*"] by default
 exclude = ["mypackage.tests*"]  # empty by default
 namespaces = false  # true by default
 ```
-
+With those infos, **setutptools** will walk through directory specified in *where* (default to '.') and filter the packages following the *include* pattern (default to '*'), and then remove packages matchin *exclude* pattern (default to empty).
 
