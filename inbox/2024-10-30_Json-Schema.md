@@ -180,3 +180,27 @@ The length of an array can be specified using **minItems** and **maxItems** keyw
 #### Uniqueness
 
 A schema can ensure that each of the items in an array is unique by simply set **uniqueItmes** keyword to "true".
+
+
+### Object
+
+JSON Schema objects are analogous to *dict* in Python, *Hash* in Ruby, *NSDictionnary* in Objective-C or *Dictionnary* in Swift.
+
+#### Pattern Properties
+
+**patternProperties** keyword can be used to define properites with names that follow specific patterns using regex.
+Regular expressions are not anchored, so a patternProperties as "p" will mathc any property containing a "p", not just property whose named "p".
+It's usually less confusing to surround the regex in ^...$, (ex: ^p$)
+
+#### Additional Properties
+
+#### Extending Closed Schemas
+
+#### Unevaluated Properties
+
+#### Required Properties
+
+#### Property Names
+
+#### Size
+
