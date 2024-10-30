@@ -51,4 +51,94 @@ Ex:
 }
 ```
 
+## Define required properties
+
+You can define required properties in a schema.
+To do it, add the **required** keyword to the end of an object, after the properties. It's a list in which you can put the id of the properties you want to be mandatory.
+
+## Type specific properties
+
+Some types have specific properties that can be used to constraints the value/contents of the data.
+Those has to be placed inside the data definition. 
+
+### Numbers
+Numbers can have a specified range with the following keyword:
+ - *minimum*
+ - *exclusiveMinimum*
+ - *maximum*
+ - *exclusiveMaximum*
+
+### Strings
+
+#### Length
+The length of string can be consrtained with *minLength* and *maxLength*. Both takes a non-negative number as value.
+
+#### Regular expression
+The *pattern* keyword can be used to constraints a string to a particular regex following syntax define in JS.
+
+#### Format
+The *format* keyword allow for basics semantic identification of certain kind of strings values commonly used.
+List of the built-in's formats:
+ -  Dates and times:
+    - "date-time": date and time together
+    - "time"
+    - "date"
+    - "duration": duration as defined by  [ISO 8601 ABNF for "duration"][https://datatracker.ietf.org/doc/html/rfc3339#appendix-A] 
+-   Email addresses:
+    - "email"
+    - "idn-email"
+- Hostnames:
+    - "hostname"
+    - "idn-hostname"
+- IP addresses:
+    - "ipv4"
+    - "ipv6"
+- Resource identifiers
+    - "uuid"
+    - "uri"
+    - "uri-reference"
+    - "iri"
+    - "iri-reference"
+- URI template
+    - "uri-template"
+- JSON Pointer
+    - "json-pointer"
+    - "relative-json-pointer"
+- Regular expression
+    - "regex"
+
+### Arrays
+
+List are generally used in two ways in JSON:
+- *List validation*: a sequence of arbitrary length where each item matches the same schema
+- *Tuple validation*: a sequence of fixed length where each item may have differ schema. In this case, the index of each items is meaningful as how to the value in interpreted.
+
+#### Items
+
+For a list validation usage, set the **items** keyword to a single schema that will be used to validate all of the items in the array. Ex for an array of number:
+```
+{
+    "type": "array",
+    "items": {
+        "type": "number"
+    }
+}
+```
+
+#### Tuple validation
+
+For a tuple validation usage, use the **prefixItem** keyword. It's an array where each item is a schema that corresponds to each index of the doc's array.
+Ex:
+```
+{
+    "type": "array",
+    "prefixItems": [
+        { "type": "number" },
+        { "type": "string" },
+        { "enum": ["Street", "Avenue", "Boulevard"] },
+        { "enum": ["NW", "NE", "SW", "SE"] },
+    ]
+}
+```
+validates =  ```[1600, "Pennsylvanua", "Avenue", "NW]```
 
