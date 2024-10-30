@@ -142,3 +142,41 @@ Ex:
 ```
 validates =  ```[1600, "Pennsylvanua", "Avenue", "NW]```
 
+##### Additional items
+The **items** keyword can be used to control wheter it's valid or not to have additonal items in a tuple beyond those defined in **prefixItems**. It has the same format as for a list validation, but you can also set its value to 'false', disallowing extra items in the tuple.
+
+
+
+
+#### Unevaluated items
+
+The **unevaluatedItems** keyword is useful when you want to add or disallow extra item to an array.
+It applies to any values not evaluated by **items** or **prefixItem**, or **contains**.
+It affect only items in an array.
+If you set it to "false", you can disallow extra items for array.
+
+#### Contains 
+
+Unlike **items**, **contains** schema only need to validate agains one or more items in the array. Ex:
+This schema:
+```
+{
+    "type": "array",
+    "contains": {
+        "type": "number"
+    }
+}
+```
+validates this array: ```["life", "univers", "everythin", 42]```, but fails for : ```["life", everything", "universe", "forty-two"]```
+
+#### minContains/maxContains
+
+**minContains** and **maxContains** can be used with **contains**to further specify how many times schema matches a **contains** constraint. Those can only be non-negative numbers.
+
+#### Length
+
+The length of an array can be specified using **minItems** and **maxItems** keywords. They can only take non-negative number.
+
+#### Uniqueness
+
+A schema can ensure that each of the items in an array is unique by simply set **uniqueItmes** keyword to "true".
