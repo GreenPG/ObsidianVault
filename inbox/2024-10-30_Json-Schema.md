@@ -194,7 +194,12 @@ It's usually less confusing to surround the regex in ^...$, (ex: ^p$)
 
 #### Additional Properties
 
+**additionalProperties** keyword is used to control the handling of properties not listed in **properties**, or whose name doesnt match any regex in **patternProperties**.
+It's a schema that will be used to validate any properties in the instance that are not matched.
+Setting it to false means no additional properties will be allowed. You can also used non-boolean schemas to constraints additional properties to specific types.
+
 #### Extending Closed Schemas
+
 
 #### Unevaluated Properties
 
