@@ -11,26 +11,17 @@
             "id": "6c69f077a2dd2c4a",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
-            }
-          },
-          {
-            "id": "b88cb38589c45985",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.7.5"
+                "file": "notes/Doc/Sphinx.md",
+                "mode": "source",
+                "source": false
               },
               "icon": "lucide-file",
-              "title": "Release Notes 1.7.5"
+              "title": "Sphinx"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -178,8 +169,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b88cb38589c45985",
+  "active": "6c69f077a2dd2c4a",
   "lastOpenFiles": [
+    "hubs/OS.md",
     "inbox/2024-10-30_Json-Schema.md",
     "inbox/2024-10-30_Json-Schema.md~",
     "https:/datatracker.ietf.org/doc/html",
