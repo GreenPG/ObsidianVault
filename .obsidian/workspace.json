@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "0d802dce1662a6cf",
+        "id": "dc72bfdc77daeb5e",
         "type": "tabs",
         "children": [
           {
-            "id": "6c69f077a2dd2c4a",
+            "id": "c8b99d2c34582edc",
             "type": "leaf",
             "state": {
-              "type": "graph",
+              "type": "empty",
               "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
         ]
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Doc",
+                "query": "git",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -166,8 +166,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "74453975674bd71e",
+  "active": "c8b99d2c34582edc",
   "lastOpenFiles": [
+    "inbox/2024-11-07_Rewriting-git-history.md",
+    "hubs/git.md",
+    "notes/Doc/2024-09-11_Pull-request.md",
     "notes/Doc/Sphinx.md",
     "hubs/OS.md",
     "inbox/2024-10-30_Json-Schema.md",
@@ -196,14 +199,11 @@
     "inbox/2024-09-19_Test-Double.md",
     "hubs/Python.md",
     "notes/cheat_sheet/Pythons typing cheat sheet.md",
-    "notes/Doc/2024-09-11_Pull-request.md",
     "notes/Doc/2024-09-12_GitHub-releases.md",
     "inbox/2024-09-12_GitHub-releases.md",
     "notes/Doc/2024-09-03_Qt-Model-View-Programming.md",
     "inbox/2024-09-11_Pull-request.md",
     "hubs/GitHub.md",
-    "hubs/git.md",
-    "inbox/2024-09-03_Qt-Model-View-Programming.md",
     "Pasted image 20240903174657.png",
     "Pasted image 20240903170121.png",
     "assets/img/Pasted image 20240618143948.png",
