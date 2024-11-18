@@ -11,10 +11,14 @@
             "id": "c8b99d2c34582edc",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "zettelkasten/2024-10-30_Json-Schema.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "2024-10-30_Json-Schema"
             }
           }
         ]
@@ -48,7 +52,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "git",
+                "query": "schem",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
