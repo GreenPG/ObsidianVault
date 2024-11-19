@@ -20,8 +20,21 @@
               "icon": "lucide-file",
               "title": "2024-10-30_Json-Schema"
             }
+          },
+          {
+            "id": "e65b2133c31a5cc9",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.7.7"
+              },
+              "icon": "lucide-file",
+              "title": "Release Notes 1.7.7"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -170,7 +183,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c8b99d2c34582edc",
+  "active": "e65b2133c31a5cc9",
   "lastOpenFiles": [
     "inbox/2024-11-07_Rewriting-git-history.md",
     "hubs/git.md",
