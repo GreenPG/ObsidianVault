@@ -4,45 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "9e6a73ddb7857269",
+        "id": "394ea5826b1411c7",
         "type": "tabs",
         "children": [
           {
-            "id": "8049f186efee37f6",
+            "id": "5caec71ae92f3dec",
             "type": "leaf",
             "state": {
-              "type": "graph",
+              "type": "empty",
               "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Vue graphique"
-            }
-          },
-          {
-            "id": "f3dd43b165e5cc45",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.6.5"
-              },
               "icon": "lucide-file",
-              "title": "Release Notes 1.6.5"
-            }
-          },
-          {
-            "id": "d18c45c7f81fcbdb",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.7.4"
-              },
-              "icon": "lucide-file",
-              "title": "Release Notes 1.7.4"
+              "title": "Nouvel onglet"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -189,44 +164,49 @@
       "command-palette:Ouvrir la palette de commandes": false
     }
   },
-  "active": "d18c45c7f81fcbdb",
+  "active": "5caec71ae92f3dec",
   "lastOpenFiles": [
     "conflict-files-obsidian-git.md",
-    "inbox/Yaml Schema Python libraries.md",
-    "inbox/TKinter.md",
-    "inbox/Sphinx.md",
-    "inbox/SIRET proprio.md",
-    "inbox/Quick capture.md",
-    "inbox/Quick capture (conflict 2023-11-20-09-03-38).md",
-    "inbox/Quick capture (conflict 2023-11-03-19-01-01).md",
-    "inbox/Pythons typing cheat sheet.md",
-    "inbox/PySide.md",
-    "inbox/My Most Important inputs.md",
-    "inbox/Multithread vs SubProcess TestLab GUI.md",
-    "inbox/Master-Worker.md",
-    "inbox/FreeRTOS.md",
-    "inbox/Async IO.md",
-    "inbox/2024_05_16.md",
-    "inbox/2024-06-26_Reu_Technique_Decouplage.md",
-    "inbox/2024-06-25_Asyncio.md",
-    "inbox/2024-06-18_Protocol-Buffers.md",
-    "inbox/2024-06-18_gRPC.md",
-    "inbox/2024-05-22.md",
+    "notes/Doc/Yaml Schema Python libraries.md",
+    "notes/Doc/Sphinx.md",
+    "notes/Doc/PySide.md",
+    "notes/Doc/Multithread vs SubProcess TestLab GUI.md",
+    "notes/Doc/Master-Worker.md",
+    "notes/Doc/FreeRTOS.md",
+    "notes/Doc/2024-09-12_GitHub-releases.md",
+    "notes/Doc/2024-09-11_Pull-request.md",
+    "notes/Doc/2024-09-03_Qt-Model-View-Programming.md",
+    "notes/Doc/2024-08-21_Docker-contexts.md",
+    "notes/Doc/2024-08-26_Python_JSON.md",
+    "notes/Doc/2024-07-22_Regex.md",
+    "notes/Doc/2024-07-22_Python_pass_by_reference.md",
+    "notes/Doc/2024-07-16_Python_logging.md",
+    "notes/Doc/2024-07-02_Pytest.md",
+    "notes/Doc/2024-06-25_Asyncio.md",
+    "notes/Doc/2024-06-26_Reu_Technique_Decouplage.md",
+    "notes/ToSometing/2024-10-16_ToTest.md",
+    "notes/Doc/2024-06-18_Protocol-Buffers.md",
+    "notes/Doc/2024-06-18_gRPC.md",
+    "notes/ToSometing/2024-10-11_ToRead.md",
+    "notes/ToSometing/2024-07-02_ToWatch.md",
+    "notes/cheat_sheet/Pythons typing cheat sheet.md",
+    "notes/Doc",
+    "notes/ToSometing",
+    "notes/cheat_sheet",
+    "notes",
+    "hubs/GitHub.md",
+    "hubs/Firmware.md",
+    "Pasted image 20240903174657.png",
+    "Pasted image 20240903170121.png",
     "inbox",
-    "hubs/Python.md",
     "hubs",
     "assets/img/protocol-buffers-concepts.png",
     "assets/img/Pasted image 20240618143948.png",
     "assets/img/Pasted image 20240618114353.png",
     "assets/img",
     "assets",
-    "Untitled.md",
-    "Templates/note.md",
-    "Templates/NewNote.md",
     "Templates",
-    "Protocol-Buffers.md",
     "Async IO",
-    "Sans titre.canvas",
-    "desktop.ini"
+    "Sans titre.canvas"
   ]
 }
