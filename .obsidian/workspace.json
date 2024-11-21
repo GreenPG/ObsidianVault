@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "394ea5826b1411c7",
+        "id": "dc72bfdc77daeb5e",
         "type": "tabs",
         "children": [
           {
-            "id": "5caec71ae92f3dec",
+            "id": "c8b99d2c34582edc",
             "type": "leaf",
             "state": {
               "type": "empty",
               "state": {},
               "icon": "lucide-file",
-              "title": "Nouvel onglet"
+              "title": "New tab"
             }
           }
         ]
@@ -39,7 +39,7 @@
                 "sortOrder": "alphabetical"
               },
               "icon": "lucide-folder-closed",
-              "title": "Explorateur de fichiers"
+              "title": "Files"
             }
           },
           {
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "schem",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -56,7 +56,7 @@
                 "sortOrder": "alphabetical"
               },
               "icon": "lucide-search",
-              "title": "Rechercher"
+              "title": "Search"
             }
           },
           {
@@ -66,14 +66,14 @@
               "type": "bookmarks",
               "state": {},
               "icon": "lucide-bookmark",
-              "title": "Signet"
+              "title": "Bookmarks"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 202.5
   },
   "right": {
     "id": "70c13890a81f7e1a",
@@ -92,13 +92,13 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
-                "showSearch": false,
+                "showSearch": true,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Rétroliens"
+              "title": "Backlinks"
             }
           },
           {
@@ -111,7 +111,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Liens sortants"
+              "title": "Outgoing links"
             }
           },
           {
@@ -124,7 +124,7 @@
                 "useHierarchy": true
               },
               "icon": "lucide-tags",
-              "title": "Mots-clés"
+              "title": "Tags"
             }
           },
           {
@@ -134,7 +134,7 @@
               "type": "outline",
               "state": {},
               "icon": "lucide-list",
-              "title": "Plan"
+              "title": "Outline"
             }
           },
           {
@@ -152,61 +152,65 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Ouvrir le sélecteur rapide": false,
-      "graph:Ouvrir la vue graphique": false,
-      "canvas:Créer une nouvelle toile": false,
-      "daily-notes:Ouvrir la note quotidienne": false,
-      "templates:Insérer le modèle": false,
-      "command-palette:Ouvrir la palette de commandes": false
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
     }
   },
-  "active": "5caec71ae92f3dec",
+  "active": "c8b99d2c34582edc",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
-    "notes/Doc/Yaml Schema Python libraries.md",
-    "notes/Doc/Sphinx.md",
-    "notes/Doc/PySide.md",
-    "notes/Doc/Multithread vs SubProcess TestLab GUI.md",
-    "notes/Doc/Master-Worker.md",
-    "notes/Doc/FreeRTOS.md",
-    "notes/Doc/2024-09-12_GitHub-releases.md",
+    "inbox/2024-11-19_ToDo.md",
+    "zettelkasten/2024-11-19_ToDo.md",
+    "zettelkasten/2024-10-30_Json-Schema.md",
+    "inbox/2024-11-07_Rewriting-git-history.md",
+    "hubs/git.md",
     "notes/Doc/2024-09-11_Pull-request.md",
-    "notes/Doc/2024-09-03_Qt-Model-View-Programming.md",
-    "notes/Doc/2024-08-21_Docker-contexts.md",
-    "notes/Doc/2024-08-26_Python_JSON.md",
-    "notes/Doc/2024-07-22_Regex.md",
+    "notes/Doc/Sphinx.md",
+    "hubs/OS.md",
+    "inbox/2024-10-30_Json-Schema.md",
+    "inbox/2024-10-30_Json-Schema.md~",
+    "https:/datatracker.ietf.org/doc/html",
+    "https:/datatracker.ietf.org/doc",
+    "https:/datatracker.ietf.org",
+    "https:",
+    "2024-07-23.md",
+    "zettelkasten/2024-10-11_git_submodule.md",
+    "inbox/2024-10-25_SetupTools.md",
+    "zettelkasten/2024-09-19_Test-Double.md",
+    "inbox/2024-10-25_SetupTools.md~",
+    "notes/ToSometing/2024-10-11_ToRead.md",
+    "notes/ToSometing/2024-10-16_ToTest.md",
+    "inbox/2024-10-17_Recherche_Emploi.md~",
+    "notes/WorkingDoc",
+    "notes/ToSometing/WorkingDoc",
+    "inbox/2024-10-17_Recherche_Emploi.md",
+    "notes/ToSometing/2024-07-02_ToWatch.md",
+    "notes/Doc/2024-07-02_Pytest.md",
     "notes/Doc/2024-07-22_Python_pass_by_reference.md",
     "notes/Doc/2024-07-16_Python_logging.md",
-    "notes/Doc/2024-07-02_Pytest.md",
-    "notes/Doc/2024-06-25_Asyncio.md",
-    "notes/Doc/2024-06-26_Reu_Technique_Decouplage.md",
-    "notes/ToSometing/2024-10-16_ToTest.md",
-    "notes/Doc/2024-06-18_Protocol-Buffers.md",
-    "notes/Doc/2024-06-18_gRPC.md",
-    "notes/ToSometing/2024-10-11_ToRead.md",
-    "notes/ToSometing/2024-07-02_ToWatch.md",
+    "inbox/2024-10-11_git_submodule.md",
+    "inbox/2024-10-11_git_submodule.md~",
+    "inbox/2024-09-19_Test-Double.md",
+    "hubs/Python.md",
     "notes/cheat_sheet/Pythons typing cheat sheet.md",
-    "notes/Doc",
-    "notes/ToSometing",
-    "notes/cheat_sheet",
-    "notes",
-    "hubs/GitHub.md",
-    "hubs/Firmware.md",
+    "notes/Doc/2024-09-12_GitHub-releases.md",
+    "inbox/2024-09-12_GitHub-releases.md",
     "Pasted image 20240903174657.png",
     "Pasted image 20240903170121.png",
-    "inbox",
-    "hubs",
-    "assets/img/protocol-buffers-concepts.png",
     "assets/img/Pasted image 20240618143948.png",
+    "Pasted image 20240618143241.png",
+    "assets/img/protocol-buffers-concepts.png",
     "assets/img/Pasted image 20240618114353.png",
-    "assets/img",
-    "assets",
-    "Templates",
-    "Async IO",
+    "Pasted image 20240618114336.png",
+    "Untitled.canvas",
     "Sans titre.canvas"
   ]
 }
