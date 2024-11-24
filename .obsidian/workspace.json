@@ -18,8 +18,36 @@
               "icon": "lucide-file",
               "title": "Release Notes 1.7.7"
             }
+          },
+          {
+            "id": "1d0e5956dd19a595",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "notes/ToSometing/2024-10-11_ToRead.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2024-10-11_ToRead"
+            }
+          },
+          {
+            "id": "a87ca6055c4b0f9c",
+            "type": "leaf",
+            "state": {
+              "type": "diff-view",
+              "state": {
+                "file": "inbox/2024-11-07_Rewriting-git-history.md",
+                "staged": true
+              },
+              "icon": "git-pull-request",
+              "title": "Diff View (2024-11-07_Rewriting-git-history)"
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -166,9 +194,11 @@
       "command-palette:Ouvrir la palette de commandes": false
     }
   },
-  "active": "5caec71ae92f3dec",
+  "active": "a87ca6055c4b0f9c",
   "lastOpenFiles": [
     "conflict-files-obsidian-git.md",
+    "notes/ToSometing/2024-10-11_ToRead.md",
+    "zettelkasten/2024-11-19_ToDo.md",
     "notes/Doc/Yaml Schema Python libraries.md",
     "notes/Doc/Sphinx.md",
     "notes/Doc/PySide.md",
@@ -189,7 +219,6 @@
     "notes/ToSometing/2024-10-16_ToTest.md",
     "notes/Doc/2024-06-18_Protocol-Buffers.md",
     "notes/Doc/2024-06-18_gRPC.md",
-    "notes/ToSometing/2024-10-11_ToRead.md",
     "notes/ToSometing/2024-07-02_ToWatch.md",
     "notes/cheat_sheet/Pythons typing cheat sheet.md",
     "notes/Doc",
@@ -197,7 +226,6 @@
     "notes/cheat_sheet",
     "notes",
     "hubs/GitHub.md",
-    "hubs/Firmware.md",
     "Pasted image 20240903174657.png",
     "Pasted image 20240903170121.png",
     "inbox",
