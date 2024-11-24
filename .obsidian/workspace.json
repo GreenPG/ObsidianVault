@@ -11,10 +11,12 @@
             "id": "5caec71ae92f3dec",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.7.7"
+              },
               "icon": "lucide-file",
-              "title": "Nouvel onglet"
+              "title": "Release Notes 1.7.7"
             }
           }
         ]
