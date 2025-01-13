@@ -85,5 +85,44 @@ while (user_answer := input("\n{question} ")) not in valid_answers:
 ## Syntax
 Plain assignment expression can't be use to assign a value: `walrus := True` would lead to a syntax error.
 To be syntactically legal, you have to add parenthesis, `(walurs := True)` is ok.
+Forbidden examples:
+```
+lat = lon := 0
+SyntaxError
+
+angle(phi = lat := 59.9)
+SyntaxError
+
+def distance(phi = lat := 0, lam = lon := 0):
+SyntaxError
+```
+Discourages examples:
+```
+lat = (lon := 0)
+
+angle(phi = (lat := 59.9))
+
+def distance(phi = (lat := 0), lam = (lon := 0)):
+    pass
+```
+Other situations where assingnement expressions are illegal:
+- **Attribute and item assingnement**: you can only assign to simple names, not dotted or indexed names
+```
+(mapping["hearts"] := "♥")
+SyntaxError
+
+(number.anwser := 42)
+SyntaxError
+```
+- **Iterable unpacking** can't unpack when using the walrus operator
+```
+lat, lon := 59.9, 10.8
+SyntaxError
+```
+- **Augmented assignement**: can't use warlus operator combined with augmented assingnement operators like +=
+```
+count +:= 1
+SyntaxError
+```
 
 
