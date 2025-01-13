@@ -71,3 +71,19 @@ example:
 `results = [slow(num) for num in numbers if slow(num) > 0]`
 become:
 `results = [value for num in numbers if (value: slow(num)) > 0]`
+Here the assignment expression is used on the if clause because it is executed first.
+
+**While Loops**
+In while loops, you need to define and check ending condition at the top of the loop. Can lead to awkward code when you need some setup before check and can lead to repetition of code.
+One solution is to use a `while True` loop and realize the check latter in the loop with an explicit `break`
+Assignment expressions can simplify the kinds of loops. Example:
+```
+while (user_answer := input("\n{question} ")) not in valid_answers:
+    print(f"Please answer one of{', '.join(valids_answers)}")
+```
+
+## Syntax
+Plain assignment expression can't be use to assign a value: `walrus := True` would lead to a syntax error.
+To be syntactically legal, you have to add parenthesis, `(walurs := True)` is ok.
+
+
