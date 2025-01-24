@@ -34,8 +34,33 @@ AP can be used for Node.js, Python, Java, PHP, Ruby, C#, C++, Go, XCode, .NET, A
 ## Pipeline basics
 
 A pipeline run sequence follows this sequence:
-- a **[[#trigger]]** tells a pipeline to run
+- a [[#trigger]] tells a pipeline to run
+- a [[#pipeline]] is made up of one or more [stages](#Stage). A pipeline can deploy to one or more [environments](#Environment).
+- a [[#stage]] is a way of organizing jobs in a pipeline and each stage can have one or more jobs.
+- each [[#job]] runs on one [[#agent]]. A job can also be agentless
+- each [[#agent]] runs a job that contains one ore more [steps](#Step).
+- A [[#step]] canb be a [[#Task]] or [[#Script]] and is the smallest building block of a pipeline
+- a [[#task]] is a prepackaged script that performs an action, such as invoking REST API publishing a build artifact.
+- an [[#artifact]] is a collection of files or packages published in a [[#run]]
 
+
+### Agent
+
+### Artifact
+
+### Environment
+
+### Job
+
+### Pipeline
+
+### Run
+
+### Script
+
+### Stage
+
+### Task
 
 ### Trigger
 
