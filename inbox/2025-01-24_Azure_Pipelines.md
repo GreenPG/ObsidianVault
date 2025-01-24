@@ -6,13 +6,13 @@ hubs:
     - "[[DevOps]]"
     - "[[Azure]]"
 urls:
-    - https://app.slack.com/client/T030RLQ4T/C05GUJZTUF3
+    - https://learn.microsoft.com/en-us/azure/devops/pipelines/get-started/key-pipelines-concepts?view=azure-devops
 ---
 
 *Lexique*:
 - AP: Azure Pipeline
-- CD: Continuous delivery 
-- CI: Continuous integration
+- CD: [[#Continuous delivery]]
+- CI: [[#Continuous integration]] 
 - CT: Continuous testing
 
 
@@ -46,7 +46,27 @@ A pipeline run sequence follows this sequence:
 
 ### Agent
 
+An agent computes the infrastructure with installed agent software that runs one job at a time. A pipeline has got at least one job.
+
+### Approvals
+
+Approvals defines a set of validations required befors a deployment runs. Manual approval is a common check performed to control deployments to production environments.
+When checks are configured to an environment, a pipeline run pauses until the checks are completed succesfully.
+
 ### Artifact
+
+An artifact is a collection of files or packages published by a run. Artifacts are mdae available to subsequent tasks, such as distribution or deployment.
+
+### Continuous delivery
+
+CD is a process by which code is built, tested and deployed to one or more test and production stages. Deploying and testing in multiple stages helpsdrive quality.
+CI systems produce deployable artifacts, which include infrastructure and apps. Automated release pipelines consume these artifacts to release new versions and dixes to existing systems. Monitoring and alerting systems run constantly to drive visibilyt into the entire CD process.
+This process ensures that errors are caught often and early.
+
+### Continuous integration
+
+CI is the practice used by developement teams to simplify the testing an building of code. CI helps to catch bugs or problems early in the developement cycle, which make them easier and faster to fix.
+Automated tests and builds are run as part of the CI process. The process can run on a ste schedule, whenever code is pushed, or both. Items known as artifacts are produced by CI systems. They're used by the continuous delivery release pipelines to drive automatic deployments.
 
 ### Environment
 
