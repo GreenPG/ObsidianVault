@@ -27,5 +27,15 @@ It offers the following benefits:
 - integrates with GitHub
 - works with open-source projects
 
+**Languages and applications**
+AP can be used for Node.js, Python, Java, PHP, Ruby, C#, C++, Go, XCode, .NET, Android and iOS applications.
 
+
+## Pipeline basics
+
+A pipeline run sequence follows this sequence:
+- a **[[#trigger]]** tells a pipeline to run
+
+
+### Trigger
 
