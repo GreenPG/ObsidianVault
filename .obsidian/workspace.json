@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "179d845e87f516a1",
+        "id": "6e7495741e596ba3",
         "type": "tabs",
         "children": [
           {
-            "id": "c9c6e59bfd7be4f8",
+            "id": "324099b93342ef31",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "inbox/2025-01-24_Azure_Pipelines.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2025-01-24_Azure_Pipelines"
             }
           }
         ]
@@ -73,8 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 202.5,
-    "collapsed": true
+    "width": 202.5
   },
   "right": {
     "id": "70c13890a81f7e1a",
@@ -166,8 +169,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c9c6e59bfd7be4f8",
+  "active": "324099b93342ef31",
   "lastOpenFiles": [
+    "inbox/2025-01-24_Azure_Pipelines.md~",
+    "2025-01-24.md",
+    "inbox/2025-01-24_Azure_Pipelines.md",
     "notes/ToSomething/2024-11-19_ToDo.md",
     "notes/ToSomething/2024-10-16_ToTest.md",
     "notes/ToSomething/2024-10-11_ToRead.md",
@@ -182,7 +188,6 @@
     "hubs/OS.md",
     "hubs/Firmware.md",
     "Untitled.canvas",
-    "2025-01-24.md",
     "hubs/Python.md",
     "2024-07-23.md",
     "notes/Doc/2025-01-13_Walrus-operator.md",
@@ -194,17 +199,14 @@
     "notes/#Doc",
     "inbox/2025-01-23_unicode_python.md",
     "inbox/2025-01-14_python_app_detected_as_malware.md",
-    "inbox/2025-01-13_Walrus-operator.md",
     "inbox/2025-01-14_python_app_detected_as_malware.md~",
     "inbox/2025-01-13_Walrus-operator.md~",
-    "zettelkasten/2024-09-19_Test-Double.md",
     "inbox/2024-10-30_Json-Schema.md~",
     "https:/datatracker.ietf.org/doc/html",
     "https:/datatracker.ietf.org/doc",
     "https:/datatracker.ietf.org",
     "https:",
     "inbox/2024-10-25_SetupTools.md~",
-    "inbox/2024-10-17_Recherche_Emploi.md~",
     "Pasted image 20240903174657.png",
     "Pasted image 20240903170121.png",
     "assets/img/Pasted image 20240618143948.png",
