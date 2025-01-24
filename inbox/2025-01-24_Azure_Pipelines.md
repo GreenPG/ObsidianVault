@@ -70,15 +70,41 @@ Automated tests and builds are run as part of the CI process. The process can ru
 
 ### Environment
 
+An environment is a collection of resources where you deploy your application. One environment can contain one or more virtual machines, containers, web apps, or any service.
+Pipelines deploy to one or more environments after a builds is completed and tests are run.
+
 ### Job
+
+A stage contains one or more jobs. Each job runs on an agent. A job represents an execution boundary of a set of steps. All of the steps run together on the same agent. Jobs are most userful when you want to run a series of steps in differents environments.
+
+Agentless jobs run in Azure DevOps and Azure DevOps Server without using an agent. A limited number of tasks support agentless jobs.
 
 ### Pipeline
 
+A pipeline defines the continuous integration and deployment porcess for your app. It's made up of one or more stages. It can be thought of as a workflow that defines how your test, build and deployment steps are run.
+For classic pipelines, a pipeline can also be referred to as a definition.
+
 ### Run
+
+### Release
+
+For classc pipelines, a release is a versioned set of artifacts specified in a pipeline. The release includes a snapshot of all the information required to carry out all the tasks and actions in the release pipeline, such as stages, tasks, policies such as triggers and approvers, and the deployment options.
+You can create a release manually, with a deployment trigger, or with the REST API.
+
+For YAML pipelines, the build and release stages are in one, multi-stage pipeline.
+
+### Run
+
+A run represents one execution of a pipeline. It collects the logs associated with running the steps and the results of running test. During a run, AP will first process the pipeline and then send the run to one or more agents. Each agent runs jobs. 
+
+For classic pipelines, a build represents one execution of a pipeline.
 
 ### Script
 
+A scripts runs code as a step in your pipeline using command line, PowerShell, or Bash. You can write cross-platform scripts for macOS, Linux and Windows. Unlike a [[#task]], a scripts is custom that is specific to your pipeline.
+
 ### Stage
+
 
 ### Task
 
