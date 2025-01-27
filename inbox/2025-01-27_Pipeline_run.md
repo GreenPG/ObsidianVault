@@ -68,7 +68,7 @@ Once an agent accepts a job, it does the following preparation work:
 2. creates working space on disk to hold the source code, artifacts, and outputs used in the run
 
 
-### Step execution
+## Step execution
 
 Agent runs steps sequentially (new step start only when previous steps has finished or has been skipped).
 
@@ -78,11 +78,48 @@ They also provide common services such as altering system paths and creating new
 Each step runs its own process, isolating its environment from previous steps. This way, environment variables aren't preserved between steps.
 Tasks and scripts use logging commands to communicate back to the agent, which takes whatever action the command requests.
 
-### Result reporting and collection
+## Result reporting and collection
 
 Each steps can report tasks status on the pipeline summary page. Errors and warnings are reporst by marking tasks as succeeded with issues, 
 and failures are reports by markings the task as failed. 
 
 The agent can upload [artifacts](inbox/2025-01-24_Azure_Pipelines.md#Artifact) and test results whic are available after the pipeline completes.
+
+## State and conditions
+
+Agent keeps tracks of each step's failure or success. As steps finished, the job's status is updated. Job status always reflects worst outcome from each of its steps.
+
+Before running a steps, the agent checks that step's condition to determine whether it should be run or not.
+
+A `always()` condition can be use to specifiy tasks that needs to be run no matter what else happens.
+On the other hand, steps can also be run only on cancellation.
+
+
+## Timeouts and disconnects
+
+Each job has a timeout. If exceeded, the server cancels the job. It means for the agents to cancal all remaining steps and upload any remaining results.
+
+Jobs have a cancel timeout period in which to complete any cancellation work. Steps can also be marked to run even on cancellation. After a job timeout + a cancel timeout, if the agent doesnt report that work is stopped, the server marks the job as failure.
+
+Agents send a hearbeat message once per minute to the server to confirm that its working. If the server doesnt receive a hearbeat for 5 consecutve minutes, the job is marked as a failure.
+
+## Manage runs through the Azure DevOps CLI
+
+Pipeline runs can be managed using az pipelines runs in Azure DevOps CLI.
+
+- **List pipeline runs**:
+```az pipelines runs list```
+
+- **Show pipeline runs details**
+```az pipelines runs show```
+
+- **Add tag to pipelin run**
+```az pipelines runs tag add```
+
+- **List pipeline run tags**
+```az pipelines runs tag list```
+
+- **Delete tag from pipeline run**
+```az pipelines runs tag delete```
 
 
