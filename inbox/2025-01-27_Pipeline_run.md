@@ -80,4 +80,9 @@ Tasks and scripts use logging commands to communicate back to the agent, which t
 
 ### Result reporting and collection
 
+Each steps can report tasks status on the pipeline summary page. Errors and warnings are reporst by marking tasks as succeeded with issues, 
+and failures are reports by markings the task as failed. 
+
+The agent can upload [artifacts](inbox/2025-01-24_Azure_Pipelines.md#Artifact) and test results whic are available after the pipeline completes.
+
 
