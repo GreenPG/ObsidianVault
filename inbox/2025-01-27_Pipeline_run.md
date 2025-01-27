@@ -40,19 +40,44 @@ AP does the following activities for each job it selects to run:
 
 AP checks whether there are new jobs elligible to run as jobs complete. And if there are any more stages as stages complete.
 
-## Parallel jobs
+## Agents
+
+### Parallel jobs
 
 AP will adds up all running jobs on all agents and compare that with the number of parallel jobs granted or purchased by your organization.
 If there's no available slots, the job has to wait. Once ther is one, the job routes to the appropriate agent type.
 
-## Micrasoft-hosted agents
+### Micrasoft-hosted agents
 
 The Micrasoft-hosted pool is virtually one global pool of machines. Based on the UAML vmImage or Classic editor pool name request, AP selects an agent.
 When a job is complete, the running agent is discarded. This way, all agents in Microsoft pool are fresh.
 
-## Self-hosted agents
+### Self-hosted agents
+
+AP examines the self-hosted pool for compatible agent. Self-hosted agents offer capabilites, indicating that particular software is installed or setting configured.
+The pipeline has demands, which are the capabilites required to run the job.
+
+If AP can't find a free agent whose capabilites match the pipeline's demands, the job keep waiting. If there's no agents in the pool whose capabilites match the demands, the job fails.
+
+Self-hosted agents are typically reused from run to run.
+
+## Job preparation
+
+Once an agent accepts a job, it does the following preparation work:
+1. downloads all the tasks needed to run the job and chaches them for future use.
+2. creates working space on disk to hold the source code, artifacts, and outputs used in the run
 
 
+### Step execution
 
+Agent runs steps sequentially (new step start only when previous steps has finished or has been skipped).
+
+Steps are implemented by [tasks](inbox/2025-01-24_Azure_Pipelines.md#Task). The task system routes inputs and outputs to the backging scripts.
+They also provide common services such as altering system paths and creating new pipeline variables.
+
+Each step runs its own process, isolating its environment from previous steps. This way, environment variables aren't preserved between steps.
+Tasks and scripts use logging commands to communicate back to the agent, which takes whatever action the command requests.
+
+### Result reporting and collection
 
 
