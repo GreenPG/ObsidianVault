@@ -93,7 +93,7 @@ You can create a release manually, with a deployment trigger, or with the REST A
 
 For YAML pipelines, the build and release stages are in one, multi-stage pipeline.
 
-### Run
+### [Run](inbox/2025-01-27_Pipeline_run.md)
 
 A run represents one execution of a pipeline. It collects the logs associated with running the steps and the results of running test. During a run, AP will first process the pipeline and then send the run to one or more agents. Each agent runs jobs. 
 
