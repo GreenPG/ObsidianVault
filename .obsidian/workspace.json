@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/ToSomething/2024-10-16_ToTest.md",
+                "file": "notes/ToSomething/2024-11-19_ToDo.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2024-10-16_ToTest"
+              "title": "2024-11-19_ToDo"
             }
           }
         ]
@@ -172,6 +172,7 @@
   "active": "324099b93342ef31",
   "lastOpenFiles": [
     "notes/ToSomething/2024-07-02_ToWatch.md",
+    "notes/ToSomething/2024-10-16_ToTest.md",
     "hubs/Python.md",
     "inbox/2025-01-24_Azure_Pipelines.md",
     "inbox/2025-01-24_Azure_Pipelines.md~",
@@ -182,7 +183,6 @@
     "Untitled.canvas",
     "trigger.md",
     "notes/ToSomething/2024-11-19_ToDo.md",
-    "notes/ToSomething/2024-10-16_ToTest.md",
     "notes/ToSomething/2024-10-11_ToRead.md",
     "hubs/Parsing.md",
     "hubs/Methodology.md",
