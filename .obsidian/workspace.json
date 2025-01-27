@@ -11,10 +11,14 @@
             "id": "324099b93342ef31",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "notes/ToSomething/2024-10-16_ToTest.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2024-10-16_ToTest"
             }
           }
         ]
@@ -167,6 +171,8 @@
   },
   "active": "324099b93342ef31",
   "lastOpenFiles": [
+    "notes/ToSomething/2024-07-02_ToWatch.md",
+    "hubs/Python.md",
     "inbox/2025-01-24_Azure_Pipelines.md",
     "inbox/2025-01-24_Azure_Pipelines.md~",
     "notes/Doc/2024_07_01_Sphinx.md",
@@ -178,7 +184,6 @@
     "notes/ToSomething/2024-11-19_ToDo.md",
     "notes/ToSomething/2024-10-16_ToTest.md",
     "notes/ToSomething/2024-10-11_ToRead.md",
-    "notes/ToSomething/2024-07-02_ToWatch.md",
     "hubs/Parsing.md",
     "hubs/Methodology.md",
     "hubs/Concurrency.md",
@@ -188,7 +193,6 @@
     "hubs/ToSomething.md",
     "hubs/OS.md",
     "hubs/Firmware.md",
-    "hubs/Python.md",
     "notes/Doc/2025-01-13_Walrus-operator.md",
     "notes/WorkingDoc/2025-01-14_python_app_detected_as_malware.md",
     "notes/Doc/2024-10-30_Json-Schema.md",
