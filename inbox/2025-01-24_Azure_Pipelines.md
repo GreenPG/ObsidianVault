@@ -105,8 +105,28 @@ A scripts runs code as a step in your pipeline using command line, PowerShell, o
 
 ### Stage
 
+A stage is a logical boundary in the pipeline. It can be used to mark separation of concerns. Each stage contains one or more jobs. When you define multiple stages in a pipeline, by default, they run one after the other. You can speciffy th condition for when a stage runs.
+When you're thinking about wether you need a stage, ask yourself:
+- do separate groups menage different parts of this pipeline ?
+- is there a set of approvals that are connected to a specific job or set of jobs ? If so, you can use stages to break your joubs into logical groups that require approvals.
+- are there jobs that need to run a long time ? If a job in your pipeline has a long run time, it makes sense to put that job in its own stage.
+
+### Step
+
+A step is the smallest building block of a pipeline. It can either be a script or a task.
+A task is simply a precreated scripts offered as a convenience to you.
 
 ### Task
 
+A task is a building block for defining automation in a pipeline. A task is packaged scripts or procedure that has been abstracted with a set of inputs.
+
 ### Trigger
 
+A trigger is something that's set up to tell the pipeline when to run. You can configure a pipeline to run upon a push to a repository, at scheduled times, or upon the completion of another build.
+All of these actions are known as triggers.
+
+### Library 
+
+The library includes **secure files** and **variable groups**.
+**Secure files** are a way to store files and share them across pipelines.
+**Variable groups** store values and secrets that you might want ot be passed into a YAML pipeline or make available across multiple pipelines.
