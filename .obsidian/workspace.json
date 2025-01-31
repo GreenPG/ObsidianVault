@@ -11,10 +11,10 @@
             "id": "f273553ae8de31e3",
             "type": "leaf",
             "state": {
-              "type": "empty",
+              "type": "graph",
               "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ]
@@ -166,11 +166,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "904b89042b71845c",
+  "active": "f273553ae8de31e3",
   "lastOpenFiles": [
-    "notes/ToSomething/2024-10-11_ToRead.md",
-    "notes/ToSomething/2024-10-16_ToTest.md",
+    "notes/WorkingDoc/2025-01-14_python_app_detected_as_malware.md",
+    "hubs/Testlab.md",
     "notes/ToSomething/2024-11-19_ToDo.md",
+    "notes/ToSomething/2024-10-16_ToTest.md",
+    "notes/ToSomething/2024-10-11_ToRead.md",
+    "notes/ToSomething/2024-07-02_ToWatch.md",
+    "Pasted image 20240903174657.png",
+    "Pasted image 20240903170121.png",
     "inbox/2025-01-27_Pipeline_run.md",
     "inbox/2025-01-24_Azure_Pipelines.md",
     "inbox/2025-01-27_Pipeline_run.md~",
@@ -184,7 +189,6 @@
     "inbox/1737986815-LNEA.md",
     "inbox/1737986822-OJUV.md",
     "inbox/2025-01-27_Pipeline.md",
-    "notes/ToSomething/2024-07-02_ToWatch.md",
     "hubs/Python.md",
     "inbox/2025-01-24_Azure_Pipelines.md~",
     "notes/Doc/2024_07_01_Sphinx.md",
@@ -196,7 +200,6 @@
     "hubs/Parsing.md",
     "hubs/Methodology.md",
     "hubs/Concurrency.md",
-    "hubs/data_serialization.md",
     "notes/#Doc",
     "inbox/2025-01-14_python_app_detected_as_malware.md~",
     "inbox/2025-01-13_Walrus-operator.md~",
@@ -204,8 +207,6 @@
     "https:/datatracker.ietf.org/doc/html",
     "https:/datatracker.ietf.org/doc",
     "https:/datatracker.ietf.org",
-    "Pasted image 20240903174657.png",
-    "Pasted image 20240903170121.png",
     "assets/img/Pasted image 20240618143948.png",
     "Pasted image 20240618143241.png",
     "assets/img/protocol-buffers-concepts.png",
