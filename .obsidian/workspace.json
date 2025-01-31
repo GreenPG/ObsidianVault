@@ -20,8 +20,21 @@
               "icon": "lucide-file",
               "title": "2024-07-02_ToWatch"
             }
+          },
+          {
+            "id": "4ca987c4bc157899",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.8.3"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.8.3"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -40,7 +53,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabetical",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -169,7 +183,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6997a6cee8efceb2",
+  "active": "4ca987c4bc157899",
   "lastOpenFiles": [
     "notes/ToSomething/2024-10-11_ToRead.md",
     "notes/ToSomething/2024-10-16_ToTest.md",
