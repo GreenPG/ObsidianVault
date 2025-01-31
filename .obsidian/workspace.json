@@ -4,37 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "89ca372c03aa0c9e",
+        "id": "808085795f5532ed",
         "type": "tabs",
         "children": [
           {
-            "id": "6997a6cee8efceb2",
+            "id": "f273553ae8de31e3",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "notes/ToSomething/2024-07-02_ToWatch.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "2024-07-02_ToWatch"
-            }
-          },
-          {
-            "id": "4ca987c4bc157899",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.8.3"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.8.3"
+              "title": "New tab"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -183,7 +166,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4ca987c4bc157899",
+  "active": "904b89042b71845c",
   "lastOpenFiles": [
     "notes/ToSomething/2024-10-11_ToRead.md",
     "notes/ToSomething/2024-10-16_ToTest.md",
