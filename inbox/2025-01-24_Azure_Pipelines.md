@@ -84,7 +84,6 @@ Agentless jobs run in Azure DevOps and Azure DevOps Server without using an agen
 A pipeline defines the continuous integration and deployment porcess for your app. It's made up of one or more stages. It can be thought of as a workflow that defines how your test, build and deployment steps are run.
 For classic pipelines, a pipeline can also be referred to as a definition.
 
-### Run
 
 ### Release
 
