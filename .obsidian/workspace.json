@@ -11,26 +11,17 @@
             "id": "f273553ae8de31e3",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
-            }
-          },
-          {
-            "id": "066f0e0064528db6",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.8.4"
+                "file": "inbox/2025-01-24_Azure_Pipelines.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.8.4"
+              "icon": "lucide-file",
+              "title": "2025-01-24_Azure_Pipelines"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -179,8 +170,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "066f0e0064528db6",
+  "active": "f273553ae8de31e3",
   "lastOpenFiles": [
+    "inbox/2025-01-27_Pipeline_run.md",
+    "inbox/2025-01-24_Azure_Pipelines.md",
+    "notes/Doc/2024-06-25_Asyncio.md",
     "notes/WorkingDoc/2025-01-14_python_app_detected_as_malware.md",
     "hubs/Testlab.md",
     "notes/ToSomething/2024-11-19_ToDo.md",
@@ -189,8 +183,6 @@
     "notes/ToSomething/2024-07-02_ToWatch.md",
     "Pasted image 20240903174657.png",
     "Pasted image 20240903170121.png",
-    "inbox/2025-01-27_Pipeline_run.md",
-    "inbox/2025-01-24_Azure_Pipelines.md",
     "inbox/2025-01-27_Pipeline_run.md~",
     "hubs/Azure.md",
     "inbox/inbox/2025-01-24_Azure_Pipelines.md",
@@ -212,7 +204,6 @@
     "trigger.md",
     "hubs/Parsing.md",
     "hubs/Methodology.md",
-    "hubs/Concurrency.md",
     "notes/#Doc",
     "inbox/2025-01-14_python_app_detected_as_malware.md~",
     "inbox/2025-01-13_Walrus-operator.md~",
