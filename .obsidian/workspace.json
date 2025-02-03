@@ -16,8 +16,21 @@
               "icon": "lucide-git-fork",
               "title": "Graph view"
             }
+          },
+          {
+            "id": "066f0e0064528db6",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.8.4"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.8.4"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -166,7 +179,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f273553ae8de31e3",
+  "active": "066f0e0064528db6",
   "lastOpenFiles": [
     "notes/WorkingDoc/2025-01-14_python_app_detected_as_malware.md",
     "hubs/Testlab.md",
