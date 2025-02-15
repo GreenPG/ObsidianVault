@@ -11,10 +11,12 @@
             "id": "78d832082ad0f47a",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Nouvel onglet"
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.8.4"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.8.4"
             }
           }
         ]
@@ -36,7 +38,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabetical",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Explorateur de fichiers"
@@ -164,7 +167,7 @@
       "command-palette:Ouvrir la palette de commandes": false
     }
   },
-  "active": "49896d4460b0180c",
+  "active": "78d832082ad0f47a",
   "lastOpenFiles": [
     "conflict-files-obsidian-git.md",
     "zettelkasten/2024-11-19_ToDo.md",
