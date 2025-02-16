@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "be6bf44986296324",
+        "id": "8a1eb6b298a2aef1",
         "type": "tabs",
         "children": [
           {
-            "id": "04d6615f72d295d1",
+            "id": "613eba9bf09f4f99",
             "type": "leaf",
             "state": {
               "type": "obsidian-projects",
@@ -166,7 +166,7 @@
       "obsidian-projects:Open projects": false
     }
   },
-  "active": "04d6615f72d295d1",
+  "active": "613eba9bf09f4f99",
   "lastOpenFiles": [
     "Projects - Demo Project/What I Learned From Taking 15,000 Notes.md",
     "Projects - Demo Project/The Best Notes You'll Ever Make.md",

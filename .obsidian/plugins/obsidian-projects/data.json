@@ -102,6 +102,41 @@
       "name": "Demo project",
       "id": "e44694b3-cf94-439c-88de-6703e4a19c56",
       "path": "Projects - Demo Project"
+    },
+    {
+      "fieldConfig": {},
+      "defaultName": "",
+      "templates": [],
+      "excludedNotes": [],
+      "isDefault": false,
+      "dataSource": {
+        "kind": "folder",
+        "config": {
+          "path": "notes/RechercheDEmploi",
+          "recursive": true
+        }
+      },
+      "newNotesFolder": "",
+      "views": [
+        {
+          "config": {},
+          "filter": {
+            "conjunction": "and",
+            "conditions": []
+          },
+          "colors": {
+            "conditions": []
+          },
+          "sort": {
+            "criteria": []
+          },
+          "id": "dceb0ec6-a04e-459a-8317-91bc47b3b8ce",
+          "name": "Table",
+          "type": "table"
+        }
+      ],
+      "id": "ad7aae6a-d361-4f02-b760-407b4a473f75",
+      "name": "Recherche d'emploi"
     }
   ],
   "archives": [],
