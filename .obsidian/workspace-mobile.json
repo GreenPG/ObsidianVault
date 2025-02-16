@@ -36,7 +36,8 @@
         "state": {
           "type": "file-explorer",
           "state": {
-            "sortOrder": "alphabetical"
+            "sortOrder": "alphabetical",
+            "autoReveal": false
           },
           "icon": "lucide-folder-closed",
           "title": "Files"
@@ -149,11 +150,11 @@
   },
   "active": "4ac0db8a1ceb8b49",
   "lastOpenFiles": [
-    "2024-07-23.md",
     "C/C++ keywords.md",
+    "Untitled.md",
+    "2024-07-23.md",
     "C",
     "inbox/2024-07-22_Python_regex.md",
-    "Untitled.md",
     "Decouplage.md",
     "2024_05_16.md",
     "2024-05-22.md",
