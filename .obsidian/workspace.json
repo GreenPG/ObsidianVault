@@ -8,15 +8,13 @@
         "type": "tabs",
         "children": [
           {
-            "id": "78d832082ad0f47a",
+            "id": "04d6615f72d295d1",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.8.4"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.8.4"
+              "type": "obsidian-projects",
+              "state": {},
+              "icon": "projects-icon",
+              "title": "Projects"
             }
           }
         ]
@@ -164,11 +162,18 @@
       "canvas:Créer une nouvelle toile": false,
       "daily-notes:Ouvrir la note quotidienne": false,
       "templates:Insérer le modèle": false,
-      "command-palette:Ouvrir la palette de commandes": false
+      "command-palette:Ouvrir la palette de commandes": false,
+      "obsidian-projects:Open projects": false
     }
   },
-  "active": "78d832082ad0f47a",
+  "active": "04d6615f72d295d1",
   "lastOpenFiles": [
+    "Projects - Demo Project/What I Learned From Taking 15,000 Notes.md",
+    "Projects - Demo Project/The Best Notes You'll Ever Make.md",
+    "Projects - Demo Project/5 Mistakes I Made When I Started Using Obsidian.md",
+    "Projects - Demo Project/The Easiest Way to Start Taking Notes.md",
+    "Projects - Demo Project/Why You Should Be Taking More Notes.md",
+    "Projects - Demo Project",
     "conflict-files-obsidian-git.md",
     "zettelkasten/2024-11-19_ToDo.md",
     "notes/WorkingDoc/2025-01-14_python_app_detected_as_malware.md",
@@ -193,11 +198,6 @@
     "hubs/Azure.md",
     "notes/ToSometing/2024-10-11_ToRead.md",
     "notes/Doc/Yaml Schema Python libraries.md",
-    "notes/Doc/Sphinx.md",
-    "notes/Doc/PySide.md",
-    "notes/Doc/Multithread vs SubProcess TestLab GUI.md",
-    "notes/Doc/Master-Worker.md",
-    "notes/Doc/FreeRTOS.md",
     "notes/Doc",
     "notes/ToSometing",
     "notes/cheat_sheet",
@@ -209,7 +209,6 @@
     "assets/img/Pasted image 20240618143948.png",
     "assets/img/Pasted image 20240618114353.png",
     "assets/img",
-    "assets",
     "Sans titre.canvas"
   ]
 }
