@@ -4,19 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "892ba2fcc8b0aae2",
+        "id": "be6bf44986296324",
         "type": "tabs",
         "children": [
           {
-            "id": "7918fdf11a77dab1",
+            "id": "78d832082ad0f47a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "release-notes",
               "state": {
-                "file": "inbox/2024-09-19_Test-Double.md",
-                "mode": "source",
-                "source": false
-              }
+                "currentVersion": "1.8.4"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.8.4"
             }
           }
         ]
@@ -38,8 +38,11 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
-              }
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Explorateur de fichiers"
             }
           },
           {
@@ -54,7 +57,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Rechercher"
             }
           },
           {
@@ -62,14 +67,16 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Signet"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 300
   },
   "right": {
     "id": "70c13890a81f7e1a",
@@ -85,15 +92,16 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "inbox/2024-09-19_Test-Double.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
-                "showSearch": true,
+                "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Rétroliens"
             }
           },
           {
@@ -102,10 +110,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "inbox/2024-09-19_Test-Double.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Liens sortants"
             }
           },
           {
@@ -116,7 +125,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "Mots-clés"
             }
           },
           {
@@ -124,9 +135,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "inbox/2024-09-19_Test-Double.md"
-              }
+              "state": {},
+              "icon": "lucide-list",
+              "title": "Plan"
             }
           },
           {
@@ -134,7 +145,9 @@
             "type": "leaf",
             "state": {
               "type": "git-view",
-              "state": {}
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
             }
           }
         ],
@@ -142,65 +155,61 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "switcher:Ouvrir le sélecteur rapide": false,
+      "graph:Ouvrir la vue graphique": false,
+      "canvas:Créer une nouvelle toile": false,
+      "daily-notes:Ouvrir la note quotidienne": false,
+      "templates:Insérer le modèle": false,
+      "command-palette:Ouvrir la palette de commandes": false
     }
   },
-  "active": "7918fdf11a77dab1",
+  "active": "78d832082ad0f47a",
   "lastOpenFiles": [
-    "inbox/2024-09-19_Test-Double.md~",
-    "inbox/2024-09-19_Test-Double.md",
-    "notes/Doc/2024-09-12_GitHub-releases.md",
-    "inbox/2024-09-12_GitHub-releases.md",
-    "notes/Doc/2024-09-11_Pull-request.md",
-    "notes/Doc/2024-09-03_Qt-Model-View-Programming.md",
-    "inbox/2024-09-12_GitHub-releases.md~",
-    "inbox/2024-09-11_Pull-request.md~",
-    "inbox/2024-09-11_Pull-request.md",
-    "hubs/GitHub.md",
-    "hubs/git.md",
-    "inbox/2024-09-03_Qt-Model-View-Programming.md",
-    "inbox/2024-09-03_Qt-Model-View-Programming.md~",
-    "Pasted image 20240903174657.png",
-    "Pasted image 20240903170121.png",
-    "notes/Doc/2024-06-18_gRPC.md",
+    "conflict-files-obsidian-git.md",
+    "zettelkasten/2024-11-19_ToDo.md",
+    "notes/WorkingDoc/2025-01-14_python_app_detected_as_malware.md",
+    "notes/WorkingDoc",
+    "notes/ToSomething/2024-11-19_ToDo.md",
+    "notes/ToSomething/2024-10-16_ToTest.md",
+    "notes/ToSomething/2024-10-11_ToRead.md",
+    "notes/ToSomething/2024-07-02_ToWatch.md",
+    "notes/ToSomething",
+    "notes/Doc/2025-01-13_Walrus-operator.md",
+    "notes/Doc/2024_07_01_Sphinx.md",
+    "notes/Doc/2024-10-30_Json-Schema.md",
+    "notes/Doc/2024-10-11_git_submodule.md",
+    "notes/Doc/2024-09-19_Test-Double.md",
+    "inbox/2025-02-14_SFTP.md",
+    "inbox/2025-01-27_Pipeline_run.md",
+    "inbox/2025-01-24_Azure_Pipelines.md",
+    "inbox",
+    "hubs/ToSomething.md",
+    "hubs/Testlab.md",
+    "hubs/Communication_Protocol.md",
+    "hubs/Azure.md",
+    "notes/ToSometing/2024-10-11_ToRead.md",
+    "notes/Doc/Yaml Schema Python libraries.md",
+    "notes/Doc/Sphinx.md",
     "notes/Doc/PySide.md",
-    "notes/Doc/2024-08-21_Docker-contexts.md~",
-    "notes/Doc/PySide.md~",
-    "notes/Doc/2024-06-25_Asyncio.md",
-    "notes/Doc/2024-07-22_Regex.md",
-    "notes/Doc/2024-07-22_Python_pass_by_reference.md",
     "notes/Doc/Multithread vs SubProcess TestLab GUI.md",
     "notes/Doc/Master-Worker.md",
-    "hubs/Qt.md",
-    "notes/Doc/Sphinx.md",
-    "notes/Doc/2024-08-21_Docker-contexts.md",
-    "notes/Doc/2024-06-26_Reu_Technique_Decouplage.md",
-    "notes/ToSometing/2024-07-02_ToWatch.md",
-    "notes/ToSometing",
     "notes/Doc/FreeRTOS.md",
-    "notes/Doc/2024-07-02_Pytest.md",
-    "notes/Doc/2024-07-16_Python_logging.md",
-    "notes/Doc/2024-06-18_Protocol-Buffers.md",
-    "notes/cheat_sheet",
     "notes/Doc",
-    "inbox/Yaml Schema Python libraries.md~",
-    "inbox/Sphinx.md~",
-    "assets/img/Pasted image 20240618143948.png",
-    "Pasted image 20240618143241.png",
+    "notes/ToSometing",
+    "notes/cheat_sheet",
+    "notes",
+    "Pasted image 20240903174657.png",
+    "Pasted image 20240903170121.png",
+    "hubs",
     "assets/img/protocol-buffers-concepts.png",
+    "assets/img/Pasted image 20240618143948.png",
     "assets/img/Pasted image 20240618114353.png",
-    "Pasted image 20240618114336.png",
-    "Untitled.canvas",
+    "assets/img",
+    "assets",
     "Sans titre.canvas"
   ]
 }
