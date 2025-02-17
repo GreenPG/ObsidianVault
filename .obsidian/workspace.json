@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "8a1eb6b298a2aef1",
+        "id": "c8ceaab741ea9c4c",
         "type": "tabs",
         "children": [
           {
-            "id": "613eba9bf09f4f99",
+            "id": "fb5a9acb0fe5c0a2",
             "type": "leaf",
             "state": {
-              "type": "obsidian-projects",
+              "type": "empty",
               "state": {},
-              "icon": "projects-icon",
-              "title": "Projects"
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
         ]
@@ -40,7 +40,7 @@
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
-              "title": "Explorateur de fichiers"
+              "title": "Files"
             }
           },
           {
@@ -57,7 +57,7 @@
                 "sortOrder": "alphabetical"
               },
               "icon": "lucide-search",
-              "title": "Rechercher"
+              "title": "Search"
             }
           },
           {
@@ -67,14 +67,14 @@
               "type": "bookmarks",
               "state": {},
               "icon": "lucide-bookmark",
-              "title": "Signet"
+              "title": "Bookmarks"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 202.5
   },
   "right": {
     "id": "70c13890a81f7e1a",
@@ -93,13 +93,13 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
-                "showSearch": false,
+                "showSearch": true,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Rétroliens"
+              "title": "Backlinks"
             }
           },
           {
@@ -112,7 +112,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Liens sortants"
+              "title": "Outgoing links"
             }
           },
           {
@@ -125,7 +125,7 @@
                 "useHierarchy": true
               },
               "icon": "lucide-tags",
-              "title": "Mots-clés"
+              "title": "Tags"
             }
           },
           {
@@ -135,7 +135,7 @@
               "type": "outline",
               "state": {},
               "icon": "lucide-list",
-              "title": "Plan"
+              "title": "Outline"
             }
           },
           {
@@ -153,62 +153,65 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Ouvrir le sélecteur rapide": false,
-      "graph:Ouvrir la vue graphique": false,
-      "canvas:Créer une nouvelle toile": false,
-      "daily-notes:Ouvrir la note quotidienne": false,
-      "templates:Insérer le modèle": false,
-      "command-palette:Ouvrir la palette de commandes": false,
-      "obsidian-projects:Open projects": false
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
     }
   },
-  "active": "613eba9bf09f4f99",
+  "active": "fb5a9acb0fe5c0a2",
   "lastOpenFiles": [
-    "Projects - Demo Project/What I Learned From Taking 15,000 Notes.md",
-    "Projects - Demo Project/The Best Notes You'll Ever Make.md",
-    "Projects - Demo Project/5 Mistakes I Made When I Started Using Obsidian.md",
-    "Projects - Demo Project/The Easiest Way to Start Taking Notes.md",
-    "Projects - Demo Project/Why You Should Be Taking More Notes.md",
-    "Projects - Demo Project",
-    "conflict-files-obsidian-git.md",
-    "zettelkasten/2024-11-19_ToDo.md",
-    "notes/WorkingDoc/2025-01-14_python_app_detected_as_malware.md",
-    "notes/WorkingDoc",
+    "inbox/2025-02-14_SFTP.md",
+    "zettelkasten/2025-02-14_SFTP.md",
+    "zettelkasten/2025-01-27_Pipeline_run.md",
+    "zettelkasten/2025-01-24_Azure_Pipelines.md",
+    "inbox/2025-02-14_SFTP.md~",
+    "hubs/Communication_Protocol.md",
+    "hubs/Communication_Protocol",
+    "notes/Doc/2025-01-13_Walrus-operator.md",
+    "inbox/2025-01-27_Pipeline_run.md",
+    "inbox/2025-01-24_Azure_Pipelines.md",
     "notes/ToSomething/2024-11-19_ToDo.md",
+    "notes/Doc/2024-06-25_Asyncio.md",
+    "notes/WorkingDoc/2025-01-14_python_app_detected_as_malware.md",
+    "hubs/Testlab.md",
     "notes/ToSomething/2024-10-16_ToTest.md",
     "notes/ToSomething/2024-10-11_ToRead.md",
     "notes/ToSomething/2024-07-02_ToWatch.md",
-    "notes/ToSomething",
-    "notes/Doc/2025-01-13_Walrus-operator.md",
-    "notes/Doc/2024_07_01_Sphinx.md",
-    "notes/Doc/2024-10-30_Json-Schema.md",
-    "notes/Doc/2024-10-11_git_submodule.md",
-    "notes/Doc/2024-09-19_Test-Double.md",
-    "inbox/2025-02-14_SFTP.md",
-    "inbox/2025-01-27_Pipeline_run.md",
-    "inbox/2025-01-24_Azure_Pipelines.md",
-    "inbox",
-    "hubs/ToSomething.md",
-    "hubs/Testlab.md",
-    "hubs/Communication_Protocol.md",
-    "hubs/Azure.md",
-    "notes/ToSometing/2024-10-11_ToRead.md",
-    "notes/Doc/Yaml Schema Python libraries.md",
-    "notes/Doc",
-    "notes/ToSometing",
-    "notes/cheat_sheet",
-    "notes",
     "Pasted image 20240903174657.png",
     "Pasted image 20240903170121.png",
-    "hubs",
-    "assets/img/protocol-buffers-concepts.png",
+    "inbox/2025-01-27_Pipeline_run.md~",
+    "hubs/Azure.md",
+    "inbox/inbox/2025-01-24_Azure_Pipelines.md",
+    "inbox/inbox",
+    "inbox/24_Azure_Pipelines.md",
+    "inbox/2025_01_24_Azure_Pipelines.md",
+    "inbox/2025_01_24_Azure_Pipeline.md",
+    "inbox/1737986801-OYAV.md",
+    "inbox/1737986815-LNEA.md",
+    "inbox/1737986822-OJUV.md",
+    "inbox/2025-01-27_Pipeline.md",
+    "hubs/Python.md",
+    "inbox/2025-01-24_Azure_Pipelines.md~",
+    "notes/Doc/2024_07_01_Sphinx.md",
+    "Untitled.canvas",
+    "notes/#Doc",
+    "inbox/2025-01-14_python_app_detected_as_malware.md~",
+    "inbox/2025-01-13_Walrus-operator.md~",
+    "inbox/2024-10-30_Json-Schema.md~",
+    "https:/datatracker.ietf.org/doc/html",
     "assets/img/Pasted image 20240618143948.png",
+    "Pasted image 20240618143241.png",
+    "assets/img/protocol-buffers-concepts.png",
     "assets/img/Pasted image 20240618114353.png",
-    "assets/img",
+    "Pasted image 20240618114336.png",
     "Sans titre.canvas"
   ]
 }
