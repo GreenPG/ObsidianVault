@@ -112,5 +112,46 @@ App should verify that the secrets is still active before trusting it.
 
 Never transmits secrets via plaintext.
 
-9. 
+### 9. Downtime, Break-glass, Backup and Restore
+
+Maintenance windows must be carefully chosen based on earlier metrics and audit logs.
+
+Backup and restore procedure of the system should be regularly tested and audited for
+their security. Ensure that:
+    - an automated backup procedure is in place and executed periodaically. Base the
+      frequency of the backups and snapshots on the number of secrets and their
+      lifestyle
+    - frequently test restore procedures to guarantee that the backups are intact
+    - encrypt backups and put them on secure storage with reduced access rights. Monitor
+      the backup location for access and administrative actions.
+
+Emergency process ("break-glass") should be implemented to restore the service if the
+system becomes unavailable for reasons other than regular maitenance. Emergency
+break-glass credentials should be regularly backed-up securely in a secondary secrets
+managemnent system and tested routinely.
+
+### 10. Policies
+
+Consistently enforce policies defining the minimum complexity requirements of passwords
+and approved encryption at an organization-wide level. Using centralized secrest
+management solution can ehlp/
+Having organization-wide secrets management policy can help enforce applying the best
+practicies.
+
+### 11. Metadata: prepare to move the secret
+
+A secret management solution should provide the capability to store a least the
+following metadata about a secret:
+- when it was created/consumed/archived/rotated/deleted
+- who created/consumed/archived/rotated/deleted it
+- what created/consumed/archived/rotated/deleted it
+- who to contact when having problem with the secret or having questions about it
+- for what the secret is used
+- what type of secret it is
+- when you need to rotate it, if done manually
+
+
+## CI and CD
+
+
 
