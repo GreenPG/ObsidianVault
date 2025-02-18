@@ -181,4 +181,35 @@ There are various places where you can store secrets to execute CI/CD actions:
 management system to do the encryption of a secret and commit it to git. The consuming
 service can then fetch it on deployment and decrypt it.
 
+### Authentication and authorization of CI/CD tooling
+
+CI/CD should have designated service accounts, which can only operate in the scope of
+the required secrets of orchestration of the consumers of a secret. Additioally, a CI/CD
+pipeline run should be easily attributable to the one who has defined the job or
+triggered it to detect who has tried to exfiltrate secrets or manipulate them.
+
+### Logging and accounting
+
+Every action in a CI/CD tool should be logged. You should define security alerting rules
+at every non-standard manipulation of the pipeline tool and its administrative interface
+to monitor secret usage.
+
+### Rotation vs Dynamic creation
+
+CI/CD tooling can be used to rotate secrets or instruct other components to do the
+rotation of the secret.
+Alternatively, the CI/CD or another component could setup a dynamic secret: a secret
+required for a consumer to use for as long as it lives. It is invalidated when the
+consumer no longer lives.
+
+### Pipeline created secrets
+
+Pipeline tooling can be used to generate secrets and either offer them directly to the
+service deployed by the tooling or provide the secret to a secrets management solution.
+Alternatively, the secret can be stored encrypted in git so that the secret and its
+metadata is as close to the developer's daily place of work as possible.
+It requires that the devs can't decrypt the secrest themselves and that every consumer
+of a secret has its encrypted variant of the secret.
+
+## Containers and Orchestrators
 
