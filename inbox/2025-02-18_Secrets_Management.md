@@ -81,6 +81,21 @@ Secrets follow a lifecycle. Thes stages are as follows:
 - Revocation
 - Expiration
 
-    1. Creation
+    1. **Creation**
+			New secrets must be securely generated and cryptographically robust enough for their
+purpose. They must have the minimum privileges assigned to them to enable their
+required use/role.
+Credentials should be transmit securely, i.e. password and username should not be sent
+along when requesting user accounts. 
+
+	1. **Revocation**
+
+Secrets should be regularly rotated so that any stolen credentials will only work for a
+short time. It will also reduce the tendency for users to fall back to bad habits.
+
+User credentials are excluded from regular rotating, except if there is a suspicion or
+evidence that they have been compromised.
+
+    3. **Revocation**
 
 
