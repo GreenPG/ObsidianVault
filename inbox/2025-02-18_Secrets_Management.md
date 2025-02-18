@@ -128,7 +128,7 @@ their security. Ensure that:
 Emergency process ("break-glass") should be implemented to restore the service if the
 system becomes unavailable for reasons other than regular maitenance. Emergency
 break-glass credentials should be regularly backed-up securely in a secondary secrets
-managemnent system and tested routinely.
+management system and tested routinely.
 
 ### 10. Policies
 
@@ -153,5 +153,32 @@ following metadata about a secret:
 
 ## CI and CD
 
+CI/CD tools store secrets to provide configuration to application during deployment, and
+alternatively interact heavily with the secrets management system. Various best
+practices can help smooth secret management in CI/CD.
+
+### Hardening your CI/CD
+
+- Treat your CI/CD tooling as a production environment: hardent it, patch it and harder
+  the underlying infrastructure and services
+- Have security event monitoring in place
+- Implement least-privilege access: developers do not need to be able to administer
+projects. They only need to be able to execute required functions (setting up pipleines,
+running them). There is no need for privileged roles that might have access to secrets
+- Make sure tath pipeline output does not leak secrets, and you can't listen in on
+production pipelines with debugging tools
+- make sure you cannot exec into any runners and workers for a CI/CD system
+- have proper authentication, authorization and accounting in place.
+- Ensure only an approved process can create pipelines
+
+### Where a secret should be ?
+
+There are various places where you can store secrets to execute CI/CD actions:
+- as port a the CI/CD
+- as port of the secrets management system. The CI/CD pipeline would require credentials
+  to connect to these secrets management system, to have secrets in place.
+- use the CI/CD pipeline to leverage the encryption as  a service from the secrets
+management system to do the encryption of a secret and commit it to git. The consuming
+service can then fetch it on deployment and decrypt it.
 
 
