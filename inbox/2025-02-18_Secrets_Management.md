@@ -213,3 +213,12 @@ of a secret has its encrypted variant of the secret.
 
 ## Containers and Orchestrators
 
+### Injection of secrets
+
+There are three ways to get secrets to an app inside a docker container:
+- **Mounted volumes**: secrets are kepts within a particular config/secret file mounted
+  to the instance as a mounted volume. Ensure that these files are mounted by the
+orchestrator and never built-in. Make sure that the orchestrator mounts in the volume
+when required
+- **Fetch from the secret store**: a sidecar app/container fetches the secrets it needs
+  directly from a secret manager service without dealing with docker config.
