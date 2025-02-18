@@ -23,3 +23,14 @@ The principle is widely recognized as an important design consideration towards
 enhancing and giving a much neede boost to protection of data and functionality from
 faults and malicious behavior.
 
+Benefits of the principle:
+- **Intelectual Security**: it's eaiser to test code possible actions and interaction
+whit other security targeted applications when its scopes is limited.
+- **Better system security**: when code is limited in the system-wide actions it may
+perform, vulnerabilites in one application can't be used to exploit the rest of the
+machine.
+- **Ease of deployment**: the fewer privleges an application requires, the easier it is
+  to deploy within a larger environment. This usually results from the first two
+benefits, applications that install device drives or require elevated security
+privileges typically have additional steps int their deployment.
+
