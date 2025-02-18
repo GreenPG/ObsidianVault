@@ -13,7 +13,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "inbox/2025-02-18_Secrets_Management.md",
+                "file": "inbox/2025-02-18_Least_Privilege_principle.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -23,7 +23,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 2025-02-18_Secrets_Management"
+              "title": "Backlinks for 2025-02-18_Least_Privilege_principle"
             }
           },
           {
@@ -32,12 +32,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "inbox/2025-02-18_Secrets_Management.md",
+                "file": "inbox/2025-02-18_Least_Privilege_principle.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-02-18_Secrets_Management"
+              "title": "2025-02-18_Least_Privilege_principle"
             }
           }
         ],
@@ -191,11 +191,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "904b89042b71845c",
+  "active": "9bf2f39fced1eba0",
   "lastOpenFiles": [
-    "hubs/Python.md",
     "inbox/2025-02-18_Secrets_Management.md",
+    "inbox/2025-02-18_Least_Privilege_principle.md",
     "inbox/2025-02-18_Secrets_Management.md~",
+    "inbox/2025-02-18_Least_Privilege_principle.md~",
+    "hubs/Python.md",
     "inbox/2025-02-18_Secrets_Managements.md",
     "inbox/2025-02-14_SFTP.md",
     "zettelkasten/2025-02-14_SFTP.md",
@@ -224,14 +226,11 @@
     "inbox/2025_01_24_Azure_Pipelines.md",
     "inbox/2025_01_24_Azure_Pipeline.md",
     "inbox/1737986801-OYAV.md",
-    "inbox/1737986815-LNEA.md",
-    "inbox/1737986822-OJUV.md",
     "inbox/2025-01-24_Azure_Pipelines.md~",
     "Untitled.canvas",
     "notes/#Doc",
     "inbox/2025-01-14_python_app_detected_as_malware.md~",
     "inbox/2025-01-13_Walrus-operator.md~",
-    "inbox/2024-10-30_Json-Schema.md~",
     "assets/img/Pasted image 20240618143948.png",
     "Pasted image 20240618143241.png",
     "assets/img/protocol-buffers-concepts.png",
