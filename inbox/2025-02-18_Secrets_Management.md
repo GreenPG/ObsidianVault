@@ -5,7 +5,7 @@ tags:
 hubs:
     - "[[DevOps]]"
 urls:
-	- https://cheatsheetseries.owasp.org/cheatsheets/Secrets_Management_Cheat_Sheet.html
+    -https://cheatsheetseries.owasp.org/cheatsheets/Secrets_Management_Cheat_Sheet.html
 ---
 
 # Secrets Management
