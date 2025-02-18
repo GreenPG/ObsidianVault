@@ -72,3 +72,15 @@ should audit:
 infrastructure stack.
 
 All auditing must have a timestamps.
+
+7. Secret Lifecycle
+
+Secrets follow a lifecycle. Thes stages are as follows:
+- Creation
+- Rotation
+- Revocation
+- Expiration
+
+    1. Creation
+
+
