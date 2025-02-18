@@ -40,4 +40,35 @@ object and component to accomplish the [Least Privilege principle](obsidian://op
 Manual maintenance increase the risk of leakage and human errors. It can also become
 wasteful. It's better to limit or remove the human interaction with the actual secrets.
 You can restrict in in multiple ways:
-- 
+- **Secrets pipeline**: having a secret pipeline which does large parts of the secret
+management
+- **Using dynamic secrets**: they should be used where possible to reduce the surface
+area of credential reuse.
+- **Automated rotation of static secrets**: key rotation is a challenging process when
+implemented manually. It's therefore better to automate the rotation of keys or at least
+ensure that the process is sufficiently support by IT.
+
+5. Handling Secrets in Memory
+
+Additional level of security can be achieved by minimizing the time window where a
+secret is in memory and limiting the access to its memory space, even it's could be a
+difficult implementation.
+It can be easy with lower languages but much more difficult with higher level language
+with garbage collector.
+
+6. Auditing
+
+It's an essential parts of secrets management. It must be implemented securely to be
+resilient against attempt to tamper with or delete the audit logs. At minimum, you
+should audit:
+- who request a secret and for whant system and role
+- wheter the request was approved or not
+- when the secrets was used and by whom/what
+- when it expired
+- whether there were any attempts to re-use expired secrets
+- if there have been any authentication or authorization errors
+- when the secret was updated and by whom/what
+- any administrative actions and possible user activity on the underlying supporting
+infrastructure stack.
+
+All auditing must have a timestamps.
