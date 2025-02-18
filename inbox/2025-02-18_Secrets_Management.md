@@ -5,7 +5,7 @@ tags:
 hubs:
     - "[[DevOps]]"
 urls:
-    - https://cheatsheetseries.owasp.org/cheatsheets/Secrets_Management_Cheat_Sheet.html
+	- https://cheatsheetseries.owasp.org/cheatsheets/Secrets_Management_Cheat_Sheet.html
 ---
 
 # Secrets Management
@@ -222,3 +222,105 @@ orchestrator and never built-in. Make sure that the orchestrator mounts in the v
 when required
 - **Fetch from the secret store**: a sidecar app/container fetches the secrets it needs
   directly from a secret manager service without dealing with docker config.
+- **Environment variables**: secrets can be provide directly as port of the docker
+container configuration. They should never be hardcoded using docker ENV or  ARG
+command. Additioally, environment variables are generally accessible to all processes
+and may be included in logs or system dumps. Using environment variables is therefore
+not recommended unless the other mtehods are not possible
+
+### Short lived side-car containers
+
+You can create short-lived sidecar container that fetch secrets from some remote
+endpoint and then store them on a shared volume mounted to the original conatiner which
+can now use them from the mounted volume.
+This way, there's no need to integrate third-party tool or code to get secrets. 
+Once the sidecar has fetched the secrest, it terminates.
+
+### Internal vs External access
+
+You should only expose secrets to communication mechanisms between the container and the
+deployment representation. Never expose secrets through external accesss mechanisms
+shared among deployments or orchestrator.
+When the orchestrator store secrets, make sure that the stoarage backend of the
+orchestrator is encrypted and you manage the keys well.
+
+## Implementation guidance
+
+### Dynamic vs Static use cases
+
+Use cases for dynamic secrets:
+- short-lived secrets (credentials or API keys) for a secondary service that expresses
+the intent for connecting the primary service to the service
+- short-lived integrity and encryption controls for guarding and securing in-memory and
+  runtime communication processes. Encryption keys that only need to live for a single
+session or a single deployment lifetime
+- short-live credentials for building a stack during the deployment of a service for
+interacting with the deployers and supporting infrastructure
+
+Use cases for static secrets:
+- long term secrets needed to create dynamic secrets
+- key material that need to live longer than a single deployment with the service due to
+  the nature of their usage in the interaction with other instances of the same service
+- key material or credentials to connect to services that do not support creating
+temporal roles or credentials
+
+### Ensure limitations are in place
+
+Secrets should never be retrievalbe by everyone and everything. Always make sure that
+you put guardrails in place:
+- Ensure that there are policies in place to limit the number of entities that can read
+  or write the secret.
+- Consider separating the production and development secrets by having separate secret
+management solutions.
+
+### Security event monitoring is key
+
+Continually monitor who/what, from which IP, and what methodology accesses the secret.
+There are various pattern where you need to look out for, such as:
+- monitor who accesses the secret at the secret management system: is this normal
+behavior ?
+- monitor the service requiring the secret, whether the user of the secret is coming
+from an expected IP, with an expected user agent.
+
+### Usability
+
+Ensure that your secret management solution is easy to use. It requires:
+- easy onboarding of new secrets and removal of invalidated secrets
+- easy integration with the existing software.
+- a clear understanding of the organization of secrets management and its processes is
+essential
+
+## Encryption
+
+### Encryption types to use
+
+Various encryption types can be used to secure a secret as long as they provide
+sufficient security, including adequate resistance against quantum computing-based
+attacks.
+It's best to take a look at sources like [keylenght.com].
+
+### Convergent encryption
+
+Convergent encryption ensures that a given plaintext and its key results in the same
+ciphertext. This can help detect possible re-use of secrets, resulting in the same
+ciphertext. 
+The challenge with enabling convergent encryption is that it allows attackers to use the
+system to generate a set of cryptographic strings taht might end up in the same secret,
+allowing the attacker to derive the plain text secret.
+
+### Where to store the encryption keys ?
+
+You should not store keys to the secrets they encrypt, except if those keys are
+encrypted themselves.
+
+### Encryption as a Service (EaaS)
+
+Eaas is a model in which users subscribe to a cloud-based encryption service without
+having to install encryption on their own systems. Using Eaas, you can get the following
+benefits:
+ - Encryption a rest
+ - Encryption in transit (TLS)
+ - Key handling and cryptographic implementations are taken care of by Encryption
+ Service, not by developers
+ - the provider could add more services to interact with the sensitive data
+

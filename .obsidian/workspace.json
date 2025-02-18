@@ -27,14 +27,24 @@
             }
           },
           {
-            "id": "9bf2f39fced1eba0",
+            "id": "875dd5e4879f56cb",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "inbox/2025-02-18_Secrets_Management.md",
                 "mode": "source",
-                "source": false
+                "source": true,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
               "icon": "lucide-file",
               "title": "2025-02-18_Secrets_Management"
@@ -191,12 +201,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9bf2f39fced1eba0",
+  "active": "875dd5e4879f56cb",
   "lastOpenFiles": [
-    "inbox/2025-02-18_Secrets_Management.md~",
     "inbox/2025-02-18_Least_Privilege_principle.md",
-    "inbox/2025-02-18_Least_Privilege_principle.md~",
     "inbox/2025-02-18_Secrets_Management.md",
+    "inbox/2025-02-18_Secrets_Management.md~",
+    "inbox/2025-02-18_Least_Privilege_principle.md~",
     "hubs/Python.md",
     "inbox/2025-02-18_Secrets_Managements.md",
     "inbox/2025-02-14_SFTP.md",
