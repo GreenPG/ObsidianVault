@@ -11,7 +11,7 @@ urls:
 
 # Pipeline run 
 
-A run represents one execution of a pipeline. Both CI and CD pipelines consist of runs. During a run, AP processes the pipeline and agents process one or more [jobs](inbox/2025-01-24_Azure_Pipelines.md#Job), [step](inbox/2025-01-24_Azure_Pipelines.md#Step) and [tasks](inbox/2025-01-24_Azure_Pipelines.md#Task).
+A run represents one execution of a pipeline. Both CI and CD pipelines consist of runs. During a run, AP processes the pipeline and agents process one or more [jobs](notes/Doc/2025-01-24_Azure_Pipelines.md#Job), [step](notes/Doc/2025-01-24_Azure_Pipelines.md#Step) and [tasks](notes/Doc/2025-01-24_Azure_Pipelines.md#Task).
 
 For each run, Azure Pipelines:
 - processes the pipeline
@@ -27,7 +27,7 @@ For each job, an agent:
 
 To process a pipeline for a run, AP first:
 1. Expands templages and evaluates template expressions
-2. Evaluate dependencies at the [stage](inbox/2025-01-24_Azure_Pipelines.md#Stage) level to pick the first stage to run
+2. Evaluate dependencies at the [stage](notes/Doc/2025-01-24_Azure_Pipelines.md#Stage) level to pick the first stage to run
 
 For each stage it selects to run, AP:
 1. Gathers and validates all job resources for authorization
@@ -72,7 +72,7 @@ Once an agent accepts a job, it does the following preparation work:
 
 Agent runs steps sequentially (new step start only when previous steps has finished or has been skipped).
 
-Steps are implemented by [tasks](inbox/2025-01-24_Azure_Pipelines.md#Task). The task system routes inputs and outputs to the backging scripts.
+Steps are implemented by [tasks](notes/Doc/2025-01-24_Azure_Pipelines.md#Task). The task system routes inputs and outputs to the backing scripts.
 They also provide common services such as altering system paths and creating new pipeline variables.
 
 Each step runs its own process, isolating its environment from previous steps. This way, environment variables aren't preserved between steps.
@@ -83,7 +83,7 @@ Tasks and scripts use logging commands to communicate back to the agent, which t
 Each steps can report tasks status on the pipeline summary page. Errors and warnings are reporst by marking tasks as succeeded with issues, 
 and failures are reports by markings the task as failed. 
 
-The agent can upload [artifacts](inbox/2025-01-24_Azure_Pipelines.md#Artifact) and test results whic are available after the pipeline completes.
+The agent can upload [artifacts](notes/Doc/2025-01-24_Azure_Pipelines.md#Artifact) and test results whic are available after the pipeline completes.
 
 ## State and conditions
 

@@ -12,4 +12,4 @@ urls:
 - alumnization
 - setup arch
 - mettre a jour page github
-
+- revoir workflow obsidian
