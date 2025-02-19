@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/Doc/Multithread vs SubProcess TestLab GUI.md",
-                "mode": "source",
+                "file": "zettelkasten/2025-02-18_Secrets_Management.md",
+                "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Multithread vs SubProcess TestLab GUI"
+              "title": "2025-02-18_Secrets_Management"
             }
           }
         ]
@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 202.5
+    "width": 202.5,
+    "collapsed": true
   },
   "right": {
     "id": "70c13890a81f7e1a",
@@ -126,7 +127,9 @@
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": true
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-tags",
               "title": "Tags"
@@ -137,9 +140,14 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {},
+              "state": {
+                "file": "zettelkasten/2025-02-18_Secrets_Management.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of 2025-02-18_Secrets_Management"
             }
           },
           {
@@ -151,14 +159,39 @@
               "icon": "git-pull-request",
               "title": "Source Control"
             }
+          },
+          {
+            "id": "f44b7c57b3d304a9",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "43217bdca9c77815",
+            "type": "leaf",
+            "state": {
+              "type": "file-properties",
+              "state": {
+                "file": "zettelkasten/2025-02-18_Secrets_Management.md"
+              },
+              "icon": "lucide-info",
+              "title": "File properties for 2025-02-18_Secrets_Management"
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -173,39 +206,39 @@
   },
   "active": "7f67ab6cefb2b05d",
   "lastOpenFiles": [
+    "notes/Doc/2024-10-11_git_submodule.md",
+    "zettelkasten/2025-02-18_Secrets_Management.md",
+    "notes/Doc/2024-10-30_Json-Schema.md",
+    "notes/Doc/2024-06-26_Reu_Technique_Decouplage.md",
+    "hubs/Azure.md",
+    "hubs/Communication_Protocol.md",
+    "hubs/Python.md",
+    "keylength.com.md",
+    "notes/Doc/PySide.md",
+    "notes/Doc/Multithread vs SubProcess TestLab GUI.md",
     "notes/Doc/Master-Worker.md",
     "notes/Doc/FreeRTOS.md",
     "inbox/2025-02-18_Secrets_Management.md",
-    "zettelkasten/2025-02-18_Secrets_Management.md",
     "zettelkasten/2025-02-18_Least_Privilege_principle.md",
     "inbox/2025-02-18_Least_Privilege_principle.md",
     "Least_Privilege_principle.md",
     "inbox/2025-02-18_Least_Privilege_principle.md~",
     "inbox/2025-02-18_Secrets_Management.md~",
-    "hubs/Python.md",
     "inbox/2025-02-18_Secrets_Managements.md",
     "inbox/2025-02-14_SFTP.md",
     "zettelkasten/2025-02-14_SFTP.md",
     "zettelkasten/2025-01-27_Pipeline_run.md",
     "zettelkasten/2025-01-24_Azure_Pipelines.md",
     "inbox/2025-02-14_SFTP.md~",
-    "hubs/Communication_Protocol.md",
     "hubs/Communication_Protocol",
     "notes/Doc/2025-01-13_Walrus-operator.md",
     "inbox/2025-01-27_Pipeline_run.md",
     "inbox/2025-01-24_Azure_Pipelines.md",
     "notes/ToSomething/2024-11-19_ToDo.md",
     "notes/Doc/2024-06-25_Asyncio.md",
-    "notes/WorkingDoc/2025-01-14_python_app_detected_as_malware.md",
-    "hubs/Testlab.md",
-    "notes/ToSomething/2024-10-16_ToTest.md",
-    "notes/ToSomething/2024-10-11_ToRead.md",
-    "notes/ToSomething/2024-07-02_ToWatch.md",
     "Pasted image 20240903174657.png",
     "Pasted image 20240903170121.png",
     "inbox/2025-01-27_Pipeline_run.md~",
-    "hubs/Azure.md",
-    "inbox/inbox/2025-01-24_Azure_Pipelines.md",
     "inbox/inbox",
     "inbox/2025-01-24_Azure_Pipelines.md~",
     "Untitled.canvas",

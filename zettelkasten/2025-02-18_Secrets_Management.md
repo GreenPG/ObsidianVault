@@ -1,11 +1,11 @@
 ---
 date: 2025-02-18
 tags:
-    - #Doc 
+  - Doc
 hubs:
-    - "[[DevOps]]"
+  - "[[DevOps]]"
 urls:
-    -https://cheatsheetseries.owasp.org/cheatsheets/Secrets_Management_Cheat_Sheet.html
+  - https://cheatsheetseries.owasp.org/cheatsheets/Secrets_Management_Cheat_Sheet.html
 ---
 
 # Secrets Management
@@ -297,7 +297,7 @@ essential
 Various encryption types can be used to secure a secret as long as they provide
 sufficient security, including adequate resistance against quantum computing-based
 attacks.
-It's best to take a look at sources like [keylenght.com].
+It's best to take a look at sources like [keylength.com](https://www.keylength.com).
 
 ### Convergent encryption
 
@@ -318,7 +318,7 @@ encrypted themselves.
 Eaas is a model in which users subscribe to a cloud-based encryption service without
 having to install encryption on their own systems. Using Eaas, you can get the following
 benefits:
- - Encryption a rest
+ - Encryption at rest
  - Encryption in transit (TLS)
  - Key handling and cryptographic implementations are taken care of by Encryption
  Service, not by developers
