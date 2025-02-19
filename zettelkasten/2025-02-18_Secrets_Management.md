@@ -32,7 +32,7 @@ authorization and accounting of the secrets management solution.
 
 Least Privilege principle should be applied to avoid leak. The secret management
 system must provides the ability to configure fine granular access controls on each
-object and component to accomplish the [Least Privilege principle](obsidian://open?vault=ObsidianVault&file=inbox%2F2025-02-18_Least_Privilege_principle).
+object and component to accomplish the [[2025-02-18_Least_Privilege_principle|Least Privilege]].
 
 
 ### 4. Automate Secrets Management

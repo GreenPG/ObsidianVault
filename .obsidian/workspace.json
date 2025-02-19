@@ -8,62 +8,20 @@
         "type": "tabs",
         "children": [
           {
-            "id": "66899d5ff8c932d5",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "inbox/2025-02-18_Secrets_Management.md",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              },
-              "icon": "links-coming-in",
-              "title": "Backlinks for 2025-02-18_Secrets_Management"
-            }
-          },
-          {
-            "id": "875dd5e4879f56cb",
+            "id": "7f67ab6cefb2b05d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "inbox/2025-02-18_Secrets_Management.md",
+                "file": "notes/Doc/Multithread vs SubProcess TestLab GUI.md",
                 "mode": "source",
-                "source": true,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
+                "source": true
               },
               "icon": "lucide-file",
-              "title": "2025-02-18_Secrets_Management"
-            }
-          },
-          {
-            "id": "83cfcbae1442e03f",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.8.7"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.8.7"
+              "title": "Multithread vs SubProcess TestLab GUI"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -213,12 +171,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "83cfcbae1442e03f",
+  "active": "7f67ab6cefb2b05d",
   "lastOpenFiles": [
-    "inbox/2025-02-18_Least_Privilege_principle.md",
+    "notes/Doc/Master-Worker.md",
+    "notes/Doc/FreeRTOS.md",
     "inbox/2025-02-18_Secrets_Management.md",
-    "inbox/2025-02-18_Secrets_Management.md~",
+    "zettelkasten/2025-02-18_Secrets_Management.md",
+    "zettelkasten/2025-02-18_Least_Privilege_principle.md",
+    "inbox/2025-02-18_Least_Privilege_principle.md",
+    "Least_Privilege_principle.md",
     "inbox/2025-02-18_Least_Privilege_principle.md~",
+    "inbox/2025-02-18_Secrets_Management.md~",
     "hubs/Python.md",
     "inbox/2025-02-18_Secrets_Managements.md",
     "inbox/2025-02-14_SFTP.md",
@@ -244,10 +207,6 @@
     "hubs/Azure.md",
     "inbox/inbox/2025-01-24_Azure_Pipelines.md",
     "inbox/inbox",
-    "inbox/24_Azure_Pipelines.md",
-    "inbox/2025_01_24_Azure_Pipelines.md",
-    "inbox/2025_01_24_Azure_Pipeline.md",
-    "inbox/1737986801-OYAV.md",
     "inbox/2025-01-24_Azure_Pipelines.md~",
     "Untitled.canvas",
     "notes/#Doc",
