@@ -49,9 +49,21 @@
               "icon": "lucide-file",
               "title": "2025-02-18_Secrets_Management"
             }
+          },
+          {
+            "id": "83cfcbae1442e03f",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.8.7"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.8.7"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -201,7 +213,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "875dd5e4879f56cb",
+  "active": "83cfcbae1442e03f",
   "lastOpenFiles": [
     "inbox/2025-02-18_Least_Privilege_principle.md",
     "inbox/2025-02-18_Secrets_Management.md",
