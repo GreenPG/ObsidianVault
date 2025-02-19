@@ -82,11 +82,13 @@ Secrets follow a lifecycle. Thes stages are as follows:
 - Expiration
 
 1. **Creation**
+
 New secrets must be securely generated and cryptographically robust enough for their
 purpose. They must have the minimum privileges assigned to them to enable their
 required use/role.
 Credentials should be transmit securely, i.e. password and username should not be sent
 along when requesting user accounts. 
+
 
 2. **Rotation**
 
@@ -96,6 +98,7 @@ short time. It will also reduce the tendency for users to fall back to bad habit
 User credentials are excluded from regular rotating, except if there is a suspicion or
 evidence that they have been compromised.
 
+
 3. **Revocation**
 
 When secrest are no longer required or potentially compromised, you must securely
@@ -103,6 +106,7 @@ revoken them to restrict access. Whith (TLS) certificates, this also involves ce
 revocation
 
 4. **Expiration**
+
 Secrets should expire at a defined time where possible. It can be activate by the secret
 consuming system, or an expiration date set at the secrets management system forcing
 supporting processes to be triggered, resulting in a secret rotation.
