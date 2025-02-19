@@ -4,18 +4,28 @@
     "type": "split",
     "children": [
       {
-        "id": "6b346c703c5606a8",
+        "id": "844b43e95950b20f",
         "type": "tabs",
         "children": [
           {
-            "id": "b181bf20a026e68b",
+            "id": "d6971a415f576847",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "notes/Doc/2025-02-18_Secrets_Management.md",
-                "mode": "preview",
-                "source": false
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
               "icon": "lucide-file",
               "title": "2025-02-18_Secrets_Management"
@@ -78,8 +88,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 202.5,
-    "collapsed": true
+    "width": 202.5
   },
   "right": {
     "id": "70c13890a81f7e1a",
@@ -113,11 +122,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "notes/Doc/2025-02-18_Secrets_Management.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from 2025-02-18_Secrets_Management"
             }
           },
           {
@@ -204,10 +214,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b181bf20a026e68b",
+  "active": "d6971a415f576847",
   "lastOpenFiles": [
-    "Untitled.canvas",
+    "notes/Doc/2025-02-18_Least_Privilege_principle.md",
     "notes/Doc/2025-02-18_Secrets_Management.md",
+    "notes/Doc/2024-07-02_Pytest.md",
+    "Untitled.canvas",
     "notes/Doc/2025-01-24_Azure_Pipelines.md",
     "notes/ToSomething/ToWatch.md",
     "notes/ToSomething/ToDo.md",
@@ -217,7 +229,6 @@
     "inbox/2025-02-19_allo.md",
     "zettelkasten/2025-02-19_allo.md",
     "inbox/2025-01-24_Azure_Pipelines.md",
-    "notes/Doc/2025-02-18_Least_Privilege_principle.md",
     "notes/Doc/2024-10-11_git_submodule.md",
     "notes/Doc/2024-10-30_Json-Schema.md",
     "notes/Doc/2024-06-26_Reu_Technique_Decouplage.md",
