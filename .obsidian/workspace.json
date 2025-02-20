@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/Doc/2025-02-18_Secrets_Management.md",
+                "file": "notes/ToSomething/ToDo.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2025-02-18_Secrets_Management"
+              "title": "ToDo"
             }
           }
         ]
@@ -190,10 +190,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "notes/Doc/2025-02-18_Secrets_Management.md"
+                "file": "notes/ToSomething/ToDo.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for 2025-02-18_Secrets_Management"
+              "title": "File properties for ToDo"
             }
           }
         ],
@@ -216,8 +216,8 @@
   },
   "active": "d6971a415f576847",
   "lastOpenFiles": [
-    "notes/Doc/2025-02-18_Least_Privilege_principle.md",
     "notes/Doc/2025-02-18_Secrets_Management.md",
+    "notes/Doc/2025-02-18_Least_Privilege_principle.md",
     "notes/Doc/2024-07-02_Pytest.md",
     "Untitled.canvas",
     "notes/Doc/2025-01-24_Azure_Pipelines.md",
