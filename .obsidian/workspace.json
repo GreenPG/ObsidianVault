@@ -13,22 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/ToSomething/ToDo.md",
+                "file": "inbox/2025-03-03_Python-signal-handler.md",
                 "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
+                "source": false
               },
               "icon": "lucide-file",
-              "title": "ToDo"
+              "title": "2025-03-03_Python-signal-handler"
             }
           }
         ]
@@ -190,10 +180,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "notes/ToSomething/ToDo.md"
+                "file": "inbox/2025-03-03_Python-signal-handler.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for ToDo"
+              "title": "File properties for 2025-03-03_Python-signal-handler"
             }
           }
         ],
@@ -216,6 +206,9 @@
   },
   "active": "d6971a415f576847",
   "lastOpenFiles": [
+    "inbox/2025-03-03_Python-signal-handler.md",
+    "notes/ToSomething/ToDo.md",
+    "inbox/2025-03-03_Python-signal-handler.md~",
     "inbox/2025-02-26_Git-worktree.md~",
     "inbox/2025-02-26_Git-worktree.md",
     "notes/Doc/2025-02-18_Secrets_Management.md",
@@ -224,7 +217,6 @@
     "Untitled.canvas",
     "notes/Doc/2025-01-24_Azure_Pipelines.md",
     "notes/ToSomething/ToWatch.md",
-    "notes/ToSomething/ToDo.md",
     "notes/ToSomething/ToRead.md",
     "notes/ToSomething/ToTest.md",
     "notes/Doc/2025-01-27_Pipeline_run.md",
@@ -242,7 +234,6 @@
     "notes/Doc/Multithread vs SubProcess TestLab GUI.md",
     "notes/Doc/Master-Worker.md",
     "notes/Doc/FreeRTOS.md",
-    "inbox/2025-02-18_Secrets_Management.md",
     "inbox/2025-02-18_Least_Privilege_principle.md~",
     "inbox/2025-02-18_Secrets_Management.md~",
     "inbox/2025-02-14_SFTP.md~",
@@ -253,8 +244,6 @@
     "inbox/inbox",
     "inbox/2025-01-24_Azure_Pipelines.md~",
     "notes/#Doc",
-    "inbox/2025-01-14_python_app_detected_as_malware.md~",
-    "inbox/2025-01-13_Walrus-operator.md~",
     "assets/img/Pasted image 20240618143948.png",
     "Pasted image 20240618143241.png",
     "assets/img/protocol-buffers-concepts.png",
