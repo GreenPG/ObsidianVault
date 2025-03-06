@@ -20,21 +20,8 @@
               "icon": "lucide-file",
               "title": "2025-03-03_Python-signal-handler"
             }
-          },
-          {
-            "id": "69600ba79bb58721",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.8.9"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.8.9"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -217,7 +204,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "69600ba79bb58721",
+  "active": "d6971a415f576847",
   "lastOpenFiles": [
     "inbox/2025-03-03_Python-signal-handler.md~",
     "inbox/2025-03-03_Python-signal-handler.md",
