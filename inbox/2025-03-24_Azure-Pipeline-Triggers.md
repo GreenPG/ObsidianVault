@@ -30,6 +30,9 @@ CI triggers causes a pipeline to run whenever an update is pushed to the specifi
 
 YAML pipelines are configured by deafilt with a CI trigger on all branches, unless the *Disable implied YAML CI trigger* setting is enabled.
 
+To disable trigger, use:
+```trigger: none```
+
 ### Branches
 Which branches get CI triggers can be controlled this way:
 ```
@@ -58,5 +61,70 @@ trigger:
         - refs/tags/{tagname}
         exclude:
         - refs/tags/{othertagname}
+```
+### Paths
+File paths to include/exclude can be specified:
+```
+trigger:
+    branches:
+        include:
+        - main
+        - releases/*
+    paths:
+        include:
+        - docs
+        exclude:
+        - docs/README.md
+```
+
+Wild card are supported for path filters (`*`, `**` or `?`)
+- Path are always specified relative to root directory of the repo
+- without path filter, root directory of the repo in implicitly included by default
+if you exclude a path, you cannot also include it unless you qualify it to a deeper folder.
+- path filters order doesn't matter
+- paths in Git are case-sensitive.
+- variables can't be used in paths, as they are evaluated at run time.
+
+### Tags
+Tags can be specified this way:
+```
+trigger:
+    tags:
+        include:
+        - v2.*
+        exclude:
+        - v2.0
+```
+
+## PR triggers
+
+PR request triggers can be set with the ```pr:``` trigger.
+
+PR triggers follow the same rules as CI trigger for branches and paths.
+
+### Multiple PR updates
+You can specify wheter more updates to a PR should cancel in-progress validation runs for the same PR.
+The default is *true*
+```
+pr:
+    autoCancel: false
+    branches:
+        include:
+        - main
+```
+### Draft PR validation
+
+By default, PR triggers fire on draft PR and PR ready for review. To disable PR triggers for draft PR,
+set the *drafts* proporty to false
+```
+pr:
+  autoCancel: boolean # indicates whether additional pushes to a PR should cancel in-progress runs for the same PR. Defaults to true
+  branches:
+    include: [ string ] # branch names which will trigger a build
+    exclude: [ string ] # branch names which will not
+  paths:
+    include: [ string ] # file paths which must match to trigger a build
+    exclude: [ string ] # file paths which will not trigger a build
+  drafts: boolean # whether to build draft PRs, defaults to true
 ```
 
