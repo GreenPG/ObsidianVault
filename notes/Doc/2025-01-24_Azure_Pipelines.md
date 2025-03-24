@@ -119,7 +119,7 @@ A task is simply a precreated scripts offered as a convenience to you.
 
 A task is a building block for defining automation in a pipeline. A task is packaged scripts or procedure that has been abstracted with a set of inputs.
 
-### Trigger
+### [Trigger](inbox/2025-03-24_Azure-Pipeline-Triggers)
 
 A trigger is something that's set up to tell the pipeline when to run. You can configure a pipeline to run upon a push to a repository, at scheduled times, or upon the completion of another build.
 All of these actions are known as triggers.

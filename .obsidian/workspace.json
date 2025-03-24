@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/Doc/2025-01-24_Azure_Pipelines.md",
+                "file": "inbox/2025-03-24_Azure-Pipeline-Triggers.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-01-24_Azure_Pipelines"
+              "title": "2025-03-24_Azure-Pipeline-Triggers"
             }
           }
         ]
@@ -74,8 +74,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -181,10 +180,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "notes/Doc/2025-01-24_Azure_Pipelines.md"
+                "file": "inbox/2025-03-24_Azure-Pipeline-Triggers.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for 2025-01-24_Azure_Pipelines"
+              "title": "File properties for 2025-03-24_Azure-Pipeline-Triggers"
             }
           }
         ],
@@ -208,6 +207,9 @@
   "active": "d6971a415f576847",
   "lastOpenFiles": [
     "inbox/2025-03-24_Azure-Pipeline-Triggers.md~",
+    "notes/Doc/2025-01-24_Azure_Pipelines.md~",
+    "notes/Doc/2025-01-24_Azure_Pipelines.md",
+    "notes/Doc/2025-01-27_Pipeline_run.md",
     "inbox/2025-03-24_Azure-Pipeline-Triggers.md",
     "inbox/2025-03-18_pyvisa.md",
     "inbox/2025-03-18_pyvisa.md~",
@@ -220,11 +222,9 @@
     "notes/Doc/2025-02-18_Least_Privilege_principle.md",
     "notes/Doc/2024-07-02_Pytest.md",
     "Untitled.canvas",
-    "notes/Doc/2025-01-24_Azure_Pipelines.md",
     "notes/ToSomething/ToWatch.md",
     "notes/ToSomething/ToRead.md",
     "notes/ToSomething/ToTest.md",
-    "notes/Doc/2025-01-27_Pipeline_run.md",
     "inbox/2025-02-19_allo.md",
     "zettelkasten/2025-02-19_allo.md",
     "inbox/2025-01-24_Azure_Pipelines.md",
@@ -245,7 +245,6 @@
     "Pasted image 20240903170121.png",
     "inbox/2025-01-27_Pipeline_run.md~",
     "inbox/inbox",
-    "inbox/2025-01-24_Azure_Pipelines.md~",
     "assets/img/Pasted image 20240618143948.png",
     "Pasted image 20240618143241.png",
     "assets/img/protocol-buffers-concepts.png",
