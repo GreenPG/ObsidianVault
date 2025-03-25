@@ -74,8 +74,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -205,7 +204,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d6971a415f576847",
+  "active": "904b89042b71845c",
   "lastOpenFiles": [
     "notes/Doc/2025-01-24_Azure_Pipelines.md",
     "notes/Doc/2025-01-27_Pipeline_run.md",
