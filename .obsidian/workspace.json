@@ -16,8 +16,21 @@
               "icon": "projects-icon",
               "title": "Projects"
             }
+          },
+          {
+            "id": "ab10cb3da248da07",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.8.9"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.8.9"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -166,7 +179,7 @@
       "obsidian-projects:Open projects": false
     }
   },
-  "active": "613eba9bf09f4f99",
+  "active": "ab10cb3da248da07",
   "lastOpenFiles": [
     "Projects - Demo Project/What I Learned From Taking 15,000 Notes.md",
     "Projects - Demo Project/The Best Notes You'll Ever Make.md",
