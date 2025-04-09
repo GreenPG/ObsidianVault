@@ -49,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "import",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -70,8 +70,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -199,7 +198,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "74453975674bd71e",
+  "active": "904b89042b71845c",
   "lastOpenFiles": [
     "inbox/2025-03-24_Azure-Pipeline-Triggers.md",
     "zettelkasten/2025-03-24_Azure-Pipeline-Triggers.md",
