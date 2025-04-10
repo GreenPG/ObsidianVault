@@ -4,73 +4,46 @@
     "type": "split",
     "children": [
       {
-        "id": "9d7d20af5a7ebfda",
-        "type": "split",
+        "id": "0ac6bedaa8051839",
+        "type": "tabs",
         "children": [
           {
-            "id": "0ac6bedaa8051839",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "456ee83bf8cc947a",
-                "type": "leaf",
-                "state": {
-                  "type": "excalidraw",
-                  "state": {
-                    "file": "Excalidraw/Drawing 2025-04-10 14.52.09.excalidraw.md"
-                  },
-                  "icon": "excalidraw-icon",
-                  "title": "Drawing 2025-04-10 14.52.09.excalidraw"
-                },
-                "group": "118d8441c597746c"
+            "id": "456ee83bf8cc947a",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/CLI_Arch.md"
               },
-              {
-                "id": "e1fe67c8d90b9cad",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "notes/Doc/2024_07_01_Sphinx.md",
-                    "mode": "source",
-                    "source": true,
-                    "backlinks": true,
-                    "backlinkOpts": {
-                      "collapseAll": false,
-                      "extraContext": false,
-                      "sortOrder": "alphabetical",
-                      "showSearch": false,
-                      "searchQuery": "",
-                      "backlinkCollapsed": false,
-                      "unlinkedCollapsed": true
-                    }
-                  },
-                  "icon": "lucide-file",
-                  "title": "2024_07_01_Sphinx"
-                }
-              }
-            ]
+              "icon": "excalidraw-icon",
+              "title": "CLI_Arch"
+            }
           },
           {
-            "id": "1b16a62f0009be19",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "4f371c34b2404991",
-                "type": "leaf",
-                "state": {
-                  "type": "file-properties",
-                  "state": {
-                    "file": "Excalidraw/Drawing 2025-04-10 14.52.09.excalidraw.md"
-                  },
-                  "icon": "lucide-info",
-                  "title": "File properties for Drawing 2025-04-10 14.52.09.excalidraw"
-                },
-                "group": "118d8441c597746c"
-              }
-            ]
+            "id": "e1fe67c8d90b9cad",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "notes/Doc/2024_07_01_Sphinx.md",
+                "mode": "source",
+                "source": true,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "2024_07_01_Sphinx"
+            }
           }
-        ],
-        "direction": "horizontal"
+        ]
       }
     ],
     "direction": "vertical"
@@ -229,10 +202,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Excalidraw/Drawing 2025-04-10 14.52.09.excalidraw.md"
+                "file": "Excalidraw/CLI_Arch.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for Drawing 2025-04-10 14.52.09.excalidraw"
+              "title": "File properties for CLI_Arch"
             }
           }
         ],
@@ -255,10 +228,12 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "4f371c34b2404991",
+  "active": "456ee83bf8cc947a",
   "lastOpenFiles": [
     "notes/Doc/2024_07_01_Sphinx.md",
-    "Excalidraw/Drawing 2025-04-10 14.52.09.excalidraw.md",
+    "Excalidraw/CLI_Arch.md",
+    "hubs/Testlab.md",
+    "hubs/Untitled.md",
     "Excalidraw",
     "inbox/2025-03-24_Azure-Pipeline-Triggers.md",
     "zettelkasten/2025-03-24_Azure-Pipeline-Triggers.md",
@@ -288,8 +263,6 @@
     "inbox/2025-01-24_Azure_Pipelines.md",
     "notes/Doc/2024-10-11_git_submodule.md",
     "notes/Doc/2024-10-30_Json-Schema.md",
-    "notes/Doc/2024-06-26_Reu_Technique_Decouplage.md",
-    "hubs/Communication_Protocol.md",
     "inbox/2025-02-18_Least_Privilege_principle.md~",
     "inbox/2025-02-18_Secrets_Management.md~",
     "inbox/2025-02-14_SFTP.md~",
