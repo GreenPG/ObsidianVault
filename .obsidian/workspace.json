@@ -28,9 +28,23 @@
               "icon": "lucide-book-up",
               "title": "Release Notes 1.8.9"
             }
+          },
+          {
+            "id": "d687d22d59ff4985",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "conflict-files-obsidian-git"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -160,6 +174,20 @@
               "icon": "git-pull-request",
               "title": "Source Control"
             }
+          },
+          {
+            "id": "232e4eb096a453fd",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "Toutes les propriétés"
+            }
           }
         ],
         "currentTab": 4
@@ -179,15 +207,28 @@
       "obsidian-projects:Open projects": false
     }
   },
-  "active": "ab10cb3da248da07",
+  "active": "d687d22d59ff4985",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
+    "zettelkasten/2025-03-24_Azure-Pipeline-Triggers.md",
+    "zettelkasten/2025-03-18_pyvisa.md",
+    "zettelkasten/2025-03-03_Python-signal-handler.md",
+    "zettelkasten",
+    "notes/ToSomething/ToWatch.md",
+    "notes/ToSomething/ToTest.md",
+    "notes/ToSomething/ToRead.md",
+    "notes/ToSomething/ToDo.md",
+    "notes/Doc/2025-02-18_Secrets_Management.md",
+    "notes/Doc/2025-02-18_Least_Privilege_principle.md",
+    "notes/Doc/2025-02-14_SFTP.md",
+    "notes/Doc/2025-01-27_Pipeline_run.md",
+    "notes/Doc/2025-01-24_Azure_Pipelines.md",
     "Projects - Demo Project/What I Learned From Taking 15,000 Notes.md",
     "Projects - Demo Project/The Best Notes You'll Ever Make.md",
     "Projects - Demo Project/5 Mistakes I Made When I Started Using Obsidian.md",
     "Projects - Demo Project/The Easiest Way to Start Taking Notes.md",
     "Projects - Demo Project/Why You Should Be Taking More Notes.md",
     "Projects - Demo Project",
-    "conflict-files-obsidian-git.md",
     "zettelkasten/2024-11-19_ToDo.md",
     "notes/WorkingDoc/2025-01-14_python_app_detected_as_malware.md",
     "notes/WorkingDoc",
@@ -198,19 +239,7 @@
     "notes/ToSomething",
     "notes/Doc/2025-01-13_Walrus-operator.md",
     "notes/Doc/2024_07_01_Sphinx.md",
-    "notes/Doc/2024-10-30_Json-Schema.md",
-    "notes/Doc/2024-10-11_git_submodule.md",
-    "notes/Doc/2024-09-19_Test-Double.md",
-    "inbox/2025-02-14_SFTP.md",
-    "inbox/2025-01-27_Pipeline_run.md",
-    "inbox/2025-01-24_Azure_Pipelines.md",
     "inbox",
-    "hubs/ToSomething.md",
-    "hubs/Testlab.md",
-    "hubs/Communication_Protocol.md",
-    "hubs/Azure.md",
-    "notes/ToSometing/2024-10-11_ToRead.md",
-    "notes/Doc/Yaml Schema Python libraries.md",
     "notes/Doc",
     "notes/ToSometing",
     "notes/cheat_sheet",
@@ -221,7 +250,6 @@
     "assets/img/protocol-buffers-concepts.png",
     "assets/img/Pasted image 20240618143948.png",
     "assets/img/Pasted image 20240618114353.png",
-    "assets/img",
     "Sans titre.canvas"
   ]
 }

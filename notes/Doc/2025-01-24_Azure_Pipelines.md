@@ -92,7 +92,7 @@ You can create a release manually, with a deployment trigger, or with the REST A
 
 For YAML pipelines, the build and release stages are in one, multi-stage pipeline.
 
-### [Run](inbox/2025-01-27_Pipeline_run.md)
+### [Run](notes/Doc/2025-01-27_Pipeline_run.md)
 
 A run represents one execution of a pipeline. It collects the logs associated with running the steps and the results of running test. During a run, AP will first process the pipeline and then send the run to one or more agents. Each agent runs jobs. 
 
@@ -119,7 +119,7 @@ A task is simply a precreated scripts offered as a convenience to you.
 
 A task is a building block for defining automation in a pipeline. A task is packaged scripts or procedure that has been abstracted with a set of inputs.
 
-### Trigger
+### [Trigger](inbox/2025-03-24_Azure-Pipeline-Triggers)
 
 A trigger is something that's set up to tell the pipeline when to run. You can configure a pipeline to run upon a push to a repository, at scheduled times, or upon the completion of another build.
 All of these actions are known as triggers.

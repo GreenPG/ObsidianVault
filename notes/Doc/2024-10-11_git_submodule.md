@@ -1,7 +1,7 @@
 ---
 date: 2024-10-11
 tags:
-    - #Doc
+    - Doc
 hubs:
     - "[[git]]"
 urls:
