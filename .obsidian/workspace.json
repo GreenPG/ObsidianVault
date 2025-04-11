@@ -8,18 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "456ee83bf8cc947a",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/CLI_Arch.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "CLI_Arch"
-            }
-          },
-          {
             "id": "e1fe67c8d90b9cad",
             "type": "leaf",
             "state": {
@@ -228,7 +216,7 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "2d73bb855eb0cb93",
+  "active": "904b89042b71845c",
   "lastOpenFiles": [
     "Excalidraw/CLI_Arch.md",
     "notes/Doc/2024_07_01_Sphinx.md",
