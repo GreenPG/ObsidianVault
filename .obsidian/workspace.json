@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "98e0f934f09e9f84",
+        "id": "75876f3245d18e34",
         "type": "tabs",
         "children": [
           {
-            "id": "448f8ebde6b251f5",
+            "id": "7cbf97957b93989b",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -202,10 +202,18 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "904b89042b71845c",
+  "active": "7cbf97957b93989b",
   "lastOpenFiles": [
-    "Excalidraw/CLI_Arch.md",
+    "notes/Doc/2025-01-13_Walrus-operator.md",
+    "notes/Doc/2025-01-24_Azure_Pipelines.md",
+    "notes/Doc/2025-01-27_Pipeline_run.md",
+    "notes/Doc/2025-02-14_SFTP.md",
+    "notes/Doc/2025-02-18_Least_Privilege_principle.md",
+    "notes/Doc/2025-02-18_Secrets_Management.md",
+    "notes/cheat_sheet/Pythons typing cheat sheet.md",
+    "hubs/Python.md",
     "notes/Doc/2024_07_01_Sphinx.md",
+    "Excalidraw/CLI_Arch.md",
     "hubs/Testlab.md",
     "hubs/Untitled.md",
     "Excalidraw",
@@ -213,8 +221,6 @@
     "zettelkasten/2025-03-24_Azure-Pipeline-Triggers.md",
     "zettelkasten/2025-03-18_pyvisa.md",
     "zettelkasten/2025-03-03_Python-signal-handler.md",
-    "notes/Doc/2025-01-24_Azure_Pipelines.md",
-    "notes/Doc/2025-01-27_Pipeline_run.md",
     "hubs/Azure.md",
     "inbox/2025-03-24_Azure-Pipeline-Triggers.md~",
     "notes/Doc/2025-01-24_Azure_Pipelines.md~",
@@ -225,18 +231,12 @@
     "notes/ToSomething/ToDo.md",
     "inbox/2025-02-26_Git-worktree.md~",
     "inbox/2025-02-26_Git-worktree.md",
-    "notes/Doc/2025-02-18_Secrets_Management.md",
-    "notes/Doc/2025-02-18_Least_Privilege_principle.md",
     "notes/Doc/2024-07-02_Pytest.md",
     "Untitled.canvas",
     "notes/ToSomething/ToWatch.md",
     "notes/ToSomething/ToRead.md",
     "notes/ToSomething/ToTest.md",
     "inbox/2025-02-19_allo.md",
-    "zettelkasten/2025-02-19_allo.md",
-    "inbox/2025-01-24_Azure_Pipelines.md",
-    "notes/Doc/2024-10-11_git_submodule.md",
-    "notes/Doc/2024-10-30_Json-Schema.md",
     "inbox/2025-02-18_Least_Privilege_principle.md~",
     "inbox/2025-02-18_Secrets_Management.md~",
     "inbox/2025-02-14_SFTP.md~",
