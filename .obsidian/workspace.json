@@ -25,12 +25,14 @@
             "id": "f1b9f4bc4577caad",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.8.10"
+                "file": "notes/Doc/2025-01-13_Walrus-operator.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.8.10"
+              "icon": "lucide-file",
+              "title": "2025-01-13_Walrus-operator"
             }
           }
         ],
@@ -66,7 +68,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "w",
+                "query": "warlus",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -220,7 +222,7 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "74453975674bd71e",
+  "active": "f1b9f4bc4577caad",
   "lastOpenFiles": [
     "notes/Doc/2025-02-14_SFTP.md",
     "notes/Doc/2024-09-12_GitHub-releases.md",
