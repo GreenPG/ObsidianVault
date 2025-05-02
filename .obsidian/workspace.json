@@ -20,8 +20,21 @@
               "icon": "lucide-file",
               "title": "2025-01-24_Azure_Pipelines"
             }
+          },
+          {
+            "id": "f1b9f4bc4577caad",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.8.10"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.8.10"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -53,7 +66,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "w",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -74,7 +87,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -206,7 +220,7 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "7cbf97957b93989b",
+  "active": "74453975674bd71e",
   "lastOpenFiles": [
     "notes/Doc/2025-02-14_SFTP.md",
     "notes/Doc/2024-09-12_GitHub-releases.md",
