@@ -89,8 +89,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -222,7 +221,7 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "f1b9f4bc4577caad",
+  "active": "904b89042b71845c",
   "lastOpenFiles": [
     "notes/Doc/2025-02-14_SFTP.md",
     "notes/Doc/2024-09-12_GitHub-releases.md",
