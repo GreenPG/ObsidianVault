@@ -1,11 +1,11 @@
 ---
 date: 2024-10-11
 tags:
-    - #Doc
+  - Doc
 hubs:
-    - "[[git]]"
+  - "[[git]]"
 urls:
-    - https://git-scm.com/book/en/v2/Git-Tools-Submodules
+  - https://git-scm.com/book/en/v2/Git-Tools-Submodules
 ---
 
 # git_submodule 
