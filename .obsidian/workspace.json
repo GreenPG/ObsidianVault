@@ -4,50 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "ee1f301d1810c2e1",
+        "id": "3eab58d61dc712b0",
         "type": "tabs",
         "children": [
           {
-            "id": "d6e3d67afd0bca4c",
+            "id": "bf12713f059d5db0",
             "type": "leaf",
             "state": {
-              "type": "diff-view",
-              "state": {
-                "file": ".obsidian/community-plugins.json",
-                "staged": false
-              },
-              "icon": "git-pull-request",
-              "title": "Diff View (community-plugins.json)"
-            }
-          },
-          {
-            "id": "8fce95b087fe98e0",
-            "type": "leaf",
-            "state": {
-              "type": "diff-view",
-              "state": {
-                "file": ".obsidian/workspace.json",
-                "staged": false
-              },
-              "icon": "git-pull-request",
-              "title": "Diff View (workspace.json)"
-            }
-          },
-          {
-            "id": "a93e13c1463dacb5",
-            "type": "leaf",
-            "state": {
-              "type": "diff-view",
-              "state": {
-                "file": ".obsidian/graph.json",
-                "staged": true
-              },
-              "icon": "git-pull-request",
-              "title": "Diff View (graph.json)"
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Nouvel onglet"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -211,7 +181,7 @@
       "obsidian-projects:Open projects": false
     }
   },
-  "active": "a93e13c1463dacb5",
+  "active": "49896d4460b0180c",
   "lastOpenFiles": [
     "conflict-files-obsidian-git.md",
     "Excalidraw/CLI_Arch.md",
