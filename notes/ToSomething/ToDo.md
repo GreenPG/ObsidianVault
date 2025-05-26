@@ -21,4 +21,4 @@ urls:
 - [ ] #task ranger chambre 🔽 
 - [ ] #task use Arc 🔽 
 - [ ] #task ranger/trier papier 🔼 
-- [ ] #task racheter calecon/chaussure ⏫ 
+- [ ] #task racheter calecon/chaussure ⏫  p
