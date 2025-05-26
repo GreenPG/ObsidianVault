@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/ToSomething/ToDo.md",
+                "file": "notes/Doc/2024-10-11_git_submodule.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "ToDo"
+              "title": "2024-10-11_git_submodule"
             }
           }
         ]
@@ -74,8 +74,7 @@
               "title": "Signet"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -172,8 +171,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -189,9 +187,13 @@
   },
   "active": "b661382052db0d1b",
   "lastOpenFiles": [
-    "2025-05-26.md",
-    "Sans titre.canvas",
     "notes/ToSomething/ToDo.md",
+    "notes/ToSomething/ToRead.md",
+    "notes/ToSomething/ToTest.md",
+    "notes/ToSomething/ToWatch.md",
+    "2025-05-26.md",
+    "notes/Doc/2024-10-11_git_submodule.md",
+    "Sans titre.canvas",
     "conflict-files-obsidian-git.md",
     "Excalidraw/CLI_Arch.md",
     "Excalidraw",
@@ -199,9 +201,6 @@
     "zettelkasten/2025-03-18_pyvisa.md",
     "zettelkasten/2025-03-03_Python-signal-handler.md",
     "zettelkasten",
-    "notes/ToSomething/ToWatch.md",
-    "notes/ToSomething/ToTest.md",
-    "notes/ToSomething/ToRead.md",
     "notes/Doc/2025-02-18_Secrets_Management.md",
     "notes/Doc/2025-02-18_Least_Privilege_principle.md",
     "notes/Doc/2025-02-14_SFTP.md",
