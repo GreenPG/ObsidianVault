@@ -20,3 +20,5 @@ urls:
 - [x] #task faire planning 🔺 ✅ 2025-05-26
 - [ ] #task ranger chambre 🔽 
 - [ ] #task use Arc 🔽 
+- [ ] #task ranger/trier papier 🔼 
+- [ ] #task racheter calecon/chaussure ⏫ 
