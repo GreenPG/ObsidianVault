@@ -6,17 +6,46 @@
   "hideUnresolved": true,
   "showOrphans": true,
   "collapse-color-groups": true,
-  "colorGroups": [],
+  "colorGroups": [
+    {
+      "query": "tag:#Doc",
+      "color": {
+        "a": 1,
+        "rgb": 14701138
+      }
+    },
+    {
+      "query": "tag:#ToSomething  ",
+      "color": {
+        "a": 1,
+        "rgb": 14725458
+      }
+    },
+    {
+      "query": "tag:#cheat_sheet  ",
+      "color": {
+        "a": 1,
+        "rgb": 11657298
+      }
+    },
+    {
+      "query": "tag:#WorkingDoc",
+      "color": {
+        "a": 1,
+        "rgb": 5431378
+      }
+    }
+  ],
   "collapse-display": true,
   "showArrow": false,
   "textFadeMultiplier": 0.2,
   "nodeSizeMultiplier": 1.51620686848958,
   "lineSizeMultiplier": 5,
-  "collapse-forces": false,
-  "centerStrength": 0.824951171875,
-  "repelStrength": 16.1726888020833,
+  "collapse-forces": true,
+  "centerStrength": 0.518713248970312,
+  "repelStrength": 10,
   "linkStrength": 1,
-  "linkDistance": 138,
-  "scale": 0.8939891322688788,
+  "linkDistance": 250,
+  "scale": 0.3427059404755537,
   "close": true
 }

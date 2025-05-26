@@ -4,19 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "c0c9dc15c0226b9c",
+        "id": "5431797f8caa1781",
         "type": "tabs",
         "children": [
           {
-            "id": "4ac0db8a1ceb8b49",
+            "id": "03051c7402ed075c",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2024-07-23.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ]
@@ -34,8 +32,11 @@
         "state": {
           "type": "file-explorer",
           "state": {
-            "sortOrder": "alphabetical"
-          }
+            "sortOrder": "alphabetical",
+            "autoReveal": false
+          },
+          "icon": "lucide-folder-closed",
+          "title": "Files"
         }
       },
       {
@@ -50,7 +51,9 @@
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical"
-          }
+          },
+          "icon": "lucide-search",
+          "title": "Search"
         }
       },
       {
@@ -61,7 +64,9 @@
           "state": {
             "sortOrder": "frequency",
             "useHierarchy": true
-          }
+          },
+          "icon": "lucide-tags",
+          "title": "Tags"
         }
       },
       {
@@ -69,7 +74,9 @@
         "type": "leaf",
         "state": {
           "type": "bookmarks",
-          "state": {}
+          "state": {},
+          "icon": "lucide-bookmark",
+          "title": "Bookmarks"
         }
       }
     ],
@@ -85,7 +92,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "2024-07-23.md",
+            "file": "C/C++ keywords.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -93,7 +100,9 @@
             "searchQuery": "",
             "backlinkCollapsed": false,
             "unlinkedCollapsed": true
-          }
+          },
+          "icon": "links-coming-in",
+          "title": "Backlinks"
         }
       },
       {
@@ -102,10 +111,12 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "2024-07-23.md",
+            "file": "C/C++ keywords.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
-          }
+          },
+          "icon": "links-going-out",
+          "title": "Outgoing links"
         }
       },
       {
@@ -114,8 +125,10 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "2024-07-23.md"
-          }
+            "file": "C/C++ keywords.md"
+          },
+          "icon": "lucide-list",
+          "title": "Outline"
         }
       }
     ],
@@ -131,11 +144,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4ac0db8a1ceb8b49",
+  "active": "03051c7402ed075c",
   "lastOpenFiles": [
-    "inbox/2024-07-22_Python_regex.md",
-    "2024-07-23.md",
+    "notes/Doc/2024-10-30_Json-Schema.md",
+    "C/C++ keywords.md",
+    "notes/Doc/2024-10-11_git_submodule.md",
+    "notes/WorkingDoc/2025-01-14_python_app_detected_as_malware.md",
+    "hubs/Python.md",
     "Untitled.md",
+    "2024-07-23.md",
+    "C",
+    "inbox/2024-07-22_Python_regex.md",
     "Decouplage.md",
     "2024_05_16.md",
     "2024-05-22.md",

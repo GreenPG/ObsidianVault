@@ -146,7 +146,7 @@
       "quoteStrings": "PLAIN"
     },
     "locale": {
-      "firstDayOfWeek": "default"
+      "firstDayOfWeek": "monday"
     },
     "commands": [],
     "linkBehavior": "open-editor"
