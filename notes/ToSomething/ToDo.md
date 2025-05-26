@@ -8,15 +8,17 @@ urls:
 
 # ToDo
 - [ ] #task mettre en place password manager 🔼 
-- [ ] #task demande passeport lw🔽 
+- [ ] #task demande passeport 🔽 
 - [ ] #task alumnization 🔽 
 - [ ] #task setup arch 🔼 
 - [ ] #task mettre a jour page github ⏫ 
 - [ ] #task revoir workflow obsidian 🔼 
 - [ ] #task faire cv 🔺
 - [ ] #task contacter cabinet recrutement 🔼 
-- [ ] #task contacter conseiller pole emploi ⏫ 
+- [x] #task contacter conseiller pole emploi ⏫ ✅ 2025-05-26
 - [ ] #task faire bilan finance ⏫ 
-- [ ] #task faire planning 🔺 
+- [x] #task faire planning 🔺 ✅ 2025-05-26
 - [ ] #task ranger chambre 🔽 
 - [ ] #task use Arc 🔽 
+- [ ] #task ranger/trier papier 🔼 
+- [ ] #task racheter calecon/chaussure ⏫ 
