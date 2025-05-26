@@ -4,19 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "be6bf44986296324",
+        "id": "b44cb179a01d6210",
         "type": "tabs",
         "children": [
           {
-            "id": "78d832082ad0f47a",
+            "id": "b661382052db0d1b",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.8.4"
+                "file": "notes/ToSomething/ToDo.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.8.4"
+              "icon": "lucide-file",
+              "title": "ToDo"
             }
           }
         ]
@@ -72,7 +74,8 @@
               "title": "Signet"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -149,67 +152,83 @@
               "icon": "git-pull-request",
               "title": "Source Control"
             }
+          },
+          {
+            "id": "232e4eb096a453fd",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "Toutes les propriétés"
+            }
           }
         ],
         "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-excalidraw-plugin:New drawing": false,
       "switcher:Ouvrir le sélecteur rapide": false,
       "graph:Ouvrir la vue graphique": false,
       "canvas:Créer une nouvelle toile": false,
       "daily-notes:Ouvrir la note quotidienne": false,
       "templates:Insérer le modèle": false,
-      "command-palette:Ouvrir la palette de commandes": false
+      "command-palette:Ouvrir la palette de commandes": false,
+      "obsidian-projects:Open projects": false
     }
   },
-  "active": "78d832082ad0f47a",
+  "active": "b661382052db0d1b",
   "lastOpenFiles": [
+    "2025-05-26.md",
+    "Sans titre.canvas",
+    "notes/ToSomething/ToDo.md",
     "conflict-files-obsidian-git.md",
+    "Excalidraw/CLI_Arch.md",
+    "Excalidraw",
+    "zettelkasten/2025-03-24_Azure-Pipeline-Triggers.md",
+    "zettelkasten/2025-03-18_pyvisa.md",
+    "zettelkasten/2025-03-03_Python-signal-handler.md",
+    "zettelkasten",
+    "notes/ToSomething/ToWatch.md",
+    "notes/ToSomething/ToTest.md",
+    "notes/ToSomething/ToRead.md",
+    "notes/Doc/2025-02-18_Secrets_Management.md",
+    "notes/Doc/2025-02-18_Least_Privilege_principle.md",
+    "notes/Doc/2025-02-14_SFTP.md",
+    "notes/Doc/2025-01-27_Pipeline_run.md",
+    "notes/Doc/2025-01-24_Azure_Pipelines.md",
+    "Projects - Demo Project/What I Learned From Taking 15,000 Notes.md",
+    "Projects - Demo Project/The Best Notes You'll Ever Make.md",
+    "Projects - Demo Project/5 Mistakes I Made When I Started Using Obsidian.md",
+    "Projects - Demo Project/The Easiest Way to Start Taking Notes.md",
+    "Projects - Demo Project/Why You Should Be Taking More Notes.md",
+    "Projects - Demo Project",
     "zettelkasten/2024-11-19_ToDo.md",
     "notes/WorkingDoc/2025-01-14_python_app_detected_as_malware.md",
     "notes/WorkingDoc",
     "notes/ToSomething/2024-11-19_ToDo.md",
     "notes/ToSomething/2024-10-16_ToTest.md",
     "notes/ToSomething/2024-10-11_ToRead.md",
-    "notes/ToSomething/2024-07-02_ToWatch.md",
     "notes/ToSomething",
-    "notes/Doc/2025-01-13_Walrus-operator.md",
-    "notes/Doc/2024_07_01_Sphinx.md",
-    "notes/Doc/2024-10-30_Json-Schema.md",
-    "notes/Doc/2024-10-11_git_submodule.md",
-    "notes/Doc/2024-09-19_Test-Double.md",
-    "inbox/2025-02-14_SFTP.md",
-    "inbox/2025-01-27_Pipeline_run.md",
-    "inbox/2025-01-24_Azure_Pipelines.md",
     "inbox",
-    "hubs/ToSomething.md",
-    "hubs/Testlab.md",
-    "hubs/Communication_Protocol.md",
-    "hubs/Azure.md",
-    "notes/ToSometing/2024-10-11_ToRead.md",
-    "notes/Doc/Yaml Schema Python libraries.md",
-    "notes/Doc/Sphinx.md",
-    "notes/Doc/PySide.md",
-    "notes/Doc/Multithread vs SubProcess TestLab GUI.md",
-    "notes/Doc/Master-Worker.md",
-    "notes/Doc/FreeRTOS.md",
     "notes/Doc",
     "notes/ToSometing",
     "notes/cheat_sheet",
     "notes",
     "Pasted image 20240903174657.png",
     "Pasted image 20240903170121.png",
-    "hubs",
     "assets/img/protocol-buffers-concepts.png",
     "assets/img/Pasted image 20240618143948.png",
-    "assets/img/Pasted image 20240618114353.png",
-    "assets/img",
-    "assets",
-    "Sans titre.canvas"
+    "assets/img/Pasted image 20240618114353.png"
   ]
 }

@@ -1,3 +1,7 @@
 {
-  "promptDelete": false
+  "promptDelete": false,
+  "showLineNumber": false,
+  "tabSize": 4,
+  "vimMode": false,
+  "propertiesInDocument": "hidden"
 }
