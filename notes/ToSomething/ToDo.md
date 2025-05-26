@@ -7,16 +7,16 @@ urls:
 ---
 
 # ToDo
-- [ ] mettre en place password manager
-- [ ] demande passeport
-- [ ] alumnization
-- [ ] setup arch
-- [ ] mettre a jour page github
-- [ ] revoir workflow obsidian
-- [ ] faire cv 
-- [ ] contacter cabinet recrutement
-- [ ] contacter conseiller pole emploi
-- [ ] faire bilan finance
-- [ ] faire planning
-- [ ] ranger chambre
-- [ ] 
+- [ ] #task mettre en place password manager 🔼 
+- [ ] #task demande passeport lw🔽 
+- [ ] #task alumnization 🔽 
+- [ ] #task setup arch 🔼 
+- [ ] #task mettre a jour page github ⏫ 
+- [ ] #task revoir workflow obsidian 🔼 
+- [ ] #task faire cv 🔺
+- [ ] #task contacter cabinet recrutement 🔼 
+- [ ] #task contacter conseiller pole emploi ⏫ 
+- [ ] #task faire bilan finance ⏫ 
+- [ ] #task faire planning 🔺 
+- [ ] #task ranger chambre 🔽 
+- [ ] #task use Arc 🔽 
