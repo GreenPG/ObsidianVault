@@ -11,10 +11,12 @@
             "id": "bf12713f059d5db0",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Nouvel onglet"
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.8.10"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.8.10"
             }
           }
         ]
@@ -181,7 +183,7 @@
       "obsidian-projects:Open projects": false
     }
   },
-  "active": "49896d4460b0180c",
+  "active": "bf12713f059d5db0",
   "lastOpenFiles": [
     "conflict-files-obsidian-git.md",
     "Excalidraw/CLI_Arch.md",
