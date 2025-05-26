@@ -11,10 +11,13 @@
             "id": "a5a1e9127a85f858",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Nouvel onglet"
+              "type": "diff-view",
+              "state": {
+                "file": ".obsidian/workspace-mobile.json",
+                "staged": true
+              },
+              "icon": "git-pull-request",
+              "title": "Diff View (workspace-mobile.json)"
             }
           }
         ]
@@ -183,6 +186,7 @@
   },
   "active": "a5a1e9127a85f858",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
     "notes/ToSomething/ToDo.md",
     "notes/ToSomething/ToRead.md",
     "notes/ToSomething/ToWatch.md",
@@ -193,7 +197,6 @@
     "Sans titre.canvas",
     "2025-05-26.md",
     "notes/Doc/2024-10-11_git_submodule.md",
-    "conflict-files-obsidian-git.md",
     "Excalidraw/CLI_Arch.md",
     "Excalidraw",
     "notes/Doc/2025-03-03_Python-signal-handler.md",
