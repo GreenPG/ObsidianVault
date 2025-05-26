@@ -15,8 +15,8 @@ urls:
 - [ ] #task revoir workflow obsidian 🔼 
 - [ ] #task faire cv 🔺
 - [ ] #task contacter cabinet recrutement 🔼 
-- [ ] #task contacter conseiller pole emploi ⏫ 
+- [x] #task contacter conseiller pole emploi ⏫ ✅ 2025-05-26
 - [ ] #task faire bilan finance ⏫ 
-- [ ] #task faire planning 🔺 
+- [x] #task faire planning 🔺 ✅ 2025-05-26
 - [ ] #task ranger chambre 🔽 
 - [ ] #task use Arc 🔽 
