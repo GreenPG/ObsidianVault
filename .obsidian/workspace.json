@@ -4,19 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "3eab58d61dc712b0",
+        "id": "b44cb179a01d6210",
         "type": "tabs",
         "children": [
           {
-            "id": "bf12713f059d5db0",
+            "id": "b661382052db0d1b",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.8.10"
+                "file": "notes/ToSomething/ToDo.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.8.10"
+              "icon": "lucide-file",
+              "title": "ToDo"
             }
           }
         ]
@@ -72,7 +74,8 @@
               "title": "Signet"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -169,7 +172,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -183,8 +187,11 @@
       "obsidian-projects:Open projects": false
     }
   },
-  "active": "bf12713f059d5db0",
+  "active": "b661382052db0d1b",
   "lastOpenFiles": [
+    "2025-05-26.md",
+    "Sans titre.canvas",
+    "notes/ToSomething/ToDo.md",
     "conflict-files-obsidian-git.md",
     "Excalidraw/CLI_Arch.md",
     "Excalidraw",
@@ -195,7 +202,6 @@
     "notes/ToSomething/ToWatch.md",
     "notes/ToSomething/ToTest.md",
     "notes/ToSomething/ToRead.md",
-    "notes/ToSomething/ToDo.md",
     "notes/Doc/2025-02-18_Secrets_Management.md",
     "notes/Doc/2025-02-18_Least_Privilege_principle.md",
     "notes/Doc/2025-02-14_SFTP.md",
@@ -213,9 +219,7 @@
     "notes/ToSomething/2024-11-19_ToDo.md",
     "notes/ToSomething/2024-10-16_ToTest.md",
     "notes/ToSomething/2024-10-11_ToRead.md",
-    "notes/ToSomething/2024-07-02_ToWatch.md",
     "notes/ToSomething",
-    "notes/Doc/2025-01-13_Walrus-operator.md",
     "inbox",
     "notes/Doc",
     "notes/ToSometing",
@@ -225,7 +229,6 @@
     "Pasted image 20240903170121.png",
     "assets/img/protocol-buffers-concepts.png",
     "assets/img/Pasted image 20240618143948.png",
-    "assets/img/Pasted image 20240618114353.png",
-    "Sans titre.canvas"
+    "assets/img/Pasted image 20240618114353.png"
   ]
 }
