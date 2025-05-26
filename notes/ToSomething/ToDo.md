@@ -8,7 +8,7 @@ urls:
 
 # ToDo
 - [ ] #task mettre en place password manager 🔼 
-- [ ] #task demande passeport lw🔽 
+- [ ] #task demande passeport 🔽 
 - [ ] #task alumnization 🔽 
 - [ ] #task setup arch 🔼 
 - [ ] #task mettre a jour page github ⏫ 
