@@ -23,8 +23,3 @@ urls:
 - [ ] #task ranger/trier papier 🔼 
 - [ ] #task racheter calecon/chaussure ⏫
 - [ ] #task préparer repas 🔼 
-
-```tasks
-sort by priority
-```
-	
