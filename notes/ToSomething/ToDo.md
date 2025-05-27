@@ -13,7 +13,7 @@ urls:
 - [ ] #task setup arch 🔼 
 - [ ] #task mettre a jour page github ⏫ 
 - [ ] #task revoir workflow obsidian 🔼 
-- [ ] #task faire cv 🔺
+- [x] #task faire cv 🔺 ✅ 2025-05-27
 - [ ] #task contacter cabinet recrutement 🔼 
 - [x] #task contacter conseiller pole emploi ⏫ ✅ 2025-05-26
 - [ ] #task faire bilan finance ⏫ 
@@ -23,3 +23,8 @@ urls:
 - [ ] #task ranger/trier papier 🔼 
 - [ ] #task racheter calecon/chaussure ⏫
 - [ ] #task préparer repas 🔼 
+
+```tasks
+sort by priority
+```
+	
