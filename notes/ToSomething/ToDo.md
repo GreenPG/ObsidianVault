@@ -23,3 +23,4 @@ urls:
 - [ ] #task ranger/trier papier 🔼 
 - [ ] #task racheter calecon/chaussure ⏫
 - [ ] #task préparer repas 🔼 
+- [x] #task mettre a jour profil france travail ✅ 2025-05-27
