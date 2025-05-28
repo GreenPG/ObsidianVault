@@ -11,7 +11,7 @@ urls:
 - [ ] #task demande passeport 🔽 
 - [ ] #task alumnization 🔽 
 - [ ] #task setup arch 🔼 
-- [ ] #task mettre a jour page github ⏫ 
+- [x] #task mettre a jour page github ⏫ ✅ 2025-05-28
 - [ ] #task revoir workflow obsidian 🔼 
 - [x] #task faire cv 🔺 ✅ 2025-05-27
 - [ ] #task contacter cabinet recrutement 🔼 
