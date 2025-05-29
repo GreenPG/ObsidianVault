@@ -14,9 +14,10 @@ urls:
 - [x] #task mettre a jour page github ⏫ ✅ 2025-05-28
 - [ ] #task revoir workflow obsidian 🔼 
 - [x] #task faire cv 🔺 ✅ 2025-05-27
-- [ ] #task contacter cabinet recrutement 🔼 
+- [ ] #task contacter cabinet recrutement ⏫ 
 - [x] #task contacter conseiller pole emploi ⏫ ✅ 2025-05-26
-- [ ] #task faire bilan finance ⏫ 
+- [ ] #task faire bilan finance 🔺 
+- [ ] #task revoir abonnement crossfit ⏫ 
 - [x] #task faire planning 🔺 ✅ 2025-05-26
 - [ ] #task ranger chambre 🔽 
 - [ ] #task use Arc 🔽 
