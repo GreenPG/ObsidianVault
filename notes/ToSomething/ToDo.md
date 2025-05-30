@@ -16,7 +16,7 @@ urls:
 - [x] #task faire cv 🔺 ✅ 2025-05-27
 - [ ] #task contacter cabinet recrutement ⏫ 
 - [x] #task contacter conseiller pole emploi ⏫ ✅ 2025-05-26
-- [ ] #task faire bilan finance 🔺 
+- [x] #task faire bilan finance 🔺 ✅ 2025-05-30
 - [ ] #task revoir abonnement crossfit ⏫ 
 - [x] #task faire planning 🔺 ✅ 2025-05-26
 - [ ] #task ranger chambre 🔽 
@@ -25,3 +25,6 @@ urls:
 - [ ] #task racheter calecon/chaussure ⏫
 - [ ] #task préparer repas 🔼 
 - [x] #task mettre a jour profil france travail ✅ 2025-05-27
+- [ ] #task regarder les projets 42 🔼 
+- [ ] #task chercher offre emploi ⏫ 
+- [ ] 
