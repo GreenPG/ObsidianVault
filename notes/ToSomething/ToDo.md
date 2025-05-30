@@ -27,4 +27,4 @@ urls:
 - [x] #task mettre a jour profil france travail ✅ 2025-05-27
 - [ ] #task regarder les projets 42 🔼 
 - [ ] #task chercher offre emploi ⏫ 
-- [ ] 
+- [ ] #task lire livre technique (POO, conception systeme logiciels)

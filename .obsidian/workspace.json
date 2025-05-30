@@ -27,7 +27,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Recherche d'emploi.md",
+                "file": "notes/WorkingDoc/Recherche d'emploi.md",
                 "mode": "source",
                 "source": false
               },
@@ -201,10 +201,10 @@
       "obsidian-projects:Open projects": false
     }
   },
-  "active": "9bccebcbf7787aba",
+  "active": "904b89042b71845c",
   "lastOpenFiles": [
     "notes/ToSomething/ToDo.md",
-    "Recherche d'emploi.md",
+    "notes/WorkingDoc/Recherche d'emploi.md",
     "Sans titre.canvas",
     "conflict-files-obsidian-git.md",
     "notes/ToSomething/ToRead.md",
