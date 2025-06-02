@@ -29,4 +29,3 @@ urls:
 - [ ] #task lire livre technique (POO, conception systeme logiciels) 🔼 
 - [ ] #task refaire setup vim ⏫ 
 - [ ] #task trouver seance renfo crossfit poids du corps
-- [ ] 
