@@ -14,7 +14,7 @@ urls:
 - [x] #task mettre a jour page github ⏫ ✅ 2025-05-28
 - [ ] #task revoir workflow obsidian 🔼 
 - [x] #task faire cv 🔺 ✅ 2025-05-27
-- [ ] #task contacter cabinet recrutement ⏫  
+- [x] #task contacter cabinet recrutement ⏫ ✅ 2025-06-02
 - [x] #task contacter conseiller pole emploi ⏫ ✅ 2025-05-26
 - [x] #task faire bilan finance 🔺 ✅ 2025-05-30
 - [ ] #task revoir abonnement crossfit ⏫ 
@@ -28,3 +28,5 @@ urls:
 - [ ] #task chercher offre emploi ⏫ 
 - [ ] #task lire livre technique (POO, conception systeme logiciels) 🔼 
 - [ ] #task refaire setup vim ⏫ 
+- [ ] #task trouver seance renfo crossfit poids du corps
+- [ ] 
