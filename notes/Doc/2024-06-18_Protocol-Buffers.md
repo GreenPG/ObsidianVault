@@ -24,7 +24,7 @@ Protocol Buffers are not a good fit when:
 - with non-OOP languages popular in scientific computing (ex: Fortran, IDL)
 - you cannot fully interpret PB messages without access to it's correspond .proto file.
 
-![[Pasted image 20240618143948.png]]:w
+![[Pasted image 20240618143948.png]]
 Protocol Buffers workflow
 
 ## PB Definition Syntax
