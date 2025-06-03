@@ -22,7 +22,7 @@ urls:
 - [ ] #task ranger chambre 🔽 
 - [ ] #task ranger/trier papier 🔼 
 - [ ] #task racheter calecon/chaussure ⏫
-- [ ] #task préparer repas 🔼 
+- [x] #task préparer repas 🔼 ✅ 2025-06-03
 - [x] #task mettre a jour profil france travail ✅ 2025-05-27
 - [ ] #task regarder les projets 42 🔼 
 - [ ] #task chercher offre emploi ⏫ 
