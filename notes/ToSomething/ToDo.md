@@ -27,5 +27,5 @@ urls:
 - [ ] #task regarder les projets 42 🔼 
 - [ ] #task chercher offre emploi ⏫ 
 - [ ] #task lire livre technique (POO, conception systeme logiciels) 🔼 
-- [ ] #task refaire setup vim ⏫ 
+- [x] #task refaire setup vim ⏫ ✅ 2025-06-03
 - [ ] #task trouver seance renfo crossfit poids du corps
