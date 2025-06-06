@@ -29,3 +29,4 @@ urls:
 - [ ] #task lire livre technique (POO, conception systeme logiciels) 🔼 
 - [x] #task refaire setup vim ⏫ ✅ 2025-06-03
 - [ ] #task trouver seance renfo crossfit poids du corps
+- [ ] #task rembourser place viktorovich
