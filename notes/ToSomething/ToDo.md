@@ -30,4 +30,4 @@ urls:
 - [x] #task refaire setup vim ⏫ ✅ 2025-06-03
 - [ ] #task trouver seance renfo crossfit poids du corps
 - [ ] #task rembourser place viktorovich 🔼 
-- [ ] 
+- [ ] #task check hackerrank 🔼 
