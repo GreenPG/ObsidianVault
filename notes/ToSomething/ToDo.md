@@ -31,3 +31,4 @@ urls:
 - [ ] #task trouver seance renfo crossfit poids du corps
 - [ ] #task rembourser place viktorovich 🔼 
 - [ ] #task check hackerrank 🔼 
+- [ ] #task contacter assurance pour lave linge 🔺 
