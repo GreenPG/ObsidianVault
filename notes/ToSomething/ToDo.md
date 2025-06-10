@@ -32,3 +32,4 @@ urls:
 - [ ] #task rembourser place viktorovich 🔼 
 - [ ] #task check hackerrank 🔼 
 - [ ] #task contacter assurance pour lave linge 🔺 
+- [ ] #task verifier mutuelle ⏫ 
