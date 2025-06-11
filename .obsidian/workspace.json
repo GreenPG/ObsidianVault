@@ -35,7 +35,8 @@
               "title": "Recherche d'emploi"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -201,10 +202,10 @@
       "obsidian-projects:Open projects": false
     }
   },
-  "active": "a5a1e9127a85f858",
+  "active": "9bccebcbf7787aba",
   "lastOpenFiles": [
-    "notes/WorkingDoc/Recherche d'emploi.md",
     "notes/ToSomething/ToDo.md",
+    "notes/WorkingDoc/Recherche d'emploi.md",
     "Sans titre.canvas",
     "conflict-files-obsidian-git.md",
     "notes/ToSomething/ToRead.md",
