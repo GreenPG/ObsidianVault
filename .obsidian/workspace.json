@@ -34,9 +34,23 @@
               "icon": "lucide-file",
               "title": "Recherche d'emploi"
             }
+          },
+          {
+            "id": "2ad97098a25b734c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2025-06-19_Webinar_Entretien_Software_engineer.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "2025-06-19_Webinar_Entretien_Software_engineer"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -93,8 +107,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "70c13890a81f7e1a",
@@ -202,39 +215,39 @@
       "obsidian-projects:Open projects": false
     }
   },
-  "active": "9bccebcbf7787aba",
+  "active": "2ad97098a25b734c",
   "lastOpenFiles": [
-    "notes/ToSomething/ToDo.md",
+    "notes/WorkingDoc/2025-01-14_python_app_detected_as_malware.md",
+    "hubs/Recherche_Emploi.md",
     "notes/WorkingDoc/Recherche d'emploi.md",
+    "2025-06-19_Webinar_Entretien_Software_engineer.md",
+    "notes/Doc/2025-03-03_Python-signal-handler.md",
+    "notes/Doc/2025-01-24_Azure_Pipelines.md",
+    "notes/Doc/2024-09-11_Pull-request.md",
+    "notes/Doc/2024-06-26_Reu_Technique_Decouplage.md",
+    "notes/Doc/2024_07_01_Sphinx.md",
+    "notes/ToSomething/ToTest.md",
+    "Templates/NewNote.md",
+    "Templates/note.md",
+    "notes/ToSomething/ToDo.md",
     "Sans titre.canvas",
     "conflict-files-obsidian-git.md",
     "notes/ToSomething/ToRead.md",
     "notes/ToSomething/ToWatch.md",
-    "notes/ToSomething/ToTest.md",
-    "notes/WorkingDoc/2025-01-14_python_app_detected_as_malware.md",
     "notes/Doc/2025-03-18_pyvisa.md",
     "notes/Doc/2025-03-24_Azure-Pipeline-Triggers.md",
     "2025-05-26.md",
     "notes/Doc/2024-10-11_git_submodule.md",
     "Excalidraw/CLI_Arch.md",
     "Excalidraw",
-    "notes/Doc/2025-03-03_Python-signal-handler.md",
     "zettelkasten",
     "notes/Doc/2025-02-18_Secrets_Management.md",
     "notes/Doc/2025-02-18_Least_Privilege_principle.md",
     "notes/Doc/2025-02-14_SFTP.md",
     "notes/Doc/2025-01-27_Pipeline_run.md",
-    "notes/Doc/2025-01-24_Azure_Pipelines.md",
     "Projects - Demo Project/What I Learned From Taking 15,000 Notes.md",
-    "Projects - Demo Project/The Best Notes You'll Ever Make.md",
-    "Projects - Demo Project/5 Mistakes I Made When I Started Using Obsidian.md",
-    "Projects - Demo Project/The Easiest Way to Start Taking Notes.md",
-    "Projects - Demo Project/Why You Should Be Taking More Notes.md",
     "Projects - Demo Project",
-    "zettelkasten/2024-11-19_ToDo.md",
     "notes/WorkingDoc",
-    "notes/ToSomething/2024-11-19_ToDo.md",
-    "notes/ToSomething/2024-10-16_ToTest.md",
     "notes/ToSomething",
     "inbox",
     "notes/Doc",
