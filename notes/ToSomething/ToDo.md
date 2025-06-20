@@ -7,7 +7,7 @@ urls:
 ---
 
 # ToDo
-- [ ] #task mettre en place password manager 🔼 
+- [x] #task mettre en place password manager 🔼 ✅ 2025-06-13
 - [ ] #task demande passeport 🔽 
 - [ ] #task alumnization 🔽  
 - [x] #task setup arch 🔼 ✅ 2025-05-30
