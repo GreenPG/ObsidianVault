@@ -27,30 +27,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/WorkingDoc/Recherche d'emploi.md",
+                "file": "notes/WorkingDoc/Ivy Partners.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Recherche d'emploi"
-            }
-          },
-          {
-            "id": "2ad97098a25b734c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2025-06-19_Webinar_Entretien_Software_engineer.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "2025-06-19_Webinar_Entretien_Software_engineer"
+              "title": "Ivy Partners"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -107,7 +93,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "70c13890a81f7e1a",
@@ -205,30 +192,31 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false,
       "obsidian-excalidraw-plugin:New drawing": false,
+      "switcher:Ouvrir le sélecteur rapide": false,
+      "graph:Ouvrir la vue graphique": false,
+      "canvas:Créer une nouvelle toile": false,
+      "daily-notes:Ouvrir la note quotidienne": false,
+      "templates:Insérer le modèle": false,
+      "command-palette:Ouvrir la palette de commandes": false,
       "obsidian-projects:Open projects": false
     }
   },
-  "active": "2ad97098a25b734c",
+  "active": "9bccebcbf7787aba",
   "lastOpenFiles": [
-    "notes/WorkingDoc/2025-01-14_python_app_detected_as_malware.md",
-    "hubs/Recherche_Emploi.md",
     "notes/WorkingDoc/Recherche d'emploi.md",
+    "notes/WorkingDoc/Ivy Partners.md",
+    "notes/WorkingDoc/2025-01-14_python_app_detected_as_malware.md",
+    "Templates/NewNote.md",
+    "Templates/note.md",
     "2025-06-19_Webinar_Entretien_Software_engineer.md",
+    "hubs/Recherche_Emploi.md",
     "notes/Doc/2025-03-03_Python-signal-handler.md",
     "notes/Doc/2025-01-24_Azure_Pipelines.md",
     "notes/Doc/2024-09-11_Pull-request.md",
     "notes/Doc/2024-06-26_Reu_Technique_Decouplage.md",
     "notes/Doc/2024_07_01_Sphinx.md",
     "notes/ToSomething/ToTest.md",
-    "Templates/NewNote.md",
-    "Templates/note.md",
     "notes/ToSomething/ToDo.md",
     "Sans titre.canvas",
     "conflict-files-obsidian-git.md",
@@ -245,7 +233,6 @@
     "notes/Doc/2025-02-18_Least_Privilege_principle.md",
     "notes/Doc/2025-02-14_SFTP.md",
     "notes/Doc/2025-01-27_Pipeline_run.md",
-    "Projects - Demo Project/What I Learned From Taking 15,000 Notes.md",
     "Projects - Demo Project",
     "notes/WorkingDoc",
     "notes/ToSomething",
