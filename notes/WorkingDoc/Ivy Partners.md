@@ -23,7 +23,7 @@ Poste de Software Engineer Python avec affinite DevOps.
 Cabinet de conseil d'orientation strategique, d'innovation et transformation par la technologie. Accompagne dans la transformation numerique
 Propose:
 - conseil et accompagnement
-- externalisation et services de getions
+- externalisation et services de gestion
 - solution techno
 
 
