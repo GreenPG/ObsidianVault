@@ -35,8 +35,7 @@
               "title": "Ivy Partners"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -202,10 +201,10 @@
       "obsidian-projects:Open projects": false
     }
   },
-  "active": "9bccebcbf7787aba",
+  "active": "a5a1e9127a85f858",
   "lastOpenFiles": [
-    "notes/WorkingDoc/Recherche d'emploi.md",
     "notes/WorkingDoc/Ivy Partners.md",
+    "notes/WorkingDoc/Recherche d'emploi.md",
     "notes/WorkingDoc/2025-01-14_python_app_detected_as_malware.md",
     "Templates/NewNote.md",
     "Templates/note.md",
