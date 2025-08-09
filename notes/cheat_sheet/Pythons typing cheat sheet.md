@@ -11,7 +11,7 @@ urls:
 For most types, just use the name of the type in the annotation
 Note that mypy can usually infer the type of a variable from its value,
 so technically these annotations are redundant
-```
+```python
 x: int = 1
 x: float = 1.0
 x: bool = True
@@ -19,28 +19,28 @@ x: str = "test"
 x: bytes = b"test"
 ```
 For collections on Python 3.9+, the type of the collection item is in brackets
-```
+```python
 x: list[int] = [1]
 x: set[int] = {6, 7}
 ```
 
 For mappings, we need the types of both keys and values
-```
+```python
 x: dict[str, float] = {"field": 2.0}  # Python 3.9+
 ```
 For tuples of fixed size, we specify the types of all the elements
-```
+```python
 x: tuple[int, str, float] = (3, "yes", 7.5)  # Python 3.9+
 ```
  For tuples of variable size, we use one type and ellipsis
-```
+```python
 x: tuple[int, ...] = (1, 2, 3)  # Python 3.9+
 ```
 
 On Python 3.8 and earlier, the name of the collection type is
 capitalized, and the type is imported from the 'typing' module
 from typing import List, Set, Dict, Tuple
-```
+```python
 x: List[int] = [1]
 x: Set[int] = {6, 7}
 x: Dict[str, float] = {"field": 2.0}
@@ -236,7 +236,7 @@ def stringify(func: Callable[P, T]) -> Callable[P, str]:
 
 Inserting argument:
 
-```
+```python
 from typing import Callable, TypeVar
 from typing_extensions import Concatenate, ParamSpec
 
@@ -255,5 +255,4 @@ def add_forty_two(value: int) -> int:
 
 a = add_forty_two('three', 3)
 ```
-
 
