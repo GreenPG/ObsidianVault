@@ -1,12 +1,4 @@
 ---
-date: 2025-06-22
-tags: 
-hubs:
-  - "[[]]"
-urls:
----
-
----
 date:  2025-06-22
 tags:
     - #WorkingDoc
