@@ -15,7 +15,8 @@ urls:
     -
 ---
 
-# {{date:dddd D MMMM YYYY}}
+# {{date}}
+
 
 
 ## Tasks
