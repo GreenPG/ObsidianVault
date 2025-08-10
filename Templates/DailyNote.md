@@ -15,7 +15,7 @@ urls:
     -
 ---
 
-# {{date}}
+# {{date:dddd D MMMM YYYY}}
 
 
 
