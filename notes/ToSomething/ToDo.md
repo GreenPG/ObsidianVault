@@ -8,7 +8,7 @@ urls:
 
 # ToDo
 - [x] #task mettre en place password manager 🔼 ✅ 2025-06-13
-- [ ] #task demande passeport 🔽  
+- [x] #task demande passeport 🔽 ✅ 2025-08-11
 - [x] #task alumnization 🔽 ✅ 2025-08-09
 - [x] #task setup arch 🔼 ✅ 2025-05-30
 - [x] #task mettre a jour page github ⏫ ✅ 2025-05-28
@@ -19,7 +19,7 @@ urls:
 - [x] #task faire bilan finance 🔺 ✅ 2025-05-30
 - [x] #task revoir abonnement crossfit ⏫ ✅ 2025-06-10
 - [x] #task faire planning 🔺 ✅ 2025-05-26
-- [ ] #task ranger chambre 🔽 
+- [x] #task ranger chambre 🔽 ✅ 2025-08-11
 - [ ] #task ranger/trier papier 🔼 
 - [x] #task racheter calecon/chaussure ⏫ ✅ 2025-08-09
 - [x] #task préparer repas 🔼 ✅ 2025-06-03

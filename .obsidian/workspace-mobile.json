@@ -13,12 +13,22 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/ToSomething/ToDo.md",
+                "file": "2025-08-11.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "ToDo"
+              "title": "2025-08-11"
+            }
+          },
+          {
+            "id": "42b22eb999615e2b",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
         ]
@@ -49,7 +59,7 @@
         "state": {
           "type": "search",
           "state": {
-            "query": "",
+            "query": "tag:#task",
             "matchingCase": false,
             "explainSearch": false,
             "collapseAll": false,
@@ -98,7 +108,7 @@
         }
       }
     ],
-    "currentTab": 0
+    "currentTab": 1
   },
   "right": {
     "id": "fed89c72a62ef4e1",
@@ -166,6 +176,10 @@
   },
   "active": "03051c7402ed075c",
   "lastOpenFiles": [
+    "2025-08-11.md",
+    "notes/Doc/2024-06-18_Protocol-Buffers.md",
+    "notes/WorkingDoc/Recherche d'emploi.md",
+    "notes/ToSomething/ToDo.md",
     "notes/Doc/2024-10-30_Json-Schema.md",
     "C/C++ keywords.md",
     "notes/Doc/2024-10-11_git_submodule.md",
