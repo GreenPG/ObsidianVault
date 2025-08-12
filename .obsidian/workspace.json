@@ -151,9 +151,14 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {},
+              "state": {
+                "file": "Templates/note.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
               "icon": "lucide-list",
-              "title": "Plan"
+              "title": "Outline of note"
             }
           },
           {
@@ -177,7 +182,19 @@
                 "searchQuery": ""
               },
               "icon": "lucide-archive",
-              "title": "Toutes les propriétés"
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "7923cee64d57e2e8",
+            "type": "leaf",
+            "state": {
+              "type": "file-properties",
+              "state": {
+                "file": "Templates/note.md"
+              },
+              "icon": "lucide-info",
+              "title": "File properties for note"
             }
           }
         ],
@@ -199,14 +216,14 @@
       "obsidian-projects:Open projects": false
     }
   },
-  "active": "904b89042b71845c",
+  "active": "8b0a5c060749ebd1",
   "lastOpenFiles": [
-    "notes/ToSomething/ToWatch.md",
-    "inbox/2025-08-13.md",
-    "notes/dailies",
-    "inbox",
-    "hubs/Sans titre",
-    "inbox/2025-08-11.md",
+    "Templates/DailyNote.md",
+    "zettelkasten/2025-08-09_dqds.md",
+    "inbox/2025-08-09_dqsdqs.md",
+    "2025-08-09.md",
+    "Templates/Daily Note.md",
+    "Untitled.md",
     "2025-06-19_Webinar_Entretien_Software_engineer.md",
     "Templates/DailyNote.md",
     "notes/WorkingDoc/Recherche d'emploi.md",
