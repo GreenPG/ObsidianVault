@@ -7,6 +7,7 @@ hubs:
 urls:
     - https://yukaichou.com/lifestyle-gamification/lifestyle-gamification/
     - https://yukaichou.com/lifestyle-gamification/how-to-start-the-fd-lifestyle/
+    - https://yukaichou.com/gamification-examples/octalysis-complete-gamification-framework/
 
 ---
 
@@ -16,6 +17,8 @@ urls:
 Méthode qui consiste à se considérer comme un perso de RPG, et vivre ça vie comme on le 
 ferait dans un jeu. Encourage à faire des choses qui nous plaisent plutôt que de vivre
 passivement.
+Il consiste à transposer des mécaniques de jeu dans la vraie vie afin d'engager et 
+motiver les personnes à travers leurs moteurs principaux.
 
 
 ## 4 étapes pour maîtrise la gamification lifestyle (selon Yu-Kai Chou)
@@ -40,3 +43,16 @@ Il faut se concentrer sur ces compétences et ne pas se disperser.
 Après les 3 étapes précédentes, il ne reste plus qu'à bien s'entourer et réaliser des
 quêtes simples pour gagner de l'xp petit à petit et battre le jeu.
 
+
+## Octalysis Framework
+
+Le framework 8 moteurs principaux (Core Drivers) représentés par un octogone, incluant 
+Epic Meaning & Calling, Development & Accomplishment, Empowerment of Creativity & Feedback, 
+Ownership & Possession, Social Influence & Relatedness, Scarcity & Impatience, 
+Unpredicatability & Curiosity, and Loss & Avoidance.
+
+1. Epic Meaning & Calling
+---
+Le moteur quand un jour croît faire quelque chose plus grand que lui même, ou qu'il a
+été "choisi" pour le faire.
+Cela rentre aussi en jeu quand quelqu'un à la chance du débutant.
