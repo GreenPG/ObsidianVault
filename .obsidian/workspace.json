@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "inbox/2025-08-13.md",
+                "file": "inbox/2025-08-12_gamifying_life.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-08-13"
+              "title": "2025-08-12_gamifying_life"
             }
           }
         ]
@@ -205,12 +205,12 @@
   "active": "a5a1e9127a85f858",
   "lastOpenFiles": [
     "inbox/2025-08-12_gamifying_life.md~",
+    "inbox/2025-08-12.md",
     "notes/tools",
     "hubs/Organization.md",
     "notes/daily_notes/tools",
     "inbox/2025-08-12_gamifying_life.md",
     "notes/ToSomething/ToTest.md",
-    "inbox/2025-08-12.md",
     "zettelkasten/2025-08-11.md",
     "inbox",
     "notes/ToSomething/ToWatch.md",
@@ -241,7 +241,6 @@
     "notes/WorkingDoc",
     "notes/ToSomething",
     "inbox",
-    "notes/Doc",
     "Pasted image 20240903174657.png",
     "Pasted image 20240903170121.png",
     "assets/img/protocol-buffers-concepts.png",
