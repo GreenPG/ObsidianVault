@@ -44,15 +44,3 @@ Après les 3 étapes précédentes, il ne reste plus qu'à bien s'entourer et r�
 quêtes simples pour gagner de l'xp petit à petit et battre le jeu.
 
 
-## Octalysis Framework
-
-Le framework 8 moteurs principaux (Core Drivers) représentés par un octogone, incluant 
-Epic Meaning & Calling, Development & Accomplishment, Empowerment of Creativity & Feedback, 
-Ownership & Possession, Social Influence & Relatedness, Scarcity & Impatience, 
-Unpredicatability & Curiosity, and Loss & Avoidance.
-
-1. Epic Meaning & Calling
----
-Le moteur quand un jour croît faire quelque chose plus grand que lui même, ou qu'il a
-été "choisi" pour le faire.
-Cela rentre aussi en jeu quand quelqu'un à la chance du débutant.
