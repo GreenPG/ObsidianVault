@@ -73,5 +73,31 @@ Basé sur l'évitement que quelque chose de négatif arrive.
 
 ## Left Brain vs Right Core Drives
 
+Dans Octalysis, les drives à droite sont lié au cerveau droit, lié à la créativité,
+l'expression de soir et les aspects sociaux.
+Ceux de gauches sont liés au cerveau gauche, associés avec la logique, les calculs et la
+possession.
+(les cerveaux gauche et droits sont symboliques mais non pas de réalité scientifique)
+
+Les moteurs lié au cerveaux gauches sont des **motivateurs extrinsèques** alors que ceux
+de droite sont des **motivateurs intrinsèques**.
+
+Les motivateurs extrinsèques sont efficaces sur le court terme, mais la motivation des 
+utilisateurs disparait si on les enlèves, alors que les motivateurs intrinsèques sont
+toujours efficaces même si on ne les sollicite pas directement.
+
+## Gamification chapeau noir vs chapeau blanc
+
+Dans Octalysis, les drives en haut de l'octogone sont considérés comme des motivateur 
+positifs alors que ceux du bas sont consédirés comme des motivateurs négatifs.
+Les techniques se basant sur les motivateurs positifs sont appelés de la **gamification
+chapeau blanc** et celles se basant sur les négatives de la **gamification chapeau noir**.
+
+- chapeau blanc
+Permet d'exprimer sa créativé, de se sentir progresser à travers la maîtrise de compétences,
+et donne un plus haut sentiment de sens. Il fait se sentir l'utilisateur bien et puissant. 
+- chapeau noir
+Motivement grandement l'utilisateur par l'incertitude, la peur de perdre quelque chose ou
+parce qu'il y a des choses qu'il ne possède pas, mais est souvent désagréable.
 
 
