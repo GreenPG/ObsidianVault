@@ -8,7 +8,7 @@ urls:
 ---
 
 # 2024-10-16_ToTest 
-- Zellij
+
 - ArchLinux
 - librairies python:
 	- dependency-injector
