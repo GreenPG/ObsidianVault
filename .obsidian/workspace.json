@@ -11,10 +11,14 @@
             "id": "a5a1e9127a85f858",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "inbox/2025-08-13_10k_hp_step3.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2025-08-13_10k_hp_step3"
             }
           }
         ]
@@ -201,9 +205,10 @@
   },
   "active": "a5a1e9127a85f858",
   "lastOpenFiles": [
-    "inbox/2025-08-13_10k_hp_step3.md~",
-    "inbox/2025-08-12_10K_hp.md~",
     "inbox/2025-08-13_10k_kp_step2.md",
+    "inbox/2025-08-13_10k_hp_step3.md~",
+    "assets/img/Pasted image 20250813150327.png",
+    "inbox/2025-08-12_10K_hp.md~",
     "inbox/2025-08-13_10k_hp_step3.md",
     "inbox/2025-08-13_10k_hp_step3.md.md",
     "inbox/2025-08-13_10k_kp_step2.md~",
