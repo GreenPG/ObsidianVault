@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/ToSomething/ToWatch.md",
+                "file": "inbox/2025-08-13.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "ToWatch"
+              "title": "2025-08-13"
             }
           },
           {
@@ -201,13 +201,14 @@
   },
   "active": "904b89042b71845c",
   "lastOpenFiles": [
+    "notes/ToSomething/ToWatch.md",
+    "inbox/2025-08-13.md",
     "notes/dailies",
     "inbox",
     "hubs/Sans titre",
     "inbox/2025-08-11.md",
     "2025-06-19_Webinar_Entretien_Software_engineer.md",
     "Templates/DailyNote.md",
-    "notes/ToSomething/ToWatch.md",
     "notes/WorkingDoc/Recherche d'emploi.md",
     "notes/ToSomething/ToDo.md",
     "notes/WorkingDoc/Ivy Partners.md",
@@ -237,7 +238,6 @@
     "notes/ToSomething",
     "inbox",
     "notes/Doc",
-    "notes/ToSometing",
     "Pasted image 20240903174657.png",
     "Pasted image 20240903170121.png",
     "assets/img/protocol-buffers-concepts.png",
