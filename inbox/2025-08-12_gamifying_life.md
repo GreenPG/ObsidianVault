@@ -7,7 +7,6 @@ hubs:
 urls:
     - https://yukaichou.com/lifestyle-gamification/lifestyle-gamification/
     - https://yukaichou.com/lifestyle-gamification/how-to-start-the-fd-lifestyle/
-    - https://yukaichou.com/gamification-examples/octalysis-complete-gamification-framework/
 
 ---
 
