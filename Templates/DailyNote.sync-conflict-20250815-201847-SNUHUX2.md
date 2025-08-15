@@ -43,6 +43,8 @@ sort by urgency
 ## Log
 
 
+
+
 ## Today's notes
 
 ```dataview

@@ -1,0 +1,5 @@
+# This directory is a Syncthing folder marker.
+# Do not delete.
+
+folderID: nlnb7-tobnf
+created: 2025-08-15T20:18:38+02:00
